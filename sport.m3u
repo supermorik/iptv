@@ -1,24 +1,4 @@
 #EXTM3U
-#EXTINF:-1, Digi Sport 1
-http://46.36.36.137/tv1/live/live.m3u8
-#EXTINF:-1, Digi Sport 2
-http://46.36.36.137/tv2/live/live.m3u8
-#EXTINF:-1, Digi Sport 3
-http://46.36.36.137/tv3/live/live.m3u8
-#EXTINF:-1, Digi Sport 1
-http://82.76.249.81/digiedge/digisport1ehq/index.m3u8?is=1&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1, Digi Sport 2
-http://82.76.249.81/digiedge/digisport2ehq/index.m3u8?is=2&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1, Digi Sport 3
-http://82.76.249.81/digiedge/digisport3ehq/index.m3u8?is=3&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1, Digi Sport 4
-http://82.76.249.81/digiedge/digisport4ehq/index.m3u8?is=49&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1,BEIN_MOVIES2
-http://cdn.step-tv.com:8000/live/nadal/nadal/1749.m3u8
-#EXTINF:-1,BEIN_MOVIES
-http://cdn.step-tv.com:8000/live/nadal/nadal/1748.m3u8
-#EXTINF:-1,BEIN_NEWS
-http://cdn.step-tv.com:8000/live/nadal/nadal/1754.m3u8
 #EXTINF:-1,BEIN_SPORTS_1
 http://cdn.step-tv.com:8000/live/nadal/nadal/1209.m3u8
 #EXTINF:-1,BEIN_SPORTS_2
@@ -39,3 +19,17 @@ http://cdn.step-tv.com:8000/live/nadal/nadal/1216.m3u8
 http://cdn.step-tv.com:8000/live/nadal/nadal/1217.m3u8
 #EXTINF:-1,BEIN_SPORTS_10
 http://cdn.step-tv.com:8000/live/nadal/nadal/1218.m3u8
+#EXTINF:-1, Digi Sport 1
+http://46.36.36.137/tv1/live/live.m3u8
+#EXTINF:-1, Digi Sport 2
+http://46.36.36.137/tv2/live/live.m3u8
+#EXTINF:-1, Digi Sport 3
+http://46.36.36.137/tv3/live/live.m3u8
+#EXTINF:-1, Digi Sport 1
+http://82.76.249.81/digiedge/digisport1ehq/index.m3u8?is=1&src=digi-online.ro&t=00000000000000000000000000000000
+#EXTINF:-1, Digi Sport 2
+http://82.76.249.81/digiedge/digisport2ehq/index.m3u8?is=2&src=digi-online.ro&t=00000000000000000000000000000000
+#EXTINF:-1, Digi Sport 3
+http://82.76.249.81/digiedge/digisport3ehq/index.m3u8?is=3&src=digi-online.ro&t=00000000000000000000000000000000
+#EXTINF:-1, Digi Sport 4
+http://82.76.249.81/digiedge/digisport4ehq/index.m3u8?is=49&src=digi-online.ro&t=00000000000000000000000000000000
