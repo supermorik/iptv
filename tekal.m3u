@@ -3,6 +3,8 @@
 http://foxtv-i.mncdn.com/r_foxtv/foxtv3/playlist.m3u8
 #EXTINF:-1, FOX TV HD
 http://hdtvizle.ru/14452/71930/71968/foxtv.m3u8    
+#EXTINF: -1, Star Tv
+http://188.72.131.226/star.m3u8
 #EXTINF:0, STAR TV
 http://origin.live.web.tv.streamprovider.net/streams/7acfc999bbde179fc45f18506125345f_live_0_0/index.m3u8
 #EXTINF:0, KANAL D
