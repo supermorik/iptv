@@ -13,26 +13,6 @@ http://82.76.249.81/digiedge/digisport2ehq/index.m3u8?is=2&src=digi-online.ro&t=
 http://82.76.249.81/digiedge/digisport3ehq/index.m3u8?is=3&src=digi-online.ro&t=00000000000000000000000000000000
 #EXTINF:-1, Digi Sport 4
 http://82.76.249.81/digiedge/digisport4ehq/index.m3u8?is=49&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1,BEIN_SPORTSHD1
-http://cdn.step-tv.com:8000/live/nadal/nadal/26.m3u8
-#EXTINF:-1,BEIN_SPORTSHD2
-http://cdn.step-tv.com:8000/live/nadal/nadal/27.m3u8
-#EXTINF:-1,BEIN_SPORTSHD3
-http://cdn.step-tv.com:8000/live/nadal/nadal/28.m3u8
-#EXTINF:-1,BEIN_SPORTSHD4
-http://cdn.step-tv.com:8000/live/nadal/nadal/29.m3u8
-#EXTINF:-1,BEIN_SPORTSHD5
-http://cdn.step-tv.com:8000/live/nadal/nadal/30.m3u8
-#EXTINF:-1,BEIN_SPORTSHD6
-http://cdn.step-tv.com:8000/live/nadal/nadal/31.m3u8
-#EXTINF:-1,BEIN_SPORTSHD7
-http://cdn.step-tv.com:8000/live/nadal/nadal/32.m3u8
-#EXTINF:-1,BEIN_SPORTSHD8
-http://cdn.step-tv.com:8000/live/nadal/nadal/33.m3u8
-#EXTINF:-1,BEIN_SPORTSHD9
-http://cdn.step-tv.com:8000/live/nadal/nadal/34.m3u8
-#EXTINF:-1,BEIN_SPORTSHD10
-http://cdn.step-tv.com:8000/live/nadal/nadal/35.m3u8
 #EXTINF:-1,BEIN_MOVIES2
 http://cdn.step-tv.com:8000/live/nadal/nadal/1749.m3u8
 #EXTINF:-1,BEIN_MOVIES
