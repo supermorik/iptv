@@ -103,7 +103,7 @@ http://63.237.48.23/ios/IRIB_NAMAYESH/IRIB_NAMAYESH.m3u8
 http://s3.telewebion.com:1935/devices/namayesh-1000k.stream/playlist.m3u8?wmsAuthSign=aXNfZnJlZT0xJnNlcnZlcl90aW1lPTEyLzE2LzIwMTUgNDoxMToyNyBQTSZoYXNoX3ZhbHVlPWN1akN2UDR6amQ0bDQvUkljYmlQWUE9PSZ2YWxpZG1pbnV0ZXM9NjAwMA==
 #EXTINF:0, NAMAYESH HD 2
 http://s1.telewebion.com:1935/devices/_definst_/namayesh-1000k.stream/playlist.m3u8?wmsAuthSign=aXNfZnJlZT0xJnNlcnZlcl90aW1lPTEvOC8yMDE2IDE6NTY6MzIgUE0maGFzaF92YWx1ZT1qK2JlYnVlay9CazZjd3BoRVFpRnhRPT0mdmFsaWRtaW51dGVzPTYwMDA=
-#EXTINF:0, NAMAYESH HD 2
+#EXTINF:0, NAMAYESH HD 3
 http://s1.telewebion.com:1935/devices/_definst_/namayesh-500k.stream/playlist.m3u8?wmsAuthSign=aXNfZnJlZT0xJnNlcnZlcl90aW1lPTEvOC8yMDE2IDE6NTY6MzIgUE0maGFzaF92YWx1ZT1qK2JlYnVlay9CazZjd3BoRVFpRnhRPT0mdmFsaWRtaW51dGVzPTYwMDA=
 #EXTINF:0, SALAM TV
 http://63.237.48.3/ios/SALAMN_TV/SALAMN_TV.m3u8
@@ -173,4 +173,17 @@ http://63.237.48.23/ios/MI_TV/MI_TV.m3u8
 http://63.237.48.23/ios/FACE2/FACE2.m3u8
 #EXTINF:0,MTC
 http://mellitv.tulix.tv:1935/mellitv/myStream.sdp/playlist.m3u8
-
+#EXTINF:-1, SKY SPORTS 1
+http://live.pushpublish.tv/mylive/vskys1/playlist.m3u8
+#EXTINF:-1, SKY SPORTS 2
+http://live.pushpublish.tv/mylive/vskys2/playlist.m3u8
+#EXTINF:-1, SKY SPORTS 3
+http://live.pushpublish.tv/mylive/vskys3/playlist.m3u8
+#EXTINF:-1, SKY SPORTS 4
+http://live.pushpublish.tv/mylive/vskys4/playlist.m3u8
+#EXTINF:-1, SKY SPORTS 5
+http://live.pushpublish.tv/mylive/vskys5/playlist.m3u8
+#EXTINF:-1, BT Sport 1
+http://live.pushpublish.tv/mylive/vbt1/playlist.m3u8
+#EXTINF:-1, BT Sport 2
+http://live.pushpublish.tv/mylive/vbt2/playlist.m3u8
