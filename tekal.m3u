@@ -1,6 +1,6 @@
 ﻿#EXTM3U
 ﻿#EXTINF:0, FILMMAX
-﻿http://5.39.101.194:1935/live/filmaxfamilyhd_canlitvplay.com/playlist.m3u8
+http://5.39.101.194:1935/live/filmaxfamilyhd_canlitvplay.com/playlist.m3u8?wowzasessionid=175899928
 #EXTINF:0, FOX TV
 http://foxtv-i.mncdn.com/r_foxtv/foxtv3/playlist.m3u8
 #EXTINF:-1, FOX TV HD
