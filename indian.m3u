@@ -1,0 +1,40 @@
+#EXTM3U
+#EXTINF:-1,SUNNAH TVCH
+http://173.199.120.51/hls/sunnahtv.m3u8
+#EXTINF:-1,STAR PLUSCH
+http://173.199.120.51/hls/starplus.m3u8
+?#EXTM3U
+#EXTINF:-1,STAR PLUS USACH
+http://173.199.120.51/hls/usa_starplus.m3u8
+#EXTINF:-1,SONYCH
+http://173.199.120.51/hls/sonyhd.m3u8
+#EXTINF:-1,SONY USACH
+http://173.199.120.51/hls/usa_sonyhd.m3u8
+#EXTINF:-1,Zee TVCH
+http://173.199.120.51/hls/zeetvhd.m3u8
+#EXTINF:-1,B4U MOVIECH
+http://173.199.120.51/hls/filmy.m3u8
+#EXTINF:-1,Movies OKCH
+http://173.199.120.51/hls/moviesok.m3u8
+#EXTINF:-1,MTUNESCH
+http://173.199.120.51/hls/mtunes.m3u8
+#EXTINF:-1,COLORCH
+http://173.199.120.51/hls/colors.m3u8
+#EXTINF:-1,COLORS USCH
+http://173.199.120.51/hls/usa_colors.m3u8
+#EXTINF:-1,LIFE OKCH
+http://173.199.120.51/hls/lifeok.m3u8
+#EXTINF:-1,TEN KRICKETCH
+http://173.199.120.51/hls/tencricket.m3u8
+#EXTINF:-1,TEN SPORTSCH
+http://173.199.120.51/hls/tensports.m3u8
+#EXTINF:-1,TEN ACTIONCH
+http://173.199.120.51/hls/tenaction.m3u8
+#EXTINF:-1 ,STAR SPORTSCH 1
+http://173.199.120.51/hls/starcricket.m3u8
+#EXTINF:-1,STAR SPORTSCH 2
+http://173.199.120.51/hls/starsports2.m3u8
+#EXTINF:-1,STAR SPORTSCH 4
+http://173.199.120.51/hls/starsports4.m3u8
+#EXTINF:-1 ,SONY SIXCH
+http://173.199.120.51/hls/neosport.m3u8 
