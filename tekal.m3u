@@ -1,88 +1,52 @@
 ﻿#EXTM3U
-﻿#EXTINF:0, FILMMAX
-http://5.39.101.194:1935/live/filmaxfamilyhd_canlitvplay.com/playlist.m3u8?wowzasessionid=175899928
-#EXTINF:-1,TR: sinema tv 2
-http://iptv-volkan.ddns.net:8000/live/Javier/Javier/1673.m3u8
-#EXTINF:-1,TR: sinema tv2
-http://iptv-volkan.ddns.net:8000/live/Javier/Javier/1671.m3u8
-#EXTINF:-1,TR: FOX HD
-http://iptv-volkan.ddns.net:8000/live/Javier/Javier/1670.m3u8
 #EXTINF:0, FOX TV
 http://foxtv-i.mncdn.com/r_foxtv/foxtv3/playlist.m3u8
-#EXTINF:-1, FOX TV HD
-http://hdtvizle.ru/14452/71930/71968/foxtv.m3u8 
-#EXTINF:-1,TR: START TV
-http://iptv-volkan.ddns.net:8000/live/Javier/Javier/940.m3u8
-#EXTINF:-1,TR: EUROSTAR
-http://iptv-volkan.ddns.net:8000/live/Javier/Javier/1681.m3u8
 #EXTINF: -1, Star Tv
 http://188.72.131.226/star.m3u8
-#EXTINF:-1,TR: KANAL D
-http://iptv-volkan.ddns.net:8000/live/Javier/Javier/941.m3u8
 #EXTINF:0, KANAL D
 http://212.224.108.80/S1/HLS_LIVE/kanald/1000/prog_index.m3u8
-#EXTINF:-1,TR: ATV HD
-http://iptv-volkan.ddns.net:8000/live/Javier/Javier/1680.m3u8
 #EXTINF:0, ATV
 http://trkvz-m.ercdn.net/trkvz-temp/atvhdm.m3u8
-#EXTINF:-1, ATV HD
-http://hdtvizle.ru/14452/71930/71968/atv.m3u8
-#EXTINF:-1,TR: SHOW TV
-http://iptv-volkan.ddns.net:8000/live/Javier/Javier/1641.m3u8
-#EXTINF:0, SHOW TV
+#EXTINF:0, SHOW TV 1
 http://mn-l.mncdn.com/showturktv/showturktv1/playlist.m3u8
-#EXTINF:0, SHOW TV
+#EXTINF:0, SHOW TV 2
 http://mn-l.mncdn.com/showtv/showtv2/playlist.m3u8
-#EXTINF:-1, SHOW TV HD
+#EXTINF:-1, SHOW TV HD 3
 http://live-ciner.mncdn.net/showtv/showtv2/playlist.m3u8
-#EXTINF:-1, SHOW TV HD
+#EXTINF:-1, SHOW TV HD 4
 http://mn-i.mncdn.com/showtv/smil:showtv.smil/playlist.m3u8
-#EXTINF:-1,TR: TV8 HD
-http://iptv-volkan.ddns.net:8000/live/Javier/Javier/1675.m3u8
-#EXTINF:-1,TR: cine5
-http://iptv-volkan.ddns.net:8000/live/Javier/Javier/934.m3u8
 #EXTINF:0, FILTV
 http://tvlive.web.tv.streamprovider.net/akamairtmp/2daa5524735b98a7ab51ddd48663a474_live_0_0/chunklist.m3u8
-#EXTINF:-1,TR: KANAL TURK
-http://iptv-volkan.ddns.net:8000/live/Javier/Javier/944.m3u8
 #EXTINF:0, KANALTURK
 http://kanalturk-live.ercdn.com/kanalturk.m3u8
 #EXTINF:-1, BEYAZ TV 1
 http://ift.tt/1OTkMu3
 #EXTINF:-1, BEYAZ TV 1
 http://37.77.2.236:1935/beyaz/beyaz.stream/playlist.m3u8
-#EXTINF:-1,TR: TRT sport hd
-http://iptv-volkan.ddns.net:8000/live/Javier/Javier/945.m3u8
-#EXTINF:-1,TU: NTV SPORT
-http://iptv-volkan.ddns.net:8000/live/Javier/Javier/235.m3u8
-#EXTINF:-1,TR: KANAL 7 HD
-http://iptv-volkan.ddns.net:8000/live/Javier/Javier/1663.m3u8
 #EXTINF:-1, KANAL 7 HD
 http://livede.gostream.nl/kanal7hq/kanal7hq/playlist.m3u8
 #EXTINF:-1, KANAL 7 HD
 http://livetr.gostream.nl/kanal7hq/kanal7hq/playlist.m3u8
-#EXTINF:-1,TR: Kral TV
-http://iptv-volkan.ddns.net:8000/live/Javier/Javier/1658.m3u8
 #EXTINF:0, VOA Persian
 http://63.237.48.23/ios/VOA_PERSIAN/VOA_PERSIAN.m3u8
 #EXTINF:0, FARSI1
 http://63.237.48.23/ios/FARSI1/FARSI1.m3u8
 #EXTINF:0, Irib TV1
 http://63.237.48.23/ios/IRIB_TV1/IRIB_TV1.m3u8
-#EXTINF:0, Irib TV1 HD 1
-http://s3.telewebion.com:1935/devices/tv1-1000k.stream/playlist.m3u8?wmsAuthSign=aXNfZnJlZT0xJnNlcnZlcl90aW1lPTEyLzE2LzIwMTUgNDo4OjMwIFBNJmhhc2hfdmFsdWU9bnVrdXBCMi8wK3JCQWlvUSswKzJIUT09JnZhbGlkbWludXRlcz02MDAw
-#EXTINF:0, Irib TV1 HD 2
-http://s1.telewebion.com:1935/devices/_definst_/tv1-1000k.stream/playlist.m3u8?wmsAuthSign=aXNfZnJlZT0xJnNlcnZlcl90aW1lPTEvOC8yMDE2IDE6NTQ6NTAgUE0maGFzaF92YWx1ZT1zSUt2cG8xcUh1cjZuczBFZkpveUVBPT0mdmFsaWRtaW51dGVzPTYwMDA=
-#EXTINF:0, Irib TV1 HD 3
-http://s1.telewebion.com:1935/devices/_definst_/tv1-500k.stream/playlist.m3u8?wmsAuthSign=aXNfZnJlZT0xJnNlcnZlcl90aW1lPTEvOC8yMDE2IDE6NTQ6NTAgUE0maGFzaF92YWx1ZT1zSUt2cG8xcUh1cjZuczBFZkpveUVBPT0mdmFsaWRtaW51dGVzPTYwMDA=
+#EXTINF:0, Irib TV1 300kb
+http://s3.telewebion.com:1935/devices/_definst_/tv1-300k.stream/playlist.m3u8?wmsAuthSign=aXNfZnJlZT0xJnNlcnZlcl90aW1lPTEvMjIvMjAxNiA4OjQ3OjM1IFBNJmhhc2hfdmFsdWU9YWxEc2dBZGVPd3JmSXR5WCtqSkpWQT09JnZhbGlkbWludXRlcz02MDAw
+#EXTINF:0, Irib TV1 500kb
+http://s3.telewebion.com:1935/devices/_definst_/tv1-500k.stream/playlist.m3u8?wmsAuthSign=aXNfZnJlZT0xJnNlcnZlcl90aW1lPTEvMjIvMjAxNiA4OjQ4OjM0IFBNJmhhc2hfdmFsdWU9Q2NQQXdDWDlLY05FN3A0cTZiWHpzQT09JnZhbGlkbWludXRlcz02MDAw
+#EXTINF:0, Irib TV1 1000kb
+http://s3.telewebion.com:1935/devices/_definst_/tv1-1000k.stream/playlist.m3u8?wmsAuthSign=aXNfZnJlZT0xJnNlcnZlcl90aW1lPTEvMjIvMjAxNiA4OjQ4OjM0IFBNJmhhc2hfdmFsdWU9Q2NQQXdDWDlLY05FN3A0cTZiWHpzQT09JnZhbGlkbWludXRlcz02MDAw
 #EXTINF:0, Irib TV2
 http://63.237.48.23/ios/IRIB_TV2/IRIB_TV2.m3u8
-#EXTINF:0, Irib TV2 HD 1
-http://s3.telewebion.com:1935/devices/tv2-1000k.stream/playlist.m3u8?wmsAuthSign=aXNfZnJlZT0xJnNlcnZlcl90aW1lPTEyLzE2LzIwMTUgNDo5OjE0IFBNJmhhc2hfdmFsdWU9amFpMXBFcEVoRU5jclI0QTVRclZYQT09JnZhbGlkbWludXRlcz02MDAw
-#EXTINF:0, Irib TV2 HD 2
-http://s1.telewebion.com:1935/devices/_definst_/tv2-1000k.stream/playlist.m3u8?wmsAuthSign=aXNfZnJlZT0xJnNlcnZlcl90aW1lPTEvOC8yMDE2IDE6NTY6MzIgUE0maGFzaF92YWx1ZT1qK2JlYnVlay9CazZjd3BoRVFpRnhRPT0mdmFsaWRtaW51dGVzPTYwMDA=
-#EXTINF:0, Irib TV2 HD 3
-http://s1.telewebion.com:1935/devices/_definst_/tv2-500k.stream/playlist.m3u8?wmsAuthSign=aXNfZnJlZT0xJnNlcnZlcl90aW1lPTEvOC8yMDE2IDE6NTY6MzIgUE0maGFzaF92YWx1ZT1qK2JlYnVlay9CazZjd3BoRVFpRnhRPT0mdmFsaWRtaW51dGVzPTYwMDA=
+#EXTINF:0, Irib TV2 300kb
+http://s3.telewebion.com:1935/devices/_definst_/tv2-300k.stream/playlist.m3u8?wmsAuthSign=aXNfZnJlZT0xJnNlcnZlcl90aW1lPTEvMjIvMjAxNiA4OjQ3OjM1IFBNJmhhc2hfdmFsdWU9YWxEc2dBZGVPd3JmSXR5WCtqSkpWQT09JnZhbGlkbWludXRlcz02MDAw
+#EXTINF:0, Irib TV2 500kb 
+http://s3.telewebion.com:1935/devices/_definst_/tv2-500k.stream/playlist.m3u8?wmsAuthSign=aXNfZnJlZT0xJnNlcnZlcl90aW1lPTEvMjIvMjAxNiA4OjQ4OjM0IFBNJmhhc2hfdmFsdWU9Q2NQQXdDWDlLY05FN3A0cTZiWHpzQT09JnZhbGlkbWludXRlcz02MDAw
+#EXTINF:0, Irib TV2 1000kb
+http://s3.telewebion.com:1935/devices/_definst_/tv2-1000k.stream/playlist.m3u8?wmsAuthSign=aXNfZnJlZT0xJnNlcnZlcl90aW1lPTEvMjIvMjAxNiA4OjQ4OjM0IFBNJmhhc2hfdmFsdWU9Q2NQQXdDWDlLY05FN3A0cTZiWHpzQT09JnZhbGlkbWludXRlcz02MDAw
 #EXTINF:0, Irib TV3
 http://63.237.48.23/ios/IRIB_TV3/IRIB_TV3.m3u8
 #EXTINF:0, Irib TV3 HD 1
