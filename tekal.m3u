@@ -173,3 +173,5 @@ http://63.237.48.23/ios/FACE2/FACE2.m3u8
 http://mellitv.tulix.tv:1935/mellitv/myStream.sdp/playlist.m3u8
 #EXTINF:0,PMC
 http://63.237.48.23/ios/PMC/PMC.m3u8
+#EXTINF:0,MANOTO TV
+https://manoto1live-lh.akamaihd.net/i/Manoto1_0@50710/master.m3u8?hdnea=ip=109.189.100.5~st=1453500271~exp=1453516471~acl=/*~hmac=5e618f26041fcac8f1ed8f9ddd7e7dbd7d472a00e8d1edc4bce0a21f778628f7
