@@ -187,3 +187,19 @@ http://mellitv.tulix.tv:1935/mellitv/myStream.sdp/playlist.m3u8
 http://63.237.48.23/ios/PMC/PMC.m3u8
 #EXTINF:0,MANOTO TV
 https://manoto1live-lh.akamaihd.net/i/Manoto1_0@50710/master.m3u8?hdnea=ip=109.189.100.5~st=1454234378~exp=1454250578~acl=/*~hmac=6f0ac34b948f9461aa23786b5090e655c5817a468d280f45f09e68ac43cce234
+#EXTINF:-1, Sky sci fi & horror
+http://play.uktvnow.net:1935/live/mscifi.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgNToxMzoxNCBQTSZoYXNoX3ZhbHVlPTk5U0dKekdLd29CQzA0UzRzbzVBemc9PSZ2YWxpZG1pbnV0ZXM9MjA=
+#EXTINF:-1, Sky premiere
+http://play.uktvnow.net:1935/live/mpremiere.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgNToxMzoxNCBQTSZoYXNoX3ZhbHVlPTk5U0dKekdLd29CQzA0UzRzbzVBemc9PSZ2YWxpZG1pbnV0ZXM9MjA=
+#EXTINF:-1, Sky family
+http://play.uktvnow.net:1935/live/mfamily.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgNToxMzoxNCBQTSZoYXNoX3ZhbHVlPTk5U0dKekdLd29CQzA0UzRzbzVBemc9PSZ2YWxpZG1pbnV0ZXM9MjA=
+#EXTINF:-1, Sky drama
+http://play.uktvnow.net:1935/live/mdrama.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgNToxMzoxNCBQTSZoYXNoX3ZhbHVlPTk5U0dKekdLd29CQzA0UzRzbzVBemc9PSZ2YWxpZG1pbnV0ZXM9MjA=
+#EXTINF:-1, Sky crime & thriller
+http://play.uktvnow.net:1935/live/mcrime.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgNToxMzoxNCBQTSZoYXNoX3ZhbHVlPTk5U0dKekdLd29CQzA0UzRzbzVBemc9PSZ2YWxpZG1pbnV0ZXM9MjA=
+#EXTINF:-1, Sky action
+http://play.uktvnow.net:1935/live/maction.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgNToxMzoxNCBQTSZoYXNoX3ZhbHVlPTk5U0dKekdLd29CQzA0UzRzbzVBemc9PSZ2YWxpZG1pbnV0ZXM9MjA=
+#EXTINF:-1, Sky disney
+http://play.uktvnow.net:1935/live/mdisney.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgNToxMzoxNCBQTSZoYXNoX3ZhbHVlPTk5U0dKekdLd29CQzA0UzRzbzVBemc9PSZ2YWxpZG1pbnV0ZXM9MjA=
+#EXTINF:-1, Sky comedy
+http://play.uktvnow.net:1935/live/mcomedy.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgNToxMzoxNCBQTSZoYXNoX3ZhbHVlPTk5U0dKekdLd29CQzA0UzRzbzVBemc9PSZ2YWxpZG1pbnV0ZXM9MjA=
