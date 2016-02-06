@@ -83,8 +83,22 @@ http://pipeline.telewebion.com:1935/devices/_definst_/tehran-300k.stream/playlis
 http://pipeline.telewebion.com:1935/devices/_definst_/tehran-500k.stream/playlist.m3u8?wmsAuthSign=aXNfZnJlZT0xJnNlcnZlcl90aW1lPTIvNS8yMDE2IDg6MjQ6NCBQTSZoYXNoX3ZhbHVlPW5QK1QrWHNPMEZtcWkrQmw1aEg1Wnc9PSZ2YWxpZG1pbnV0ZXM9NjAwMA==
 #EXTINF:0, Irib TV5 1000kb
 http://pipeline.telewebion.com:1935/devices/_definst_/tehran-1000k.stream/playlist.m3u8?wmsAuthSign=aXNfZnJlZT0xJnNlcnZlcl90aW1lPTIvNS8yMDE2IDg6MjQ6NCBQTSZoYXNoX3ZhbHVlPW5QK1QrWHNPMEZtcWkrQmw1aEg1Wnc9PSZ2YWxpZG1pbnV0ZXM9NjAwMA==
+#EXTINF:0, NAMAYESH
+http://63.237.48.23/ios/IRIB_NAMAYESH/IRIB_NAMAYESH.m3u8
+#EXTINF:0, NAMAYESH 300kb
+http://pipeline.telewebion.com:1935/devices/_definst_/namayesh-300k.stream/playlist.m3u8?wmsAuthSign=aXNfZnJlZT0xJnNlcnZlcl90aW1lPTIvNS8yMDE2IDg6MjQ6NCBQTSZoYXNoX3ZhbHVlPW5QK1QrWHNPMEZtcWkrQmw1aEg1Wnc9PSZ2YWxpZG1pbnV0ZXM9NjAwMA==
+#EXTINF:0, NAMAYESH 500kb
+http://pipeline.telewebion.com:1935/devices/_definst_/namayesh-500k.stream/playlist.m3u8?wmsAuthSign=aXNfZnJlZT0xJnNlcnZlcl90aW1lPTIvNS8yMDE2IDg6MjQ6NCBQTSZoYXNoX3ZhbHVlPW5QK1QrWHNPMEZtcWkrQmw1aEg1Wnc9PSZ2YWxpZG1pbnV0ZXM9NjAwMA==
+#EXTINF:0, NAMAYESH 1000kb
+http://pipeline.telewebion.com:1935/devices/_definst_/namayesh-1000k.stream/playlist.m3u8?wmsAuthSign=aXNfZnJlZT0xJnNlcnZlcl90aW1lPTIvNS8yMDE2IDg6MjQ6NCBQTSZoYXNoX3ZhbHVlPW5QK1QrWHNPMEZtcWkrQmw1aEg1Wnc9PSZ2YWxpZG1pbnV0ZXM9NjAwMA==
 #EXTINF:0, VARZESH
 http://63.237.48.23/ios/VARZESH_TV/VARZESH_TV.m3u8
+#EXTINF:0,  VARZESH 300kb
+http://pipeline.telewebion.com:1935/devices/_definst_/varzesh-300k.stream/playlist.m3u8?wmsAuthSign=aXNfZnJlZT0xJnNlcnZlcl90aW1lPTIvNS8yMDE2IDg6MjQ6NCBQTSZoYXNoX3ZhbHVlPW5QK1QrWHNPMEZtcWkrQmw1aEg1Wnc9PSZ2YWxpZG1pbnV0ZXM9NjAwMA==
+#EXTINF:0,  VARZESH 500kb
+http://pipeline.telewebion.com:1935/devices/_definst_/varzesh-500k.stream/playlist.m3u8?wmsAuthSign=aXNfZnJlZT0xJnNlcnZlcl90aW1lPTIvNS8yMDE2IDg6MjQ6NCBQTSZoYXNoX3ZhbHVlPW5QK1QrWHNPMEZtcWkrQmw1aEg1Wnc9PSZ2YWxpZG1pbnV0ZXM9NjAwMA==
+#EXTINF:0,  VARZESH 1000kb
+http://pipeline.telewebion.com:1935/devices/_definst_/varzesh-1000k.stream/playlist.m3u8?wmsAuthSign=aXNfZnJlZT0xJnNlcnZlcl90aW1lPTIvNS8yMDE2IDg6MjQ6NCBQTSZoYXNoX3ZhbHVlPW5QK1QrWHNPMEZtcWkrQmw1aEg1Wnc9PSZ2YWxpZG1pbnV0ZXM9NjAwMA==
 #EXTINF:0, Irib Nasim
 http://63.237.48.23/ios/IRIB_NASIM/IRIB_NASIM.m3u8
 #EXTINF:0, IRIB MOSTANAD
@@ -97,14 +111,6 @@ http://63.237.48.23/ios/IRINN/IRINN.m3u8
 http://63.237.48.23/ios/IRIB_SHOMA/IRIB_SHOMA.m3u8
 #EXTINF:0, Pouya
 http://63.237.48.23/ios/POOYA_TV/POOYA_TV.m3u8
-#EXTINF:0, NAMAYESH
-http://63.237.48.23/ios/IRIB_NAMAYESH/IRIB_NAMAYESH.m3u8
-#EXTINF:0, NAMAYESH 300kb
-http://pipeline.telewebion.com:1935/devices/_definst_/namayesh-300k.stream/playlist.m3u8?wmsAuthSign=aXNfZnJlZT0xJnNlcnZlcl90aW1lPTIvNS8yMDE2IDg6MjQ6NCBQTSZoYXNoX3ZhbHVlPW5QK1QrWHNPMEZtcWkrQmw1aEg1Wnc9PSZ2YWxpZG1pbnV0ZXM9NjAwMA==
-#EXTINF:0, NAMAYESH 500kb
-http://pipeline.telewebion.com:1935/devices/_definst_/namayesh-500k.stream/playlist.m3u8?wmsAuthSign=aXNfZnJlZT0xJnNlcnZlcl90aW1lPTIvNS8yMDE2IDg6MjQ6NCBQTSZoYXNoX3ZhbHVlPW5QK1QrWHNPMEZtcWkrQmw1aEg1Wnc9PSZ2YWxpZG1pbnV0ZXM9NjAwMA==
-#EXTINF:0, NAMAYESH 1000kb
-http://pipeline.telewebion.com:1935/devices/_definst_/namayesh-1000k.stream/playlist.m3u8?wmsAuthSign=aXNfZnJlZT0xJnNlcnZlcl90aW1lPTIvNS8yMDE2IDg6MjQ6NCBQTSZoYXNoX3ZhbHVlPW5QK1QrWHNPMEZtcWkrQmw1aEg1Wnc9PSZ2YWxpZG1pbnV0ZXM9NjAwMA==
 #EXTINF:0, SALAM TV
 http://63.237.48.3/ios/SALAMN_TV/SALAMN_TV.m3u8
 #EXTINF:0,  HD 300kb
@@ -113,12 +119,6 @@ http://pipeline.telewebion.com:1935/devices/_definst_/hdtest-300k.stream/playlis
 http://pipeline.telewebion.com:1935/devices/_definst_/hdtest-500k.stream/playlist.m3u8?wmsAuthSign=aXNfZnJlZT0xJnNlcnZlcl90aW1lPTIvNS8yMDE2IDg6MjQ6NCBQTSZoYXNoX3ZhbHVlPW5QK1QrWHNPMEZtcWkrQmw1aEg1Wnc9PSZ2YWxpZG1pbnV0ZXM9NjAwMA==
 #EXTINF:0,  HD 1000kb
 http://pipeline.telewebion.com:1935/devices/_definst_/hdtest-1000k.stream/playlist.m3u8?wmsAuthSign=aXNfZnJlZT0xJnNlcnZlcl90aW1lPTIvNS8yMDE2IDg6MjQ6NCBQTSZoYXNoX3ZhbHVlPW5QK1QrWHNPMEZtcWkrQmw1aEg1Wnc9PSZ2YWxpZG1pbnV0ZXM9NjAwMA==
-#EXTINF:0,  VARZESH 300kb
-http://pipeline.telewebion.com:1935/devices/_definst_/varzesh-300k.stream/playlist.m3u8?wmsAuthSign=aXNfZnJlZT0xJnNlcnZlcl90aW1lPTIvNS8yMDE2IDg6MjQ6NCBQTSZoYXNoX3ZhbHVlPW5QK1QrWHNPMEZtcWkrQmw1aEg1Wnc9PSZ2YWxpZG1pbnV0ZXM9NjAwMA==
-#EXTINF:0,  VARZESH 500kb
-http://pipeline.telewebion.com:1935/devices/_definst_/varzesh-500k.stream/playlist.m3u8?wmsAuthSign=aXNfZnJlZT0xJnNlcnZlcl90aW1lPTIvNS8yMDE2IDg6MjQ6NCBQTSZoYXNoX3ZhbHVlPW5QK1QrWHNPMEZtcWkrQmw1aEg1Wnc9PSZ2YWxpZG1pbnV0ZXM9NjAwMA==
-#EXTINF:0,  VARZESH 1000kb
-http://pipeline.telewebion.com:1935/devices/_definst_/varzesh-1000k.stream/playlist.m3u8?wmsAuthSign=aXNfZnJlZT0xJnNlcnZlcl90aW1lPTIvNS8yMDE2IDg6MjQ6NCBQTSZoYXNoX3ZhbHVlPW5QK1QrWHNPMEZtcWkrQmw1aEg1Wnc9PSZ2YWxpZG1pbnV0ZXM9NjAwMA==
 #EXTINF:0, Quran TV
 http://63.237.48.23/ios/QURAN_TV/QURAN_TV.m3u8
 #EXTINF:0, Velayat TV
