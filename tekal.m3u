@@ -46,7 +46,7 @@ http://63.237.48.23/ios/FARSI1/FARSI1.m3u8
 #EXTINF:0, Irib TV1
 http://63.237.48.23/ios/IRIB_TV1/IRIB_TV1.m3u8
 #EXTINF:0, Irib TV1 300kb
-http://pipeline.telewebion.com:1935/devices/_definst_/tv1-300k.stream/playlist.m3u8?wmsAuthSign=aXNfZnJlZT0xJnNlcnZlcl90aW1lPTIvNS8yMDE2IDg6MjQ6NCBQTSZoYXNoX3ZhbHVlPW5QK1QrWHNPMEZtcWkrQmw1aEg1Wnc9PSZ2YWxpZG1pbnV0ZXM9NjAwMA==#EXTINF:0, Irib TV1 500kb
+http://pipeline.telewebion.com:1935/devices/_definst_/tv1-300k.stream/playlist.m3u8?wmsAuthSign=aXNfZnJlZT0xJnNlcnZlcl90aW1lPTIvNS8yMDE2IDg6MjQ6NCBQTSZoYXNoX3ZhbHVlPW5QK1QrWHNPMEZtcWkrQmw1aEg1Wnc9PSZ2YWxpZG1pbnV0ZXM9NjAwMA==
 #EXTINF:0, Irib TV1 500kb
 http://pipeline.telewebion.com:1935/devices/_definst_/tv1-500k.stream/playlist.m3u8?wmsAuthSign=aXNfZnJlZT0xJnNlcnZlcl90aW1lPTIvNS8yMDE2IDg6MjQ6NCBQTSZoYXNoX3ZhbHVlPW5QK1QrWHNPMEZtcWkrQmw1aEg1Wnc9PSZ2YWxpZG1pbnV0ZXM9NjAwMA==
 #EXTINF:0, Irib TV1 1000kb
@@ -66,7 +66,8 @@ http://pipeline.telewebion.com:1935/devices/_definst_/tv3-300k.stream/playlist.m
 #EXTINF:0, Irib TV3 500kb
 http://pipeline.telewebion.com:1935/devices/_definst_/tv3-500k.stream/playlist.m3u8?wmsAuthSign=aXNfZnJlZT0xJnNlcnZlcl90aW1lPTIvNi8yMDE2IDg6ODo1NSBBTSZoYXNoX3ZhbHVlPXRxWFdaRUZKdCt0V3A0TU0yQXhhREE9PSZ2YWxpZG1pbnV0ZXM9NjAwMA==
 #EXTINF:0, Irib TV3 1000kb
-http://pipeline.telewebion.com:1935/devices/_definst_/tv3-1000k.stream/playlist.m3u8?wmsAuthSign=aXNfZnJlZT0xJnNlcnZlcl90aW1lPTIvNi8yMDE2IDg6ODo1NSBBTSZoYXNoX3ZhbHVlPXRxWFdaRUZKdCt0V3A0TU0yQXhhREE9PSZ2YWxpZG1pbnV0ZXM9NjAwMA==#EXTINF:0, Irib TV4
+http://pipeline.telewebion.com:1935/devices/_definst_/tv3-1000k.stream/playlist.m3u8?wmsAuthSign=aXNfZnJlZT0xJnNlcnZlcl90aW1lPTIvNi8yMDE2IDg6ODo1NSBBTSZoYXNoX3ZhbHVlPXRxWFdaRUZKdCt0V3A0TU0yQXhhREE9PSZ2YWxpZG1pbnV0ZXM9NjAwMA==
+#EXTINF:0, Irib TV4
 http://63.237.48.23/ios/IRIB_TV4/IRIB_TV4.m3u8
 #EXTINF:0, Irib TV4 300kb
 http://pipeline.telewebion.com:1935/devices/_definst_/tv4-300k.stream/playlist.m3u8?wmsAuthSign=aXNfZnJlZT0xJnNlcnZlcl90aW1lPTIvNS8yMDE2IDg6MjQ6NCBQTSZoYXNoX3ZhbHVlPW5QK1QrWHNPMEZtcWkrQmw1aEg1Wnc9PSZ2YWxpZG1pbnV0ZXM9NjAwMA==
@@ -99,11 +100,11 @@ http://63.237.48.23/ios/POOYA_TV/POOYA_TV.m3u8
 #EXTINF:0, NAMAYESH
 http://63.237.48.23/ios/IRIB_NAMAYESH/IRIB_NAMAYESH.m3u8
 #EXTINF:0, NAMAYESH 300kb
-http://s3.telewebion.com:1935/devices/_definst_/namayesh-300k.stream/playlist.m3u8?wmsAuthSign=aXNfZnJlZT0xJnNlcnZlcl90aW1lPTEvMjIvMjAxNiA4OjQ3OjM1IFBNJmhhc2hfdmFsdWU9YWxEc2dBZGVPd3JmSXR5WCtqSkpWQT09JnZhbGlkbWludXRlcz02MDAw
+http://pipeline.telewebion.com:1935/devices/_definst_/namayesh-300k.stream/playlist.m3u8?wmsAuthSign=aXNfZnJlZT0xJnNlcnZlcl90aW1lPTIvNS8yMDE2IDg6MjQ6NCBQTSZoYXNoX3ZhbHVlPW5QK1QrWHNPMEZtcWkrQmw1aEg1Wnc9PSZ2YWxpZG1pbnV0ZXM9NjAwMA==
 #EXTINF:0, NAMAYESH 500kb
-http://s3.telewebion.com:1935/devices/_definst_/namayesh-500k.stream/playlist.m3u8?wmsAuthSign=aXNfZnJlZT0xJnNlcnZlcl90aW1lPTEvMjIvMjAxNiA4OjQ3OjM1IFBNJmhhc2hfdmFsdWU9YWxEc2dBZGVPd3JmSXR5WCtqSkpWQT09JnZhbGlkbWludXRlcz02MDAw
+http://pipeline.telewebion.com:1935/devices/_definst_/namayesh-500k.stream/playlist.m3u8?wmsAuthSign=aXNfZnJlZT0xJnNlcnZlcl90aW1lPTIvNS8yMDE2IDg6MjQ6NCBQTSZoYXNoX3ZhbHVlPW5QK1QrWHNPMEZtcWkrQmw1aEg1Wnc9PSZ2YWxpZG1pbnV0ZXM9NjAwMA==
 #EXTINF:0, NAMAYESH 1000kb
-http://s3.telewebion.com:1935/devices/_definst_/namayesh-1000k.stream/playlist.m3u8?wmsAuthSign=aXNfZnJlZT0xJnNlcnZlcl90aW1lPTEvMjIvMjAxNiA4OjQ3OjM1IFBNJmhhc2hfdmFsdWU9YWxEc2dBZGVPd3JmSXR5WCtqSkpWQT09JnZhbGlkbWludXRlcz02MDAw
+http://pipeline.telewebion.com:1935/devices/_definst_/namayesh-1000k.stream/playlist.m3u8?wmsAuthSign=aXNfZnJlZT0xJnNlcnZlcl90aW1lPTIvNS8yMDE2IDg6MjQ6NCBQTSZoYXNoX3ZhbHVlPW5QK1QrWHNPMEZtcWkrQmw1aEg1Wnc9PSZ2YWxpZG1pbnV0ZXM9NjAwMA==
 #EXTINF:0, SALAM TV
 http://63.237.48.3/ios/SALAMN_TV/SALAMN_TV.m3u8
 #EXTINF:0,  HD 300kb
