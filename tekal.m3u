@@ -4,7 +4,7 @@ http://yayin3.canlitv.com:1935/live/yildiz/playlist.m3u8
 #EXTINF:0, FOX TV
 http://foxtv-i.mncdn.com/r_foxtv/foxtv3/playlist.m3u8
 #EXTINF:0, TV 8
-http://yayin8.canlitv.com:1935/live/tv8/playlist.m3u8?hash=db1b52155752e3c88616a5bd12dd354b
+http://mn-i.mncdn.com/tv8int_mobile/smil:tv8int.smil/playlist.m3u8?token=c01368b67f7acb469cc9bcc70a4a3965744afc43b2d69628
 #EXTINF: -1, Star Tv NEW 1
 http://origin.live.web.tv.streamprovider.net/live/7acfc999bbde179fc45f18506125345f_live_0_0/index.m3u8
 #EXTINF: -1, Star Tv NEW 2
