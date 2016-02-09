@@ -5,6 +5,10 @@ http://yayin3.canlitv.com:1935/live/yildiz/playlist.m3u8
 http://foxtv-i.mncdn.com/r_foxtv/foxtv3/playlist.m3u8
 #EXTINF:0, TV 8
 http://mn-i.mncdn.com/tv8int_mobile/smil:tv8int.smil/playlist.m3u8?token=c01368b67f7acb469cc9bcc70a4a3965744afc43b2d69628
+#EXTINF:0, TV 8_1
+http://s1.dmbshare.net:8000/streaming/clients_live.php?extension=m3u8&username=paul&password=paul&stream=2533&type=hls&segment=2533_8322.ts&hash=ba3d91ecb6250d01c7dd567973a0bbcf&time=1999944
+#EXTINF:0, TV 8_2
+http://cp.dmbshare.net:8000/live/paul/paul/2533.m3u8
 #EXTINF: -1, Star Tv NEW 1
 http://origin.live.web.tv.streamprovider.net/live/7acfc999bbde179fc45f18506125345f_live_0_0/index.m3u8
 #EXTINF: -1, Star Tv NEW 2
