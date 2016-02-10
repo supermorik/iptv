@@ -99,6 +99,8 @@ http://pipeline.telewebion.com:1935/devices/_definst_/tv2-500k.stream/playlist.m
 http://pipeline.telewebion.com:1935/devices/_definst_/tv2-1000k.stream/playlist.m3u8?wmsAuthSign=aXNfZnJlZT0xJnNlcnZlcl90aW1lPTIvNS8yMDE2IDg6MjQ6NCBQTSZoYXNoX3ZhbHVlPW5QK1QrWHNPMEZtcWkrQmw1aEg1Wnc9PSZ2YWxpZG1pbnV0ZXM9NjAwMA==
 #EXTINF:0, Irib TV3
 http://63.237.48.23/ios/IRIB_TV3/IRIB_TV3.m3u8
+#EXTINF:0, Irib TV3 1000kb new
+http://m.telewebion.com/livesmil/tv3-1000k.smil?secure_token=aXNfZnJlZT0xJnNlcnZlcl90aW1lPTIvMTAvMjAxNiA4OjE1OjQ3IFBNJmhhc2hfdmFsdWU9dkZQL1ZSNkFFdmhRaytrdStUbTNldz09JnZhbGlkbWludXRlcz02MDAw&dummyext=.smil
 #EXTINF:0, Irib TV3 300kb
 http://pipeline.telewebion.com:1935/devices/_definst_/tv3-300k.stream/playlist.m3u8?wmsAuthSign=aXNfZnJlZT0xJnNlcnZlcl90aW1lPTIvNi8yMDE2IDg6ODo1NSBBTSZoYXNoX3ZhbHVlPXRxWFdaRUZKdCt0V3A0TU0yQXhhREE9PSZ2YWxpZG1pbnV0ZXM9NjAwMA==
 #EXTINF:0, Irib TV3 500kb
