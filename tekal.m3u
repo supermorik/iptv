@@ -17,15 +17,7 @@ http://5.39.101.194:1935/live/dramahd_canlitvplay.com/playlist.m3u8
 http://foxtv-i.mncdn.com/r_foxtv/foxtv3/playlist.m3u8
 #EXTINF:-1, TV 8 SD
 http://yayin8.canlitvlive.org/tv8/live.m3u8?tkn=gV0-YUjMNofUKBaRkkf6Jw&tms=1455145028
-#EXTINF:-1, TV 8 HD 1
-http://178.162.205.72:8081/live_hd/TV8/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xMC8yMDE2IDM6MzE6NTYgUE0maGFzaF92YWx1ZT1ZS1pkaEJ1K012WmRyZkUxaEZUY1JnPT0mdmFsaWRtaW51dGVzPTEwJmlwPTEwOS4xODkuMTAwLjU=
-#EXTINF:-1, TV 8 HD 2
-http://mn-i.mncdn.com/tv8_ios/smil:tv8_live.smil/playlist.m3u8?token=c79a6574f868ee2ec26bc98a920593d1cd1017c4af4cd230
-#EXTINF:-1, TV 8 EU
-http://mn-i.mncdn.com/tv8int_mobile/smil:tv8int.smil/playlist.m3u8?token=c01368b67f7acb469cc9bcc70a4a3965744afc43b2d69628
-#EXTINF:-1, TV 8_1
-http://s1.dmbshare.net:8000/streaming/clients_live.php?extension=m3u8&username=paul&password=paul&stream=2533&type=hls&segment=2533_8322.ts&hash=ba3d91ecb6250d01c7dd567973a0bbcf&time=1999944
-#EXTINF:-1, TV 8_2
+#EXTINF:-1, TV 8 HD
 http://cp.dmbshare.net:8000/live/paul/paul/2533.m3u8
 #EXTINF: -1, Star HD
 http://178.162.205.71:8081/live_sd/startv/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xMC8yMDE2IDM6MzE6NTYgUE0maGFzaF92YWx1ZT1ZS1pkaEJ1K012WmRyZkUxaEZUY1JnPT0mdmFsaWRtaW51dGVzPTEwJmlwPTEwOS4xODkuMTAwLjU=
