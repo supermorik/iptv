@@ -57,6 +57,8 @@ http://mn-l.mncdn.com:1935/showtv/showtv2/playlist.m3u8
 http://tvlive.web.tv.streamprovider.net/akamairtmp/2daa5524735b98a7ab51ddd48663a474_live_0_0/chunklist.m3u8
 #EXTINF:0, KANALTURK
 http://kanalturk-live.ercdn.com/kanalturk.m3u8
+#EXTINF:-1, BEYAZ TV HD
+http://46.234.110.219/video/YPWQ5zTw/36792/jJPTrz6/14551/ueNV4nb/beyaztv.m3u8
 #EXTINF:-1, BEYAZ TV 1
 http://ift.tt/1OTkMu3
 #EXTINF:-1, BEYAZ TV 1
