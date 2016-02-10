@@ -15,6 +15,8 @@ http://178.33.75.95:1935/canlitvplay.com/filmaxturk.stream/playlist.m3u8
 http://5.39.101.194:1935/live/dramahd_canlitvplay.com/playlist.m3u8
 #EXTINF:-1, FOX TV
 http://foxtv-i.mncdn.com/r_foxtv/foxtv3/playlist.m3u8
+#EXTINF:-1, TV 8 SD
+http://yayin8.canlitvlive.org/tv8/live.m3u8?tkn=gV0-YUjMNofUKBaRkkf6Jw&tms=1455145028
 #EXTINF:-1, TV 8 HD 1
 http://178.162.205.72:8081/live_hd/TV8/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xMC8yMDE2IDM6MzE6NTYgUE0maGFzaF92YWx1ZT1ZS1pkaEJ1K012WmRyZkUxaEZUY1JnPT0mdmFsaWRtaW51dGVzPTEwJmlwPTEwOS4xODkuMTAwLjU=
 #EXTINF:-1, TV 8 HD 2
