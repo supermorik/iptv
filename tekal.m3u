@@ -25,7 +25,9 @@ http://46.234.110.219/video/OUXhE34Q/36223/y5345s_/14551/98AQjwS/tv8.m3u8
 http://cp.dmbshare.net:8000/live/paul/paul/2533.m3u8
 #EXTINF:-1, TV 8 HD 3
 http://178.162.205.72:8081/live_hd/TV8/live_hd/TV8_hi/chunks.m3u8?nimblesessionid=38841197&wmsAuthSign=c2VydmVyX3RpbWU9Mi8xMC8yMDE2IDc6MTY6MDQgUE0maGFzaF92YWx1ZT1sUjRNY2Q1QW52ci9wZ0ErUUV1Z2dBPT0mdmFsaWRtaW51dGVzPTEwJmlwPTEwOS4xODkuMTAwLjU=
-#EXTINF: -1, Star HD
+#EXTINF: -1, Star HD 1
+http://46.234.110.219/video/JxhYUqcg/36526/22lUITX/14551/6jVwsOL/star.m3u8
+#EXTINF: -1, Star HD 2
 http://178.162.205.71:8081/live_sd/startv/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xMC8yMDE2IDM6MzE6NTYgUE0maGFzaF92YWx1ZT1ZS1pkaEJ1K012WmRyZkUxaEZUY1JnPT0mdmFsaWRtaW51dGVzPTEwJmlwPTEwOS4xODkuMTAwLjU=
 #EXTINF: -1, Star Tv NEW 1
 http://origin.live.web.tv.streamprovider.net/live/7acfc999bbde179fc45f18506125345f_live_0_0/index.m3u8
