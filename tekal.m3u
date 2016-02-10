@@ -31,10 +31,12 @@ http://178.162.205.72:8081/live_hd/TV8/live_hd/TV8_hi/l_47_7906567_140080.ts?nim
 http://46.234.110.219/video/JxhYUqcg/36526/22lUITX/14551/6jVwsOL/star.m3u8
 #EXTINF: -1, Star HD 2
 http://178.162.205.71:8081/live_sd/startv/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xMC8yMDE2IDM6MzE6NTYgUE0maGFzaF92YWx1ZT1ZS1pkaEJ1K012WmRyZkUxaEZUY1JnPT0mdmFsaWRtaW51dGVzPTEwJmlwPTEwOS4xODkuMTAwLjU=
-#EXTINF: -1, Star Tv NEW 1
+#EXTINF: -1, Star HD 3
 http://origin.live.web.tv.streamprovider.net/live/7acfc999bbde179fc45f18506125345f_live_0_0/index.m3u8
-#EXTINF: -1, Star Tv NEW 2
+#EXTINF: -1, Star HD 4
 http://yayin8.canlitv.com:1935/live/startv/playlist.m3u8?hash=db1b52155752e3c88616a5bd12dd354b
+#EXTINF: -1, Star HD 5
+http://yayin9.canlitvlive.org/startv/live.m3u8?tkn=BBHsXBdp14mbT-yqS9LsEg&tms=1455148792
 #EXTINF: -1, Star Tv
 http://188.72.131.226/star.m3u8
 #EXTINF:0, KANAL D
