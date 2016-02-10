@@ -7,6 +7,12 @@ http://178.33.75.95:1935/canlitvplay.com/filmaxfamily.stream/playlist.m3u8
 http://178.33.75.95:1935/canlitvplay.com/filmaxaction.stream/playlist.m3u8
 #EXTINF:-1, FILMAX BLACK
 http://178.33.75.95:1935/canlitvplay.com/filmaxblack.stream/playlist.m3u8
+#EXTINF:-1, FILMAX COMEDY
+http://178.33.75.95:1935/canlitvplay.com/filmaxcomedy.stream/playlist.m3u8
+#EXTINF:-1, FILMAX TURK
+http://178.33.75.95:1935/canlitvplay.com/filmaxturk.stream/playlist.m3u8
+#EXTINF:-1, FILMAX DRAMA
+http://178.33.75.95:1935/canlitvplay.com/filmaxdrama.stream/playlist.m3u8
 #EXTINF:-1, FOX TV
 http://foxtv-i.mncdn.com/r_foxtv/foxtv3/playlist.m3u8
 #EXTINF:-1, TV 8 HD 1
