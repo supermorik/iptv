@@ -3,7 +3,9 @@
 http://yayin3.canlitv.com:1935/live/yildiz/playlist.m3u8
 #EXTINF:0, FOX TV
 http://foxtv-i.mncdn.com/r_foxtv/foxtv3/playlist.m3u8
-#EXTINF:-1, TV 8 HD
+#EXTINF:-1, TV 8 HD 1
+http://178.162.205.72:8081/live_hd/TV8/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xMC8yMDE2IDM6MzE6NTYgUE0maGFzaF92YWx1ZT1ZS1pkaEJ1K012WmRyZkUxaEZUY1JnPT0mdmFsaWRtaW51dGVzPTEwJmlwPTEwOS4xODkuMTAwLjU=
+#EXTINF:-1, TV 8 HD 2
 http://mn-i.mncdn.com/tv8_ios/smil:tv8_live.smil/playlist.m3u8?token=c79a6574f868ee2ec26bc98a920593d1cd1017c4af4cd230
 #EXTINF:-1, TV 8 EU
 http://mn-i.mncdn.com/tv8int_mobile/smil:tv8int.smil/playlist.m3u8?token=c01368b67f7acb469cc9bcc70a4a3965744afc43b2d69628
