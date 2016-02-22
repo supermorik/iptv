@@ -2,17 +2,17 @@
 #EXTINF:-1, FILMAX PREMIER
 http://5.39.101.194:1935/live/filmaxpremierhd_canlitvplay.com/playlist.m3u8
 #EXTINF:-1, FILMAX FAMILY
-http://178.33.75.95:1935/canlitvplay.com2/filmaxfamily.stream/playlist.m3u8
+http://178.33.75.95:1935/canlitvplay.com3/filmaxfamily.stream/playlist.m3u8
 #EXTINF:-1, FILMAX ACTION
-http://178.33.75.95:1935/canlitvplay.com2/filmaxaction.stream/playlist.m3u8
+http://178.33.75.95:1935/canlitvplay.com3/filmaxaction.stream/playlist.m3u8
 #EXTINF:-1, FILMAX BLACK
-http://178.33.75.95:1935/canlitvplay.com2/filmaxblack.stream/playlist.m3u8
+http://178.33.75.95:1935/canlitvplay.com3/filmaxblack.stream/playlist.m3u8
 #EXTINF:-1, FILMAX COMEDY
-http://178.33.75.95:1935/canlitvplay.com2/filmaxcomedy.stream/playlist.m3u8
+http://178.33.75.95:1935/canlitvplay.com3/filmaxcomedy.stream/playlist.m3u8
 #EXTINF:-1, FILMAX TURK
-http://178.33.75.95:1935/canlitvplay.com2/filmaxturk.stream/playlist.m3u8
+http://178.33.75.95:1935/canlitvplay.com3/filmaxturk.stream/playlist.m3u8
 #EXTINF:-1, FILMAX DRAMA
-http://178.33.75.95:1935/canlitvplay.com2/dramahd.stream/playlist.m3u8
+http://178.33.75.95:1935/canlitvplay.com3/dramahd.stream/playlist.m3u8
 #EXTINF:-1, FOX TV
 http://foxtv-i.mncdn.com/r_foxtv/foxtv3/playlist.m3u8
 #EXTINF:-1, TV 8 SD
