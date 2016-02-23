@@ -21,18 +21,8 @@ http://yayin8.canlitvlive.org/tv8/live.m3u8?tkn=gV0-YUjMNofUKBaRkkf6Jw&tms=14551
 http://46.234.110.219/video/22nnRRMQ/47455/zvaRSP6/14562/svt6Gxz/tv8.m3u8
 #EXTINF:-1, TV 8 HD 2
 http://46.234.110.219/video/0QiTYQYg/37158/h9PjJnc/14551/rGYouqq/tv8.m3u8
-#EXTINF:-1, TV 8 HD 3
-http://cp.dmbshare.net:8000/live/paul/paul/2533.m3u8
-#EXTINF:-1, TV 8 HD 3
-http://178.162.205.72:8081/live_hd/TV8/live_hd/TV8_hi/chunks.m3u8?nimblesessionid=38841197&wmsAuthSign=c2VydmVyX3RpbWU9Mi8xMC8yMDE2IDc6MTY6MDQgUE0maGFzaF92YWx1ZT1sUjRNY2Q1QW52ci9wZ0ErUUV1Z2dBPT0mdmFsaWRtaW51dGVzPTEwJmlwPTEwOS4xODkuMTAwLjU=
-#EXTINF:-1, TV 8 HD 4
-http://178.162.205.72:8081/live_hd/TV8/live_hd/TV8_hi/l_47_7906567_140080.ts?nimblesessionid=38882296&wmsAuthSign=c2VydmVyX3RpbWU9Mi8xMC8yMDE2IDc6NTY6MDMgUE0maGFzaF92YWx1ZT16MjVzL1o1SUpWYTZVTDE3OVdhSllBPT0mdmFsaWRtaW51dGVzPTEwJmlwPTEwOS4xODkuMTAwLjU=
-#EXTINF:-1, TV 8 HD 5
-http://185.53.11.3/2/NVpRpM-Q/41835/EkVzBLw/14551/woYSpqv/tv8.m3u8?tkn=1Y0KVgqxbNm1zOn__4zPUA&tms=1455141835
-#EXTINF:-1, TV 8 HD 6
-http://178.162.205.72:8081/live_hd/TV8/live_hd/TV8_hi/chunks.m3u8?nimblesessionid=38892948&wmsAuthSign=c2VydmVyX3RpbWU9Mi8xMC8yMDE2IDg6MDY6MzUgUE0maGFzaF92YWx1ZT16cEtIM0hONU5PaG1JYy9VbEZpRmdRPT0mdmFsaWRtaW51dGVzPTEwJmlwPTEwOS4xODkuMTAwLjU=
 #EXTINF: -1, Star HD 1
-http://46.234.110.219/video/JxhYUqcg/36526/22lUITX/14551/6jVwsOL/star.m3u8
+http://46.234.110.219/video/tTkOgQ5w/47679/VLfCyk3/14562/_PWpWqh/star.m3u8
 #EXTINF: -1, Star HD 2
 http://178.162.205.71:8081/live_sd/startv/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xMC8yMDE2IDM6MzE6NTYgUE0maGFzaF92YWx1ZT1ZS1pkaEJ1K012WmRyZkUxaEZUY1JnPT0mdmFsaWRtaW51dGVzPTEwJmlwPTEwOS4xODkuMTAwLjU=
 #EXTINF: -1, Star HD 3
