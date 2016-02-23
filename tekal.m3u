@@ -15,24 +15,12 @@ http://178.33.75.95:1935/canlitvplay.com3/filmaxturk.stream/playlist.m3u8
 http://178.33.75.95:1935/canlitvplay.com3/dramahd.stream/playlist.m3u8
 #EXTINF:-1, FOX TV
 http://foxtv-i.mncdn.com/r_foxtv/foxtv3/playlist.m3u8
-#EXTINF:-1, TV 8 SD
-http://yayin8.canlitvlive.org/tv8/live.m3u8?tkn=gV0-YUjMNofUKBaRkkf6Jw&tms=1455145028
 #EXTINF:-1, TV 8 HD 1
 http://46.234.110.219/video/22nnRRMQ/47455/zvaRSP6/14562/svt6Gxz/tv8.m3u8
 #EXTINF:-1, TV 8 HD 2
 http://46.234.110.219/video/0QiTYQYg/37158/h9PjJnc/14551/rGYouqq/tv8.m3u8
 #EXTINF: -1, Star HD 1
 http://46.234.110.219/video/tTkOgQ5w/47679/VLfCyk3/14562/_PWpWqh/star.m3u8
-#EXTINF: -1, Star HD 2
-http://178.162.205.71:8081/live_sd/startv/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xMC8yMDE2IDM6MzE6NTYgUE0maGFzaF92YWx1ZT1ZS1pkaEJ1K012WmRyZkUxaEZUY1JnPT0mdmFsaWRtaW51dGVzPTEwJmlwPTEwOS4xODkuMTAwLjU=
-#EXTINF: -1, Star HD 3
-http://origin.live.web.tv.streamprovider.net/live/7acfc999bbde179fc45f18506125345f_live_0_0/index.m3u8
-#EXTINF: -1, Star HD 4
-http://yayin8.canlitv.com:1935/live/startv/playlist.m3u8?hash=db1b52155752e3c88616a5bd12dd354b
-#EXTINF: -1, Star HD 5
-http://yayin9.canlitvlive.org/startv/live.m3u8?tkn=BBHsXBdp14mbT-yqS9LsEg&tms=1455148792
-#EXTINF: -1, Star Tv
-http://188.72.131.226/star.m3u8
 #EXTINF:0, KANAL D
 http://212.224.108.80/S1/HLS_LIVE/kanald/1000/prog_index.m3u8
 #EXTINF:0, ATV NEW
