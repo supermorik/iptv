@@ -1,18 +1,24 @@
 ﻿#EXTM3U
-#EXTINF:-1, FILMAX PREMIER
-http://5.39.101.194:1935/live/filmaxpremierhd_canlitvplay.com/playlist.m3u8
-#EXTINF:-1, FILMAX FAMILY
-http://178.33.75.95:1935/canlitvplay.com3/filmaxfamily.stream/playlist.m3u8
-#EXTINF:-1, FILMAX ACTION
-http://178.33.75.95:1935/canlitvplay.com3/filmaxaction.stream/playlist.m3u8
-#EXTINF:-1, FILMAX BLACK
-http://178.33.75.95:1935/canlitvplay.com3/filmaxblack.stream/playlist.m3u8
-#EXTINF:-1, FILMAX COMEDY
-http://178.33.75.95:1935/canlitvplay.com3/filmaxcomedy.stream/playlist.m3u8
-#EXTINF:-1, FILMAX TURK
-http://178.33.75.95:1935/canlitvplay.com3/filmaxturk.stream/playlist.m3u8
-#EXTINF:-1, FILMAX DRAMA
-http://178.33.75.95:1935/canlitvplay.com3/dramahd.stream/playlist.m3u8
+#EXTINF:-1,Sinemax Turk HD
+http://jarextv.ddns.net/cinemaxturk.m3u8
+#EXTINF:-1,Sinemax Premiere HD
+http://jarextv.ddns.net/cinemaxpremier.m3u8
+#EXTİNF:-1,Cine Tr
+http://195.154.106.198:5050/cinetr.m3u8
+#EXTİNF:-1,Cine 1
+http://195.154.106.198:5050/cine01.m3u8
+#EXTİNF:-1,Cine 2
+http://195.154.106.198:5050/cine02.m3u8
+#EXTİNF:-1,Cine 3
+http://195.154.106.198:5050/cine03.m3u8
+#EXTİNF:-1,Cine 4
+http://195.154.106.198:5050/cineo4.m3u8
+#EXTİNF:-1,Cine 5
+http://195.154.106.198:5050/cine05.m3u8
+#EXTİNF:-1,Cine 6
+http://195.154.106.198:5050/cine06.m3u8
+#EXTİNF:-1,Cine 7
+http://195.154.106.198:5050/cine07.m3u8
 #EXTINF:-1, FOX TV
 http://foxtv-i.mncdn.com/r_foxtv/foxtv3/playlist.m3u8
 #EXTINF:-1, TV 8 HD 1
