@@ -1,4 +1,6 @@
 ﻿#EXTM3U
+﻿#EXTINF:-1,STAR TV (TR)
+http://superiptvlista.dyndns.tv:80/live/55fabio/55fabio1/390.ts
 #EXTINF:-1, FOX TV
 http://foxtv-i.mncdn.com/r_foxtv/foxtv3/playlist.m3u8
 #EXTINF:-1, TV 8 HD 1
