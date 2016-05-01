@@ -1,6 +1,4 @@
 ﻿#EXTM3U
-#EXTINF: -1, Star HD 1
-http://46.234.110.219/video/tTkOgQ5w/47679/VLfCyk3/14562/_PWpWqh/star.m3u8
 #EXTINF:0, KANAL D
 http://212.224.108.80/S1/HLS_LIVE/kanald/1000/prog_index.m3u8
 #EXTINF:0, ATV NEW
@@ -19,16 +17,6 @@ http://live-ciner.mncdn.net/showtv/showtv2/playlist.m3u8
 http://mn-i.mncdn.com/showtv/smil:showtv.smil/playlist.m3u8
 #EXTINF:-1, SHOW TV HD 5
 http://mn-l.mncdn.com:1935/showtv/showtv2/playlist.m3u8
-#EXTINF:0, FILTV
-http://tvlive.web.tv.streamprovider.net/akamairtmp/2daa5524735b98a7ab51ddd48663a474_live_0_0/chunklist.m3u8
-#EXTINF:0, KANALTURK
-http://kanalturk-live.ercdn.com/kanalturk.m3u8
-#EXTINF:-1, BEYAZ TV HD
-http://46.234.110.219/video/YPWQ5zTw/36792/jJPTrz6/14551/ueNV4nb/beyaztv.m3u8
-#EXTINF:-1, BEYAZ TV 1
-http://ift.tt/1OTkMu3
-#EXTINF:-1, BEYAZ TV 1
-http://37.77.2.236:1935/beyaz/beyaz.stream/playlist.m3u8
 #EXTINF:-1, KANAL 7 HD
 http://livede.gostream.nl/kanal7hq/kanal7hq/playlist.m3u8
 #EXTINF:-1, KANAL 7 HD
@@ -40,13 +28,13 @@ http://63.237.48.23/ios/VOA_PERSIAN/VOA_PERSIAN.m3u8
 #EXTINF:0, FARSI1
 http://63.237.48.28/ios/FARSI1/FARSI1.m3u8
 #EXTINF:0, Irib TV1
-http://63.237.48.23/ios/IRIB_TV1/IRIB_TV1.m3u8
+http://63.237.48.28/ios/IRIB_TV1/IRIB_TV1.m3u8
 #EXTINF:0, Irib TV1 300kb
 http://pipeline.telewebion.com:1935/devices/_definst_/tv1-300k.stream/playlist.m3u8?wmsAuthSign=aXNfZnJlZT0xJnNlcnZlcl90aW1lPTIvNS8yMDE2IDg6MjQ6NCBQTSZoYXNoX3ZhbHVlPW5QK1QrWHNPMEZtcWkrQmw1aEg1Wnc9PSZ2YWxpZG1pbnV0ZXM9NjAwMA==
 #EXTINF:0, Irib TV1 500kb
 http://pipeline.telewebion.com:1935/devices/_definst_/tv1-500k.stream/playlist.m3u8?wmsAuthSign=aXNfZnJlZT0xJnNlcnZlcl90aW1lPTIvNS8yMDE2IDg6MjQ6NCBQTSZoYXNoX3ZhbHVlPW5QK1QrWHNPMEZtcWkrQmw1aEg1Wnc9PSZ2YWxpZG1pbnV0ZXM9NjAwMA==
 #EXTINF:0, Irib TV1 1000kb
-http://pipeline.telewebion.com:1935/devices/_definst_/tv1-1000k.stream/playlist.m3u8?wmsAuthSign=aXNfZnJlZT0xJnNlcnZlcl90aW1lPTIvNS8yMDE2IDg6MjQ6NCBQTSZoYXNoX3ZhbHVlPW5QK1QrWHNPMEZtcWkrQmw1aEg1Wnc9PSZ2YWxpZG1pbnV0ZXM9NjAwMA==
+http://m.telewebion.com/livesmil/tv1-1000k.smil?secure_token=aXNfZnJlZT0xJnNlcnZlcl90aW1lPTUvMS8yMDE2IDc6MjE6MjAgQU0maGFzaF92YWx1ZT02bjRVQi91V3o2VmxyNmVTMGNyQzdBPT0mdmFsaWRtaW51dGVzPTYwMDA=&dummyext=.smil
 #EXTINF:0, Irib TV2
 http://63.237.48.28/ios/IRIB_TV2/IRIB_TV2.m3u8
 #EXTINF:0, Irib TV2 300kb
