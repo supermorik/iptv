@@ -32,11 +32,7 @@ http://63.237.48.28/ios/FARSI1/FARSI1.m3u8
 #EXTINF:0, Irib TV1
 http://63.237.48.28/ios/IRIB_TV1/IRIB_TV1.m3u8
 #EXTINF:0, Irib TV1 300kb
-http://pipeline.telewebion.com:1935/devices/_definst_/tv1-300k.stream/playlist.m3u8?wmsAuthSign=aXNfZnJlZT0xJnNlcnZlcl90aW1lPTIvNS8yMDE2IDg6MjQ6NCBQTSZoYXNoX3ZhbHVlPW5QK1QrWHNPMEZtcWkrQmw1aEg1Wnc9PSZ2YWxpZG1pbnV0ZXM9NjAwMA==
-#EXTINF:0, Irib TV1 500kb
-http://pipeline.telewebion.com:1935/devices/_definst_/tv1-500k.stream/playlist.m3u8?wmsAuthSign=aXNfZnJlZT0xJnNlcnZlcl90aW1lPTIvNS8yMDE2IDg6MjQ6NCBQTSZoYXNoX3ZhbHVlPW5QK1QrWHNPMEZtcWkrQmw1aEg1Wnc9PSZ2YWxpZG1pbnV0ZXM9NjAwMA==
-#EXTINF:0, Irib TV1 1000kb
-http://m.telewebion.com/livesmil/tv1-1000k.smil?secure_token=aXNfZnJlZT0xJnNlcnZlcl90aW1lPTUvMS8yMDE2IDc6MjE6MjAgQU0maGFzaF92YWx1ZT02bjRVQi91V3o2VmxyNmVTMGNyQzdBPT0mdmFsaWRtaW51dGVzPTYwMDA=&dummyext=.smil
+http://m.s1.telewebion.com/livesmil/tv1-500k.smil?secure_token=aXNfZnJlZT0xJnNlcnZlcl90aW1lPTgvMTgvMjAxNiAxMDo0OTo0NSBBTSZoYXNoX3ZhbHVlPWlnNFk0SWluL0l3a1FPMHFUeldJbHc9PSZ2YWxpZG1pbnV0ZXM9NjAwMA==&dummyext=.smil
 #EXTINF:0, Irib TV2
 http://63.237.48.28/ios/IRIB_TV2/IRIB_TV2.m3u8
 #EXTINF:0, Irib TV2 300kb
