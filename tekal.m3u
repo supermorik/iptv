@@ -29,6 +29,8 @@ http://63.237.48.23/ios/VOA_PERSIAN/VOA_PERSIAN.m3u8
 http://63.237.48.28/ios/BBC_PERSIAN/BBC_PERSIAN.m3u8
 #EXTINF:0, FARSI1
 http://63.237.48.28/ios/FARSI1/FARSI1.m3u8
+#EXTINF:0, MANOTO TV
+http://63.237.48.28/ios/MANOTO_1/MANOTO_1.m3u8
 #EXTINF:0, Irib TV1
 http://63.237.48.28/ios/IRIB_TV1/IRIB_TV1.m3u8
 #EXTINF:0, Irib TV2
@@ -63,16 +65,14 @@ http://pipeline.telewebion.com:1935/devices/_definst_/hdtest-300k.stream/playlis
 http://pipeline.telewebion.com:1935/devices/_definst_/hdtest-500k.stream/playlist.m3u8?wmsAuthSign=aXNfZnJlZT0xJnNlcnZlcl90aW1lPTIvNS8yMDE2IDg6MjQ6NCBQTSZoYXNoX3ZhbHVlPW5QK1QrWHNPMEZtcWkrQmw1aEg1Wnc9PSZ2YWxpZG1pbnV0ZXM9NjAwMA==
 #EXTINF:0,  HD 1000kb
 http://pipeline.telewebion.com:1935/devices/_definst_/hdtest-1000k.stream/playlist.m3u8?wmsAuthSign=aXNfZnJlZT0xJnNlcnZlcl90aW1lPTIvNS8yMDE2IDg6MjQ6NCBQTSZoYXNoX3ZhbHVlPW5QK1QrWHNPMEZtcWkrQmw1aEg1Wnc9PSZ2YWxpZG1pbnV0ZXM9NjAwMA==
-#EXTINF:0, Quran TV
-http://63.237.48.23/ios/QURAN_TV/QURAN_TV.m3u8
-#EXTINF:0, Velayat TV
-http://63.237.48.28/ios/VELAYAT_TV/VELAYAT_TV.m3u8
 #EXTINF:0, Pars TV
 http://63.237.48.28/ios/PARSTV/PARSTV.m3u8
-#EXTINF:0, ANDISHEH TV
-http://63.237.48.28/ios/ANDISHEH/ANDISHEH.m3u8
+#EXTINF:0, IRAN+
+http://63.237.48.28/ios/IRAN_PLUS/IRAN_PLUS.m3u8
 #EXTINF:0, ITN
 http://63.237.48.28/ios/ITN/ITN.m3u8
+#EXTINF:0, GEM BOLLYWOOD
+http://63.237.48.28/ios/GEM_BOLLYWOOD/GEM_BOLLYWOOD.m3u8
 #EXTINF:0, ONYX
 http://63.237.48.28/ios/ONYX/ONYX.m3u8
 #EXTINF:0, Gem River
@@ -81,24 +81,16 @@ http://63.237.48.23/ios/GEM_RIVER/GEM_RIVER.m3u8
 http://63.237.48.28/ios/GEM_BOLLYWOOD/GEM_BOLLYWOOD.m3u8
 #EXTINF:0, Gem Junior
 http://63.237.48.28/ios/GEM_JUNIOR/GEM_JUNIOR.m3u8
-#EXTINF:0, MyTV
-http://63.237.48.28/ios/4U_CARTOON/4U_CARTOON.m3u8
 #EXTINF:0, Gem Rubix
 http://63.237.48.28/ios/GEM_RUBIX/GEM_RUBIX.m3u8
 #EXTINF:0, Gem Life
 http://63.237.48.28/ios/GEL_LIFE/GEL_LIFE.m3u8
 #EXTINF:0, Gem USA
 http://63.237.48.28/ios/GEM_USA/GEM_USA.m3u8
-#EXTINF:0, Ganj E Hozour TV
-http://63.237.48.28/ios/GANJ_E_HOZOOR/GANJ_E_HOZOOR.m3u8
 #EXTINF:0, TAPESH TV
 http://63.237.48.28/ios/TAPESH/TAPESH.m3u8
-#EXTINF:0, Didar Global Plus
-http://63.237.48.28/ios/DIDAR/DIDAR.m3u8
 #EXTINF:0, Gem Kurd
 http://63.237.48.28/ios/GEM_KURD/GEM_KURD.m3u8
-#EXTINF:0, ITC
-http://63.237.48.28/ios/ITC/ITC.m3u8
 #EXTINF:0, Ten TV
 http://63.237.48.28/ios/TEN_TV/TEN_TV.m3u8
 #EXTINF:0, MBC BOLLYWOOD
@@ -111,10 +103,6 @@ http://63.237.48.28/ios/MBC_4/MBC_4.m3u8
 http://63.237.48.28/ios/MBC_MAX/MBC_MAX.m3u8
 #EXTINF:0, MBC Action
 http://63.237.48.28/ios/MBC_ACTION/MBC_ACTION.m3u8
-#EXTINF:0, Almas TV
-http://63.237.48.28/ios/ALMAS_TV/ALMAS_TV.m3u8
-#EXTINF:0, Merci TV
-http://63.237.48.28/ios/MERCI_TV/MERCI_TV.m3u8
 #EXTINF:0, AAA Family
 http://63.237.48.28/ios/AAA_FAMILY/AAA_FAMILY.m3u8
 #EXTINF:0, Gem Mifa
