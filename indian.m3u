@@ -1,40 +1,584 @@
 #EXTM3U
-#EXTINF:-1,SUNNAH TVCH
-http://173.199.120.51/hls/sunnahtv.m3u8
-#EXTINF:-1,STAR PLUSCH
-http://173.199.120.51/hls/starplus.m3u8
-?#EXTM3U
-#EXTINF:-1,STAR PLUS USACH
-http://173.199.120.51/hls/usa_starplus.m3u8
-#EXTINF:-1,SONYCH
-http://173.199.120.51/hls/sonyhd.m3u8
-#EXTINF:-1,SONY USACH
-http://173.199.120.51/hls/usa_sonyhd.m3u8
-#EXTINF:-1,Zee TVCH
-http://173.199.120.51/hls/zeetvhd.m3u8
-#EXTINF:-1,B4U MOVIECH
-http://173.199.120.51/hls/filmy.m3u8
-#EXTINF:-1,Movies OKCH
-http://173.199.120.51/hls/moviesok.m3u8
-#EXTINF:-1,MTUNESCH
-http://173.199.120.51/hls/mtunes.m3u8
-#EXTINF:-1,COLORCH
-http://173.199.120.51/hls/colors.m3u8
-#EXTINF:-1,COLORS USCH
-http://173.199.120.51/hls/usa_colors.m3u8
-#EXTINF:-1,LIFE OKCH
-http://173.199.120.51/hls/lifeok.m3u8
-#EXTINF:-1,TEN KRICKETCH
-http://173.199.120.51/hls/tencricket.m3u8
-#EXTINF:-1,TEN SPORTSCH
-http://173.199.120.51/hls/tensports.m3u8
-#EXTINF:-1,TEN ACTIONCH
-http://173.199.120.51/hls/tenaction.m3u8
-#EXTINF:-1 ,STAR SPORTSCH 1
-http://173.199.120.51/hls/starcricket.m3u8
-#EXTINF:-1,STAR SPORTSCH 2
-http://173.199.120.51/hls/starsports2.m3u8
-#EXTINF:-1,STAR SPORTSCH 4
-http://173.199.120.51/hls/starsports4.m3u8
-#EXTINF:-1 ,SONY SIXCH
-http://173.199.120.51/hls/neosport.m3u8 
+#EXTINF:-1,TR: STAR HD ( 1080P )
+http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/10819.ts
+#EXTINF:-1,TR: SHOW HD ( 1080P )
+http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/10820.ts
+#EXTINF:-1,TR: TVNET HD ( 1080P )
+http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/10812.ts
+#EXTINF:-1,TR: TV 8 HD ( 1080P )
+http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/10813.ts
+#EXTINF:-1,TR: Star TV HD
+http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/1604.ts
+#EXTINF:-1,TR: A HABER  HD
+http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/1632.ts
+#EXTINF:-1,TR: Kanal D HD
+http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/1603.ts
+#EXTINF:-1,TR: KANAL D HD ( 1080P )
+http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/10828.ts
+#EXTINF:-1,TR: KANAL 7 HD ( 1080P )
+http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/10829.ts
+#EXTINF:-1,TR: HABER TÜRK HD ( 1080P )
+http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/10830.ts
+#EXTINF:-1,TR: FOX HD ( 1080P )
+http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/10831.ts
+#EXTINF:-1,TR: TV8 HD
+http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/4572.ts
+#EXTINF:-1,TR: A TV HD
+http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/3423.ts
+#EXTINF:-1,TR: FOX TV HD
+http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/3260.ts
+#EXTINF:-1,TR: STAR HD
+http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/3418.ts
+#EXTINF:-1,TR: SHOW HD
+http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/3419.ts
+#EXTINF:-1,TR: Kanal 7 HD
+http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/8927.ts
+#EXTINF:-1,TR: Beyaz Tv HD
+http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/8888.ts
+#EXTINF:-1,TR: FLASH TV
+http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/5634.ts
+#EXTINF:-1,VIP: LIG TV HD 1 TR
+http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/4497.ts
+#EXTINF:-1,VIP: LIG TV HD 2 TR
+http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/4498.ts
+#EXTINF:-1,VIP: LIG TV HD 3 TR
+http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/4499.ts
+#EXTINF:-1,TR: LIG TV 1 HD
+http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/2408.ts
+#EXTINF:-1,TR: LIG TV 2 HD
+http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/2409.ts
+#EXTINF:-1,TR: LIG TV 3 HD
+http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/2410.ts
+#EXTINF:-1,TR: Lig TV 4 HD
+http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/11031.ts
+#EXTINF:-1,TR: LIGTV3 HD
+http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/1156.ts
+#EXTINF:-1,TR: LIGTV 1 HD
+http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/1153.ts
+#EXTINF:-1,TR: LIGTV 2 HD
+http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/1154.ts
+#EXTINF:-1,TR: LIGTV 3 HD
+http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/1155.ts
+#EXTINF:-1,TR: TIVIBU  SPOR 1 HD
+http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/5622.ts
+#EXTINF:-1,TR: TIVIBU  SPOR 2 HD
+http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/5623.ts
+#EXTINF:-1,TR: TIVIBU  SPOR 3 HD
+http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/5624.ts
+#EXTINF:-1,TR: TIVIBU  SPOR 4 HD
+http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/5625.ts
+#EXTINF:-1,TR: SMART SPOR  HD
+http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/5619.ts
+#EXTINF:-1,TR: SMART SPOR 2  HD
+http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/5620.ts
+#EXTINF:-1,TR: NTV Sport HD
+http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/18235.ts
+#EXTINF:-1,TR: NTV SPOR HD
+http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/3420.ts
+#EXTINF:-1,TR: A Sport HD
+http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/1602.ts
+#EXTINF:-1,TR: SPORT TV
+http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/3695.ts
+#EXTINF:-1,TR: TRT SPORT HD
+http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/1289.ts
+#EXTINF:-1,TR: EUROSPORT 1
+http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/18129.ts
+#EXTINF:-1,TR: EUROSPORT 2
+http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/18128.ts
+#EXTINF:-1,TR: EuroSport 1 HD
+http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/8384.ts
+#EXTINF:-1,TR: EUROSPORT 2 HD
+http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/6492.ts
+#EXTINF:-1,TR: POWER TÜRK HD ( 1080P )
+http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/10823.ts
+#EXTINF:-1,TR: POWER HD ( 1080P )
+http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/10824.ts
+#EXTINF:-1,TR: BEYAZ HD ( 1080P )
+http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/10833.ts
+#EXTINF:-1,TR: ATV HD ( 1080P )
+http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/10834.ts
+#EXTINF:-1,TR: A HABER HD ( 1080P )
+http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/10836.ts
+#EXTINF:-1,TR: TRT 1 HD
+http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/1606.ts
+#EXTINF:-1,TR: TV8,5
+http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/2472.ts
+#EXTINF:-1,TR: SALON 1 HD
+http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/2066.ts
+#EXTINF:-1,TR: SALON 2 HD
+http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/2065.ts
+#EXTINF:-1,TR: SALON 3 HD
+http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/2064.ts
+#EXTINF:-1,TR: beIN Movies 007 HD
+http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/17832.ts
+#EXTINF:-1,TR: beIN Movies Comedy HD
+http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/18046.ts
+#EXTINF:-1,TR: beIN Movies Stars HD
+http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/17833.ts
+#EXTINF:-1,TR: beIN Movies Turk
+http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/17834.ts
+#EXTINF:-1,TR: LOCA 1  HD
+http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/5644.ts
+#EXTINF:-1,TR: LOCA 2 HD
+http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/5645.ts
+#EXTINF:-1,TR: LOCA 3 HD
+http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/5646.ts
+#EXTINF:-1,TR: Sinema TV 1001
+http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/10175.ts
+#EXTINF:-1,TR: MGM HD
+http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/8273.ts
+#EXTINF:-1,TR: Sinetivi Karnaval HD
+http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/11220.ts
+#EXTINF:-1,TR: Sinetivi HD
+http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/11219.ts
+#EXTINF:-1,TR: S?NEMA TV
+http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/11211.ts
+#EXTINF:-1,TR: MOVIESMART TURK HD
+http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/11205.ts
+#EXTINF:-1,TR: Movies Platin 2 HD
+http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/11221.ts
+#EXTINF:-1,TR: MOVIEMAX TURK HD
+http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/11206.ts
+#EXTINF:-1,TR: MOVIEMAX PREMIER HD
+http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/11208.ts
+#EXTINF:-1,TR: MOVIEMAX PREMIER 2 HD
+http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/11209.ts
+#EXTINF:-1,TR: MOVIE PREMIUM HD
+http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/11214.ts
+#EXTINF:-1,TR: MOVIE PREMIUM 2 HD
+http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/11215.ts
+#EXTINF:-1,TR: MOVIE GOLD
+http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/11216.ts
+#EXTINF:-1,TR: MOVIE FAMILY
+http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/11217.ts
+#EXTINF:-1,TR: FILMtivi
+http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/11210.ts
+#EXTINF:-1,TR: FILMBOX HD
+http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/11218.ts
+#EXTINF:-1,TR: DIZISMART PLATIN
+http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/11212.ts
+#EXTINF:-1,TR: SiNETiVi FANTASTIK HD
+http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/14972.ts
+#EXTINF:-1,TR: SiNETiVi AKSIYON HD
+http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/14973.ts
+#EXTINF:-1,TR: FILMBOX HD SPECIAL
+http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/14974.ts
+#EXTINF:-1,TR: VIXX TV
+http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/15621.ts
+#EXTINF:-1,TR: VIXX TV TURK
+http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/15625.ts
+#EXTINF:-1,TR: VIXX TV HORROR
+http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/15624.ts
+#EXTINF:-1,TR: VIXX TV COMEDY
+http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/15623.ts
+#EXTINF:-1,TR: VIXX TV ACTION
+http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/15622.ts
+#EXTINF:-1,TR: NUMBER ONE
+http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/8607.ts
+#EXTINF:-1,TR: HABER TURK HD
+http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/4052.ts
+#EXTINF:-1,TR: TGRT Belgesel
+http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/4573.ts
+#EXTINF:-1,TR: Power TV HD
+http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/6491.ts
+#EXTINF:-1,TR: TGRT HABER
+http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/4581.ts
+#EXTINF:-1,TR: e2
+http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/4483.ts
+#EXTINF:-1,TR: CNN TURK HD
+http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/2475.ts
+#EXTINF:-1,TR: CARTOON NETWORK
+http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/1851.ts
+#EXTINF:-1,TR: Dream Turk
+http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/3422.ts
+#EXTINF:-1,TR: ULKE TV HD
+http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/8930.ts
+#EXTINF:-1,TR: Planet Turk
+http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/8913.ts
+#EXTINF:-1,TR: Planet Pembe
+http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/8912.ts
+#EXTINF:-1,TR: Planet Mutfak
+http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/8911.ts
+#EXTINF:-1,TR: Planet Cocuk
+http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/8910.ts
+#EXTINF:-1,TR: MinikaGo
+http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/8906.ts
+#EXTINF:-1,TR: Minika Cocuk
+http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/8905.ts
+#EXTINF:-1,TR: Ulusal Kanal
+http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/6069.ts
+#EXTINF:-1,TR: Kanal 3
+http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/6071.ts
+#EXTINF:-1,TR: TLC TV
+http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/8270.ts
+#EXTINF:-1,TR: National Geographic HD
+http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/8272.ts
+#EXTINF:-1,TR: National Geographic Wild HD
+http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/8271.ts
+#EXTINF:-1,TR: Nat Geo Poeple
+http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/14975.ts
+#EXTINF:-1,TR: Animal Planet HD
+http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/14976.ts
+#EXTINF:-1,TR: Food Network
+http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/8383.ts
+#EXTINF:-1,TR: Dark Cinema 1 HD
+http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/16386.ts
+#EXTINF:-1,TR: Filmbox Aile HD
+http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/16379.ts
+#EXTINF:-1,TR: Filmbox Digi 2 TV
+http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/16383.ts
+#EXTINF:-1,TR: Filmbox Digi maxan 2 TV
+http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/16381.ts
+#EXTINF:-1,TR: Filmbox Digi TV
+http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/16382.ts
+#EXTINF:-1,TR: Filmbox Drama HD
+http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/16375.ts
+#EXTINF:-1,TR: Filmbox Family HD
+http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/16376.ts
+#EXTINF:-1,TR: Filmbox FIL HD
+http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/16380.ts
+#EXTINF:-1,TR: Filmbox inevision 1 HD
+http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/16366.ts
+#EXTINF:-1,TR: Filmbox Karnval 1 HD
+http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/16367.ts
+#EXTINF:-1,TR: Filmbox Karnval 2 HD
+http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/16368.ts
+#EXTINF:-1,TR: Filmbox Karnval In 1 HD
+http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/16364.ts
+#EXTINF:-1,TR: Filmbox Karnval In 2 HD
+http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/16365.ts
+#EXTINF:-1,TR: Filmbox Nostalgia HD
+http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/16371.ts
+#EXTINF:-1,TR: Filmbox Sinetivi 1 HD
+http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/16369.ts
+#EXTINF:-1,TR: Filmbox Sinetivi 2 HD
+http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/16370.ts
+#EXTINF:-1,TR: Filmbox Special HD
+http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/16373.ts
+#EXTINF:-1,TR: Filmbox Turk HD
+http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/16378.ts
+#EXTINF:-1,TR: Filmbox VIXX HD
+http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/16377.ts
+#EXTINF:-1,TR: Filmbox xerotic HD
+http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/16374.ts
+#EXTINF:-1,TR: Filmbox Yesilcam HD
+http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/16372.ts
+#EXTINF:-1,TR: Turkmax Gurme HD
+http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/16387.ts
+#EXTINF:-1,TR: BRT 2 KKTC
+http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/14955.ts
+http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/2927.ts
+#EXTINF:-1,VIP VIASAT: Viasat Sport Sverige
+http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/4834.ts
+#EXTINF:-1,VIP VIASAT: Viasat Sport Finland
+http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/11241.ts
+#EXTINF:-1,VIP VIASAT: Viasat Sport Norge
+http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/11200.ts
+#EXTINF:-1,VIASAT: Viasat Sport Baltic
+http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/6267.ts
+#EXTINF:-1,VIP VIASAT: Viasat Fotball
+http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/4969.ts
+#EXTINF:-1,VIP VIASAT: Viasat Fotboll HD
+http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/5056.ts
+#EXTINF:-1,VIP VIASAT: Viasat Sport Premium
+http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/11238.ts
+#EXTINF:-1,VIASAT: C More Fotboll HD ( SE )
+http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/11191.ts
+#EXTINF:-1,VIASAT: C More Sport HD ( SE )
+http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/11194.ts
+#EXTINF:-1,VIASAT: C More Live ( SE )
+http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/11188.ts
+#EXTINF:-1,VIASAT: C More Live HD
+http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/4770.ts
+#EXTINF:-1,VIASAT: C MORE LIVE 2 HD
+http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/7456.ts
+#EXTINF:-1,VIASAT:C MORE LIVE 3
+http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/7448.ts
+#EXTINF:-1,VIASAT:C MORE LIVE 4
+http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/7447.ts
+#EXTINF:-1,VIP VIASAT: TV2 Sport Premium 1
+http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/11229.ts
+#EXTINF:-1,VIP VIASAT: TV2 Sport Premium 2
+http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/11230.ts
+#EXTINF:-1,VIP VIASAT: TV2 Sport Premium 3
+http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/9553.ts
+#EXTINF:-1,VIP VIASAT: TV2 Sport Premium 4
+http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/9552.ts
+#EXTINF:-1,VIP VIASAT: TV2 Sport Premium 5
+http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/9798.ts
+#EXTINF:-1,VIP VIASAT: TV2 Sport Premium 6
+http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/11231.ts
+#EXTINF:-1,VIP VIASAT: TV2 Sport Premium 7
+http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/11232.ts
+#EXTINF:-1,VIP VIASAT: TV2 Sport Premium 8
+http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/11233.ts
+#EXTINF:-1,VIASAT: TV3 Sport 1 HD ( DK )
+http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/9329.ts
+#EXTINF:-1,VIASAT: TV3 Sport 2 HD ( DK )
+http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/9328.ts
+#EXTINF:-1,VIP VIASAT: TV3 Sport
+http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/11237.ts
+#EXTINF:-1,VIASAT: TV4 Sport HD ( se )
+http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/3869.ts
+#EXTINF:-1,VIP VIASAT: Nelonen Pro 1
+http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/11225.ts
+#EXTINF:-1,VIP VIASAT: Nelonen Pro 2
+http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/11226.ts
+#EXTINF:-1,VIP VIASAT: MTV Sport 1
+http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/11227.ts
+#EXTINF:-1,VIP VIASAT: MTV Sport 2
+http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/11228.ts
+#EXTINF:-1,VIASAT: EUROSPORT 1 ( SE )
+http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/9285.ts
+#EXTINF:-1,VIASAT: C More Tennis ( SE )
+http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/11195.ts
+#EXTINF:-1,VIASAT: C More Hockey HD ( SE )
+http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/11189.ts
+#EXTINF:-1,VIASAT: C More Golf HD ( SE )
+http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/11190.ts
+#EXTINF:-1,VIASAT: Viasat Sport EAST ( NO )
+http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/11199.ts
+#EXTINF:-1,VIASAT: C MORE SPORT HD
+http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/1895.ts
+#EXTINF:-1,VIASAT: Viasat Sport Premium ( SE )
+http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/4974.ts
+#EXTINF:-1,VIASAT: C More Stars HD ( SE )
+http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/11193.ts
+#EXTINF:-1,VIASAT: C More Series HD ( SE )
+http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/11196.ts
+#EXTINF:-1,VIASAT: C More Hits HD ( SE )
+http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/11197.ts
+#EXTINF:-1,VIASAT: C More First ( SE )
+http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/11192.ts
+#EXTINF:-1,VIASAT: Viasat Film Premiere HD ( SE )
+http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/4234.ts
+#EXTINF:-1,VIASAT: Viasat Film Hits ( SE )
+http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/8536.ts
+#EXTINF:-1,VIASAT: Viasat Film Action ( SE )
+http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/6359.ts
+#EXTINF:-1,VIASAT: Viasat Film Family ( SE )
+http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/4034.ts
+#EXTINF:-1,VIASAT: Viasat Film Comedy ( SE )
+http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/7484.ts
+#EXTINF:-1,VIASAT: SVT1 HD
+http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/2742.ts
+#EXTINF:-1,VIASAT: SVT2 HD ( SE )
+http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/2741.ts
+#EXTINF:-1,VIASAT: SVTB/SVT24 ( SE )
+http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/9794.ts
+#EXTINF:-1,VIASAT: TV3 HD ( SE )
+http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/2913.ts
+#EXTINF:-1,VIASAT: TV3 Sweden
+http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/4972.ts
+#EXTINF:-1,VIASAT: TV4 HD ( SE )
+http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/11187.ts
+#EXTINF:-1,VIASAT: TV4 Guld
+http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/4975.ts
+#EXTINF:-1,VIASAT: TV4 Fakta
+http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/3870.ts
+#EXTINF:-1,VIASAT: TV4 Fakta XL ( se )
+http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/3907.ts
+#EXTINF:-1,VIASAT: TV4 Film
+http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/3908.ts
+#EXTINF:-1,VIASAT:  TV 4 Komedi
+http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/7220.ts
+#EXTINF:-1,VIASAT: TV3 Puls
+http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/4240.ts
+#EXTINF:-1,VIASAT: Kanal 5 HD ( SE )
+http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/7449.ts
+#EXTINF:-1,VIASAT: KANAL 11 ( SE )
+http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/6938.ts
+#EXTINF:-1,VIASAT: TV8 ( SE )
+http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/4252.ts
+#EXTINF:-1,VIASAT: Viasat 4
+http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/8544.ts
+#EXTINF:-1,VIASAT: TV10 ( SE )
+http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/4248.ts
+#EXTINF:-1,VIASAT: TV6
+http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/4249.ts
+#EXTINF:-1,VIASAT: TLC HD ( SE )
+http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/9785.ts
+#EXTINF:-1,VIASAT: FOX ( SE )
+http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/8458.ts
+#EXTINF:-1,VIASAT: MTV HD ( SE )
+http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/9786.ts
+#EXTINF:-1,VIASAT: Comedy Central ( SE )
+http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/9797.ts
+#EXTINF:-1,VIASAT: TCM ( SE )
+http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/9781.ts
+#EXTINF:-1,VIASAT: TNT ( SE )
+http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/2350.ts
+#EXTINF:-1,VIASAT: Kunskapskanalen ( SE )
+http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/9780.ts
+#EXTINF:-1,VIASAT: Boomerang ( SE )
+http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/9793.ts
+#EXTINF:-1,VIASAT: Cartoon Network ( SE )
+http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/7002.ts
+#EXTINF:-1,VIASAT: Disney Channel (SE)
+http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/7455.ts
+#EXTINF:-1,VIASAT: Disney Junior ( SE )
+http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/11186.ts
+#EXTINF:-1,VIASAT: Nickelodeon ( SE )
+http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/11184.ts
+#EXTINF:-1,VIASAT: Nick Jr ( SE )
+http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/11185.ts
+#EXTINF:-1,VIASAT: National Geographic ( SE )
+http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/11203.ts
+#EXTINF:-1,VIASAT: Investigation Discovery ( SE )
+http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/11202.ts
+#EXTINF:-1,VIASAT: Discovery ( SE )
+http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/11198.ts
+#EXTINF:-1,VIASAT: Discovery HD ( SE )
+http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/11204.ts
+#EXTINF:-1,VIASAT: Viasat Nature ( SE )
+http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/9783.ts
+#EXTINF:-1,VIASAT: Viasat History HD ( SE )
+http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/9782.ts
+#EXTINF:-1,VIASAT: Viasat Explore ( SE )
+http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/9784.ts
+#EXTINF:-1,VIASAT: Discovery CH ( SE )
+http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/7890.ts
+#EXTINF:-1,VIASAT: Travel Channel ( SE )
+http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/7446.ts
+#EXTINF:-1,VIASAT: SF Kanalen
+http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/7452.ts
+#EXTINF:-1,VIASAT: Axess TV
+http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/11236.ts
+#EXTINF:-1,VIASAT: C More Tennis
+http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/5053.ts
+#EXTINF:-1,VIASAT: Viasat Sport ( NO )
+http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/5235.ts
+#EXTINF:-1,VIASAT: Viasat Motor HD
+http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/5054.ts
+#EXTINF:-1,VIASAT: Viasat Hockey HD
+http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/5055.ts
+#EXTINF:-1,VIASAT: EUROSPORT 1
+http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/4250.ts
+#EXTINF:-1,VIASAT: EUROSPORT 2
+http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/6663.ts
+#EXTINF:-1,VIASAT: Fight Sports
+http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/9792.ts
+#EXTINF:-1,VIASAT: VIASAT FILM Comedy ( NO )
+http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/4235.ts
+#EXTINF:-1,VIASAT: Viasat Series HD ( SE )
+http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/5236.ts
+#EXTINF:-1,VIASAT: VIASAT HITS ( NO )
+http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/4236.ts
+#EXTINF:-1,VIASAT: VOX NR
+http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/8459.ts
+#EXTINF:-1,VIASAT: Kanal 9
+http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/7445.ts
+#EXTINF:-1,VIASAT: YLE 1 HD
+http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/9275.ts
+#EXTINF:-1,VIASAT: YLE 2 HD
+http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/9274.ts
+#EXTINF:-1,VIASAT: YLE Teema
+http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/14632.ts
+#EXTINF:-1,VIASAT: SUB ( FIN )
+http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/9276.ts
+#EXTINF:-1,VIASAT: Nelonen
+http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/8540.ts
+#EXTINF:-1,VIASAT: NELONEN PRIME
+http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/9277.ts
+#EXTINF:-1,VIASAT: NELONEN MAALIMA
+http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/9278.ts
+#EXTINF:-1,VIASAT: MTV LEFFA ( FIN )
+http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/9279.ts
+#EXTINF:-1,VIASAT: MTV JINIORI
+http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/9280.ts
+#EXTINF:-1,VIASAT: MTV FAKTA ( FIN )
+http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/9281.ts
+#EXTINF:-1,VIASAT: MTV 3 ( FIN )
+http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/9282.ts
+#EXTINF:-1,VIASAT: MAX NORGE ( FIN )
+http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/9286.ts
+#EXTINF:-1,VIASAT: LIV ( FIN )
+http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/9283.ts
+#EXTINF:-1,VIASAT: JIM ( FIN )
+http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/9284.ts
+#EXTINF:-1,VIASAT: FOX NORGE ( FIN )
+http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/9287.ts
+#EXTINF:-1,VIASAT: TV Norge
+http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/8541.ts
+#EXTINF:-1,VIASAT: Discovery ( NO )
+http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/8542.ts
+#EXTINF:-1,VIASAT: MTV DK
+http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/3909.ts
+#EXTINF:-1,VIASAT: TV7 Finland
+http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/5298.ts
+#EXTINF:-1,VIASAT: Canal 9 HD
+http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/6805.ts
+#EXTINF:-1,VIASAT: DR1
+http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/2746.ts
+#EXTINF:-1,VIASAT: DR2
+http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/2745.ts
+#EXTINF:-1,VIASAT: Dr3
+http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/10216.ts
+#EXTINF:-1,VIASAT: DK4
+http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/6782.ts
+#EXTINF:-1,VIASAT: DrK
+http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/10219.ts
+#EXTINF:-1,VIASAT: Dr Ultra
+http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/10217.ts
+#EXTINF:-1,VIASAT: Dr Ramasjang
+http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/10218.ts
+#EXTINF:-1,VIASAT: nrk3
+http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/8070.ts
+#EXTINF:-1,VIASAT: NRK 1
+http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/2744.ts
+#EXTINF:-1,VIASAT: NRK 2
+http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/2743.ts
+#EXTINF:-1,VIASAT: Jim
+http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/4247.ts
+#EXTINF:-1,VIASAT: TV2 Sport
+http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/7453.ts
+#EXTINF:-1,VIASAT: TV2 Sport DK
+http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/4243.ts
+#EXTINF:-1,VIASAT: TV2 Zebra
+http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/7454.ts
+#EXTINF:-1,VIASAT: TV2 Nyhetskanalen
+http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/8545.ts
+#EXTINF:-1,VIASAT: TV2 News
+http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/8546.ts
+#EXTINF:-1,VIASAT: TV2 Nord
+http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/4244.ts
+#EXTINF:-1,VIASAT: TV2 charlie
+http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/4246.ts
+#EXTINF:-1,VIASAT: TV2 Zulu
+http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/8920.ts
+#EXTINF:-1,VIASAT: TV2 OST
+http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/12391.ts
+#EXTINF:-1,VIASAT: TV2 NORGE
+http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/12392.ts
+#EXTINF:-1,VIASAT: TV2 LORRY
+http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/12393.ts
+#EXTINF:-1,VIASAT: TV2 Bornholm
+http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/6783.ts
+#EXTINF:-1,VIASAT: TV 2 Livsstil
+http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/14892.ts
+#EXTINF:-1,VIASAT: TV 2 Humor
+http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/14891.ts
+#EXTINF:-1,VIASAT:  TV 12
+http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/7221.ts
+#EXTINF:-1,VIASAT:  Kanal 4
+http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/7222.ts
+#EXTINF:-1,VIASAT:  Sjuan
+http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/7223.ts
+#EXTINF:-1,VIASAT: Disney XD SE
+http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/7450.ts
+#EXTINF:-1,VIASAT: History HD
+http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/9788.ts
+#EXTINF:-1,VIASAT: H2 HD
+http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/9789.ts
+#EXTINF:-1,VIASAT: BBC Earth HD
+http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/9791.ts
+#EXTINF:-1,VIASAT: Discovery HD Showcase
+http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/9790.ts
+#EXTINF:-1,VIASAT: DISCOVERY WORLD
+http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/9342.ts
+#EXTINF:-1,VIASAT: Viasat Sport Sverige
+http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/14640.ts
+#EXTINF:-1,VIASAT: Viasat Golf
+http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/14638.ts
+#EXTINF:-1,VIASAT: C More Stars
+http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/14633.ts
