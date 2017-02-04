@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-title="PERSIAN" , IRIB TV 1
+#EXTINF:-1 group-title="PERSIAN" , IRIB TV 123
 http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/12640.ts
 #EXTINF:-1 group-title="PERSIAN" tvg-name="IRIB TV 2", IRIB TV 2
 http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/12639.ts
