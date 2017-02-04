@@ -235,10 +235,15 @@ http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/12694.ts
 http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/12695.ts
 #EXTINF:-1 group-title="TURKISH" , STAR HD ( 1080P )
 http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/10819.ts
+#EXTINF:-1 group-title="TURKISH" , STAR HD
 http://ksportiptv.com:1557/live/Auron/Auron/1378.ts
+#EXTINF:-1 group-title="TURKISH" , STAR HD
 http://ksportiptv.com:1557/live/Auron/Auron/1707.ts
+#EXTINF:-1 group-title="TURKISH" , STAR HD
 http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/1604.ts
+#EXTINF:-1 group-title="TURKISH" , STAR HD
 http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/3418.ts
+#EXTINF:-1 group-title="TURKISH" , STAR HD
 http://ipsatpro.com:8000/live/asso1983/asso1983/1987.ts
 #EXTINF:-1 group-title="TURKISH" , Kanal D HD
 http://ksportiptv.com:1557/live/Auron/Auron/1238.ts
