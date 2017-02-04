@@ -235,64 +235,112 @@ http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/12694.ts
 http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/12695.ts
 #EXTINF:-1 group-title="TURKISH" , STAR HD ( 1080P )
 http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/10819.ts
-#EXTINF:-1 group-title="TURKISH" , SHOW HD ( 1080P )
-http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/10820.ts
-#EXTINF:-1 group-title="TURKISH" , TVNET HD ( 1080P )
-http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/10812.ts
-#EXTINF:-1 group-title="TURKISH" , TV 8 HD ( 1080P )
-http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/10813.ts
+#EXTINF:-1 group-title="TURKISH" , STAR TV
+http://ksportiptv.com:1557/live/Auron/Auron/1707.ts
+#EXTINF:-1 group-title="TURKISH" , Star HD
+http://ksportiptv.com:1557/live/Auron/Auron/1378.ts
 #EXTINF:-1 group-title="TURKISH" , Star TV HD
 http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/1604.ts
-#EXTINF:-1 group-title="TURKISH" , A HABER  HD
-http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/1632.ts
+#EXTINF:-1 group-title="TURKISH" , STAR HD
+http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/3418.ts
+#EXTINF:-1 group-title="TURKISH" , Star tv HD
+http://ipsatpro.com:8000/live/asso1983/asso1983/1987.ts
+#EXTINF:-1 group-title="TURKISH" , Kanal D HD
+http://ksportiptv.com:1557/live/Auron/Auron/1238.ts
 #EXTINF:-1 group-title="TURKISH" , Kanal D HD
 http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/1603.ts
 #EXTINF:-1 group-title="TURKISH" , KANAL D HD ( 1080P )
 http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/10828.ts
-#EXTINF:-1 group-title="TURKISH" , KANAL 7 HD ( 1080P )
-http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/10829.ts
-#EXTINF:-1 group-title="TURKISH" , HABER TÜRK HD ( 1080P )
-http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/10830.ts
-#EXTINF:-1 group-title="TURKISH" , FOX HD ( 1080P )
-http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/10831.ts
-#EXTINF:-1 group-title="TURKISH" , TV8 HD
-http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/4572.ts
+#EXTINF:-1 group-title="TURKISH" , Kanal D
+http://ipsatpro.com:8000/live/asso1983/asso1983/1993.ts
+#EXTINF:-1 group-title="TURKISH" , Euro D
+http://ipsatpro.com:8000/live/asso1983/asso1983/1952.ts
+#EXTINF:-1 group-title="TURKISH" , ATV HD
+http://ksportiptv.com:1557/live/Auron/Auron/1248.ts
 #EXTINF:-1 group-title="TURKISH" , A TV HD
 http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/3423.ts
-#EXTINF:-1 group-title="TURKISH" , FOX TV HD
-http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/3260.ts
-#EXTINF:-1 group-title="TURKISH" , STAR HD
-http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/3418.ts
+#EXTINF:-1 group-title="TURKISH" , ATV HD ( 1080P )
+http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/10834.ts
+#EXTINF:-1 group-title="TURKISH" , ATV
+http://ipsatpro.com:8000/live/asso1983/asso1983/1978.ts
+#EXTINF:-1 group-title="TURKISH" , ATV Avrupa
+http://ipsatpro.com:8000/live/asso1983/asso1983/1957.ts
+#EXTINF:-1 group-title="TURKISH" , SHOW HD
+http://ksportiptv.com:1557/live/Auron/Auron/1399.ts
+#EXTINF:-1 group-title="TURKISH" , SHOW HD ( 1080P )
+http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/10820.ts
 #EXTINF:-1 group-title="TURKISH" , SHOW HD
 http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/3419.ts
-#EXTINF:-1 group-title="TURKISH" , Kanal 7 HD
-http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/8927.ts
+#EXTINF:-1 group-title="TURKISH" , Show TV
+http://ipsatpro.com:8000/live/asso1983/asso1983/1990.ts
+#EXTINF:-1 group-title="TURKISH" , Show Turk
+http://ipsatpro.com:8000/live/asso1983/asso1983/1989.ts
+#EXTINF:-1 group-title="TURKISH" , TV8 HD
+http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/4572.ts
+#EXTINF:-1 group-title="TURKISH" , TV 8 HD ( 1080P )
+http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/10813.ts
+#EXTINF:-1 group-title="TURKISH" , TV8
+http://ipsatpro.com:8000/live/asso1983/asso1983/1980.ts
+#EXTINF:-1 group-title="TURKISH" , TV8,5
+http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/2472.ts
+#EXTINF:-1 group-title="TURKISH" , TVNET HD ( 1080P )
+http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/10812.ts
+#EXTINF:-1 group-title="TURKISH" , FOX TV HD
+http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/3260.ts
+#EXTINF:-1 group-title="TURKISH" , FOX HD ( 1080P )
+http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/10831.ts
+#EXTINF:-1 group-title="TURKISH" , Fox TV HD
+http://ipsatpro.com:8000/live/asso1983/asso1983/1988.ts
+#EXTINF:-1 group-title="TURKISH" , BEYAZ HD ( 1080P )
+http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/10833.ts
 #EXTINF:-1 group-title="TURKISH" , Beyaz Tv HD
 http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/8888.ts
+#EXTINF:-1 group-title="TURKISH" , A HABER  HD
+http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/1632.ts
+#EXTINF:-1 group-title="TURKISH" , Kanal 7 HD
+http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/8927.ts
+#EXTINF:-1 group-title="TURKISH" , KANAL 7 HD ( 1080P )
+http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/10829.ts
+#EXTINF:-1 group-title="TURKISH" , TV 2
+http://ipsatpro.com:8000/live/asso1983/asso1983/1960.ts
+#EXTINF:-1 group-title="TURKISH" , Fox Crime tv
+http://ipsatpro.com:8000/live/asso1983/asso1983/2011.ts
+#EXTINF:-1 group-title="TURKISH" , FX TV
+http://ipsatpro.com:8000/live/asso1983/asso1983/2010.ts
+#EXTINF:-1 group-title="TURKISH" , Life Time
+http://ipsatpro.com:8000/live/asso1983/asso1983/2009.ts
+#EXTINF:-1 group-title="TURKISH" , HABER TÜRK HD ( 1080P )
+http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/10830.ts
 #EXTINF:-1 group-title="TURKISH" , FLASH TV
 http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/5634.ts
 #EXTINF:-1 group-title="TURKISH" , LIG TV HD 1 TR
 http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/4497.ts
+#EXTINF:-1 group-title="TURKISH" , LIGTV 1 HD
+http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/1153.ts
 #EXTINF:-1 group-title="TURKISH" , LIG TV HD 2 TR
 http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/4498.ts
 #EXTINF:-1 group-title="TURKISH" , LIG TV HD 3 TR
 http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/4499.ts
 #EXTINF:-1 group-title="TURKISH" , LIG TV 1 HD
 http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/2408.ts
+#EXTINF:-1 group-title="TURKISH" , Lig TV 1
+http://ipsatpro.com:8000/live/asso1983/asso1983/2002.ts
 #EXTINF:-1 group-title="TURKISH" , LIG TV 2 HD
 http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/2409.ts
-#EXTINF:-1 group-title="TURKISH" , LIG TV 3 HD
-http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/2410.ts
-#EXTINF:-1 group-title="TURKISH" , Lig TV 4 HD
-http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/11031.ts
-#EXTINF:-1 group-title="TURKISH" , LIGTV3 HD
-http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/1156.ts
-#EXTINF:-1 group-title="TURKISH" , LIGTV 1 HD
-http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/1153.ts
+#EXTINF:-1 group-title="TURKISH" , Lig TV 2
+http://ipsatpro.com:8000/live/asso1983/asso1983/2001.ts
 #EXTINF:-1 group-title="TURKISH" , LIGTV 2 HD
 http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/1154.ts
+#EXTINF:-1 group-title="TURKISH" , LIG TV 3 HD
+http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/2410.ts
+#EXTINF:-1 group-title="TURKISH" , LIGTV3 HD
+http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/1156.ts
 #EXTINF:-1 group-title="TURKISH" , LIGTV 3 HD
 http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/1155.ts
+#EXTINF:-1 group-title="TURKISH" , Lig TV 3
+http://ipsatpro.com:8000/live/asso1983/asso1983/2000.ts
+#EXTINF:-1 group-title="TURKISH" , Lig TV 4 HD
+http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/11031.ts
 #EXTINF:-1 group-title="TURKISH" , TIVIBU  SPOR 1 HD
 http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/5622.ts
 #EXTINF:-1 group-title="TURKISH" , TIVIBU  SPOR 2 HD
@@ -327,16 +375,10 @@ http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/6492.ts
 http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/10823.ts
 #EXTINF:-1 group-title="TURKISH" , POWER HD ( 1080P )
 http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/10824.ts
-#EXTINF:-1 group-title="TURKISH" , BEYAZ HD ( 1080P )
-http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/10833.ts
-#EXTINF:-1 group-title="TURKISH" , ATV HD ( 1080P )
-http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/10834.ts
 #EXTINF:-1 group-title="TURKISH" , A HABER HD ( 1080P )
 http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/10836.ts
 #EXTINF:-1 group-title="TURKISH" , TRT 1 HD
 http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/1606.ts
-#EXTINF:-1 group-title="TURKISH" , TV8,5
-http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/2472.ts
 #EXTINF:-1 group-title="TURKISH" , SALON 1 HD
 http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/2066.ts
 #EXTINF:-1 group-title="TURKISH" , SALON 2 HD
@@ -499,7 +541,6 @@ http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/16374.ts
 http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/16372.ts
 #EXTINF:-1 group-title="TURKISH" , Turkmax Gurme HD
 http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/16387.ts
-
 #EXTINF:-1 group-title="TURKISH" , Filmbox Karnval In 1 HD
 http://ipsatpro.com:8000/live/asso1983/asso1983/2161.ts
 #EXTINF:-1 group-title="TURKISH" , Filmbox Karnval In 2 HD
@@ -586,12 +627,6 @@ http://ipsatpro.com:8000/live/asso1983/asso1983/1942.ts
 http://ipsatpro.com:8000/live/asso1983/asso1983/1943.ts
 #EXTINF:-1 group-title="TURKISH" , Salon 4
 http://ipsatpro.com:8000/live/asso1983/asso1983/1948.ts
-#EXTINF:-1 group-title="TURKISH" , Lig TV 1
-http://ipsatpro.com:8000/live/asso1983/asso1983/2002.ts
-#EXTINF:-1 group-title="TURKISH" , Lig TV 2
-http://ipsatpro.com:8000/live/asso1983/asso1983/2001.ts
-#EXTINF:-1 group-title="TURKISH" , Lig TV 3
-http://ipsatpro.com:8000/live/asso1983/asso1983/2000.ts
 #EXTINF:-1 group-title="TURKISH" , NTV Spor
 http://ipsatpro.com:8000/live/asso1983/asso1983/1996.ts
 #EXTINF:-1 group-title="TURKISH" , Tivibu Spor 1 HD
@@ -628,8 +663,6 @@ http://ipsatpro.com:8000/live/asso1983/asso1983/1979.ts
 http://ipsatpro.com:8000/live/asso1983/asso1983/1971.ts
 #EXTINF:-1 group-title="TURKISH" , TRT AVAZ
 http://ipsatpro.com:8000/live/asso1983/asso1983/1983.ts
-#EXTINF:-1 group-title="TURKISH" , Kanal D
-http://ipsatpro.com:8000/live/asso1983/asso1983/1993.ts
 #EXTINF:-1 group-title="TURKISH" , Kanal A
 http://ipsatpro.com:8000/live/asso1983/asso1983/1994.ts
 #EXTINF:-1 group-title="TURKISH" , Kanal Urfa
@@ -640,36 +673,12 @@ http://ipsatpro.com:8000/live/asso1983/asso1983/1947.ts
 http://ipsatpro.com:8000/live/asso1983/asso1983/1961.ts
 #EXTINF:-1 group-title="TURKISH" , Kanal 7 Avrupa
 http://ipsatpro.com:8000/live/asso1983/asso1983/1958.ts
-#EXTINF:-1 group-title="TURKISH" , ATV
-http://ipsatpro.com:8000/live/asso1983/asso1983/1978.ts
-#EXTINF:-1 group-title="TURKISH" , ATV Avrupa
-http://ipsatpro.com:8000/live/asso1983/asso1983/1957.ts
-#EXTINF:-1 group-title="TURKISH" , Show TV
-http://ipsatpro.com:8000/live/asso1983/asso1983/1990.ts
-#EXTINF:-1 group-title="TURKISH" , Show Turk
-http://ipsatpro.com:8000/live/asso1983/asso1983/1989.ts
 #EXTINF:-1 group-title="TURKISH" , Planet Cocuk
 http://ipsatpro.com:8000/live/asso1983/asso1983/1986.ts
 #EXTINF:-1 group-title="TURKISH" , Power Turk
 http://ipsatpro.com:8000/live/asso1983/asso1983/1946.ts
 #EXTINF:-1 group-title="TURKISH" , CNN TURK
 http://ipsatpro.com:8000/live/asso1983/asso1983/1995.ts
-#EXTINF:-1 group-title="TURKISH" , TV 2
-http://ipsatpro.com:8000/live/asso1983/asso1983/1960.ts
-#EXTINF:-1 group-title="TURKISH" , TV8
-http://ipsatpro.com:8000/live/asso1983/asso1983/1980.ts
-#EXTINF:-1 group-title="TURKISH" , Star tv HD
-http://ipsatpro.com:8000/live/asso1983/asso1983/1987.ts
-#EXTINF:-1 group-title="TURKISH" , Fox TV HD
-http://ipsatpro.com:8000/live/asso1983/asso1983/1988.ts
-#EXTINF:-1 group-title="TURKISH" , Fox Crime tv
-http://ipsatpro.com:8000/live/asso1983/asso1983/2011.ts
-#EXTINF:-1 group-title="TURKISH" , FX TV
-http://ipsatpro.com:8000/live/asso1983/asso1983/2010.ts
-#EXTINF:-1 group-title="TURKISH" , Life Time
-http://ipsatpro.com:8000/live/asso1983/asso1983/2009.ts
-#EXTINF:-1 group-title="TURKISH" , Euro D
-http://ipsatpro.com:8000/live/asso1983/asso1983/1952.ts
 #EXTINF:-1 group-title="TURKISH" , EGE TV
 http://ipsatpro.com:8000/live/asso1983/asso1983/2014.ts
 #EXTINF:-1 group-title="TURKISH" , Viasat Exploer
