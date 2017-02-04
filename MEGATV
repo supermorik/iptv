@@ -1,73 +1,60 @@
 #EXTM3U
-#EXTINF:-1,PER: IRIB TV 1
+#EXTINF:-1 group-title="PERSIAN" tvg-name=" IRIB TV 1", IRIB TV 1
 http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/12640.ts
-#EXTINF:-1,PER: IRIB TV 2
+#EXTINF:-1 group-title=«PERSIAN» tvg-name=” IRIB TV 2”, IRIB TV 2
 http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/12639.ts
-#EXTINF:-1,PER: IRIB TV 3
+#EXTINF:-1 group-title=«PERSIAN» tvg-name=” IRIB TV 3”, IRIB TV 3
 http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/12638.ts
-#EXTINF:-1,PER: IRIB TV 4
+#EXTINF:-1 group-title=«PERSIAN» tvg-name=”IRIB TV 4”, IRIB TV 4
 http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/12637.ts
-#EXTINF:-1,PER: IRIB TV 5
+#EXTINF:-1 group-title=«PERSIAN» tvg-name=” IRIB TV 5”, IRIB TV 5
 http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/12636.ts
-#EXTINF:-1,PER: Irinn TV
+#EXTINF:-1 group-title=«PERSIAN» tvg-name=” Irinn TV”, Irinn TV
 http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/12635.ts
-#EXTINF:-1,PER: IRIB VARZESH IR
+#EXTINF:-1 group-title=«PERSIAN» tvg-name=” IRIB VARZESH IR”, IRIB VARZESH IR
 http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/12584.ts
-#EXTINF:-1,PER: IRIB Semnan
-http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/12641.ts
-#EXTINF:-1,PER: IRIB Quran
-http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/12642.ts
-#EXTINF:-1,PER: IRIB Promo
-http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/12643.ts
-#EXTINF:-1,PER: Irib Pooya TV
+#EXTINF:-1 group-title=«PERSIAN» tvg-name=” Irib Pooya TV”, Irib Pooya TV
 http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/12582.ts
-#EXTINF:-1,PER: IRIB NASIM IR
+#EXTINF:-1 group-title=«PERSIAN» tvg-name=” IRIB NASIM IR”, IRIB NASIM IR
 http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/12585.ts
-#EXTINF:-1,PER: IRIB Mostanad
+#EXTINF:-1 group-title=«PERSIAN» tvg-name=” IRIB Mostanad”, IRIB Mostanad
 http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/12644.ts
-#EXTINF:-1,PER: IRIB Mahabad
+#EXTINF:-1 group-title=«PERSIAN» tvg-name=” IRIB Mahabad”, IRIB Mahabad
 http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/12645.ts
-#EXTINF:-1,PER: IRIB Ilam
-http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/12646.ts
-#EXTINF:-1,PER: IRIB Alborz Karaj TV
-http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/12647.ts
-#EXTINF:-1,PER: IRIB Abadan
-http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/12648.ts
-#EXTINF:-1,PER: Qom TV IRIB Noor
-http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/12598.ts
-#EXTINF:-1,PER: Yazd TV IRIB Taban
-http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/12587.ts
-#EXTINF:-1,PER: GEM TV
+#EXTINF:-1 group-title=«PERSIAN» tvg-name=” GEM TV”, GEM TV
 http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/12667.ts
-#EXTINF:-1,PER: GEM USA
+#EXTINF:-1 group-title=«PERSIAN» tvg-name=” GEM USA”, GEM USA
 http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/12680.ts
-#EXTINF:-1,PER: GEM TRAVEL
+#EXTINF:-1 group-title=«PERSIAN» tvg-name=” GEM TRAVEL”, GEM TRAVEL
 http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/12679.ts
-#EXTINF:-1,PER: GEM Teen
+#EXTINF:-1 group-title=«PERSIAN» tvg-name=” GEM Teen”, GEM Teen
 http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/12668.ts
-#EXTINF:-1,PER: Gem ST
+#EXTINF:-1 group-title=«PERSIAN» tvg-name=” Gem ST”, Gem ST
 http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/12669.ts
-#EXTINF:-1,PER: GEM Series
+#EXTINF:-1 group-title=«PERSIAN» tvg-name=” GEM Series”, GEM Series
 http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/12670.ts
-#EXTINF:-1,PER: Gem River HD
+#EXTINF:-1 group-title=«PERSIAN» tvg-name=” Gem River HD”, Gem River HD
 http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/12678.ts
-#EXTINF:-1,PER: Gem ONYX HD
+#EXTINF:-1 group-title=«PERSIAN» tvg-name=” Gem ONYX HD”, Gem ONYX HD
 http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/12677.ts
-#EXTINF:-1,PER: GEM MIFA
+#EXTINF:-1 group-title=«PERSIAN» tvg-name=” GEM MIFA”, GEM MIFA
 http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/12676.ts
-#EXTINF:-1,PER: Gem Life
+#EXTINF:-1 group-title=«PERSIAN» tvg-name=” Gem Life”, Gem Life
 http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/12671.ts
-#EXTINF:-1,PER: GEM Junior
+#EXTINF:-1 group-title=«PERSIAN» tvg-name=” GEM Junior”, GEM Junior
 http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/12672.ts
-#EXTINF:-1,PER: GEM Education
+#EXTINF:-1 group-title=«PERSIAN» tvg-name=” GEM Education”, GEM Education
 http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/12673.ts
-#EXTINF:-1,PER: GEM Classic
+#EXTINF:-1 group-title=«PERSIAN» tvg-name=” GEM Classic”, GEM Classic
 http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/12674.ts
-#EXTINF:-1,PER: GEM Bollywood
+#EXTINF:-1 group-title=«PERSIAN» tvg-name=” GEM Bollywood”, GEM Bollywood
 http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/12681.ts
-#EXTINF:-1,PER: Gem AZ 1
+#EXTINF:-1 group-title=«PERSIAN» tvg-name=” Gem AZ 1, Gem AZ 1
 http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/12675.ts
-#EXTINF:-1,PER: Zanjan TV Eshragh TV
-http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/12586.ts
-#EXTINF:-1,PER: VOA PERSIAN IR
-http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/12583.ts
+#EXTINF:-1 group-title=«PERSIAN» tvg-name=” Rubix TV”, Rubix TV
+http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/12595.ts
+#EXTINF:-1 group-title=«PERSIAN» tvg-name=” Rox 1”, Rox 1
+http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/12596.ts
+#EXTINF:-1 group-title=«PERSIAN» tvg-name=” River TV”, River TV
+http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/12597.ts
+
