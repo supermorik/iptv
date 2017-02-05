@@ -1,238 +1,62 @@
 #EXTM3U
 #EXTINF:-1 group-title="PERSIAN" , IRIB TV 1
-http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/12640.ts
+http://63.237.48.28/ios/IRIB_TV1/IRIB_TV1.m3u8
 #EXTINF:-1 group-title="PERSIAN" , IRIB TV 2
-http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/12639.ts
+http://63.237.48.28/ios/IRIB_TV2/IRIB_TV2.m3u8
 #EXTINF:-1 group-title="PERSIAN" , IRIB TV 3
-http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/12638.ts
+http://63.237.48.28/ios/IRIB_TV3/IRIB_TV3.m3u8
 #EXTINF:-1 group-title="PERSIAN" , IRIB TV 4
-http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/12637.ts
+http://63.237.48.28/ios/IRIB_TV4/IRIB_TV4.m3u8
 #EXTINF:-1 group-title="PERSIAN" , IRIB TV 5
-http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/12636.ts
+http://63.237.48.28/ios/IRIB_TV5/IRIB_TV5.m3u8
 #EXTINF:-1 group-title="PERSIAN" , Irinn TV
-http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/12635.ts
+http://63.237.48.28/ios/IRINN/IRINN.m3u8
 #EXTINF:-1 group-title="PERSIAN" , IRIB VARZESH IR
-http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/12584.ts
-#EXTINF:-1 group-title="PERSIAN" , IRIB Semnan
-http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/12641.ts
-#EXTINF:-1 group-title="PERSIAN" , IRIB Quran
-http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/12642.ts
-#EXTINF:-1 group-title="PERSIAN" , IRIB Promo
-http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/12643.ts
-#EXTINF:-1 group-title="PERSIAN" , Irib Pooya TV
-http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/12582.ts
+http://63.237.48.28/ios/VARZESH_TV/VARZESH_TV.m3u8
 #EXTINF:-1 group-title="PERSIAN" , IRIB NASIM IR
-http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/12585.ts
+http://63.237.48.28/ios/IRIB_NASIM/IRIB_NASIM.m3u8
 #EXTINF:-1 group-title="PERSIAN" , IRIB Mostanad
-http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/12644.ts
-#EXTINF:-1 group-title="PERSIAN" , IRIB Mahabad
-http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/12645.ts
-#EXTINF:-1 group-title="PERSIAN" , IRIB Ilam
-http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/12646.ts
-#EXTINF:-1 group-title="PERSIAN" , IRIB Alborz Karaj TV
-http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/12647.ts
-#EXTINF:-1 group-title="PERSIAN" , IRIB Abadan
-http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/12648.ts
-#EXTINF:-1 group-title="PERSIAN" , Qom TV IRIB Noor
-http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/12598.ts
-#EXTINF:-1 group-title="PERSIAN" , Yazd TV IRIB Taban
-http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/12587.ts
+http://63.237.48.28/ios/IRIB_MOSTANAD/IRIB_MOSTANAD.m3u8
 #EXTINF:-1 group-title="PERSIAN" , GEM TV
-http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/12667.ts
+http://63.237.48.28/ios/GEM_TV/GEM_TV.m3u8
 #EXTINF:-1 group-title="PERSIAN" , GEM USA
-http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/12680.ts
+http://63.237.48.28/ios/GEM_USA/GEM_USA.m3u8
 #EXTINF:-1 group-title="PERSIAN" , GEM TRAVEL
-http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/12679.ts
+http://63.237.48.28/ios/GEM_TRAVEL/GEM_TRAVEL.m3u8
 #EXTINF:-1 group-title="PERSIAN" , GEM Teen
-http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/12668.ts
+http://63.237.48.28/ios/GEM_TEEN/GEM_TEEN.m3u8
 #EXTINF:-1 group-title="PERSIAN" , Gem ST
-http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/12669.ts
+http://63.237.48.28/ios/GEM_ST/GEM_ST.m3u8
 #EXTINF:-1 group-title="PERSIAN" , GEM Series
-http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/12670.ts
+http://63.237.48.28/ios/GEM_SERIES/GEM_SERIES.m3u8
 #EXTINF:-1 group-title="PERSIAN" , Gem River HD
-http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/12678.ts
+http://63.237.48.23/ios/GEM_RIVER/GEM_RIVER.m3u8
 #EXTINF:-1 group-title="PERSIAN" , Gem ONYX HD
-http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/12677.ts
+http://63.237.48.28/ios/ONYX/ONYX.m3u8
 #EXTINF:-1 group-title="PERSIAN" , GEM MIFA
-http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/12676.ts
+http://63.237.48.28/ios/GEM_MIFA/GEM_MIFA.m3u8
 #EXTINF:-1 group-title="PERSIAN" , Gem Life
-http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/12671.ts
+http://63.237.48.28/ios/GEM_LIFE/GEM_LIFE.m3u8
 #EXTINF:-1 group-title="PERSIAN" , GEM Junior
-http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/12672.ts
-#EXTINF:-1 group-title="PERSIAN" , GEM Education
-http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/12673.ts
-#EXTINF:-1 group-title="PERSIAN" , GEM Classic
-http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/12674.ts
+http://63.237.48.28/ios/GEM_JUNIOR/GEM_JUNIOR.m3u8
+#EXTINF:-1 group-title="PERSIAN" , GEM KURD
+http://63.237.48.28/ios/GEM_KURD/GEM_KURD.m3u8
 #EXTINF:-1 group-title="PERSIAN" , GEM Bollywood
-http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/12681.ts
-#EXTINF:-1 group-title="PERSIAN" , Gem AZ 1
-http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/12675.ts
-#EXTINF:-1 group-title="PERSIAN" , Zanjan TV Eshragh TV
-http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/12586.ts
+http://63.237.48.28/ios/GEM_BOLLYWOOD/GEM_BOLLYWOOD.m3u8
 #EXTINF:-1 group-title="PERSIAN" , VOA PERSIAN IR
-http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/12583.ts
-#EXTINF:-1 group-title="PERSIAN" , TM TV
-http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/12588.ts
-#EXTINF:-1 group-title="PERSIAN" , Tin TV
-http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/12589.ts
+http://63.237.48.28/ios/VOA_PERSIAN/VOA_PERSIAN.m3u8
 #EXTINF:-1 group-title="PERSIAN" , Tapesh TV
-http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/12590.ts
-#EXTINF:-1 group-title="PERSIAN" , Simaye Azadi
-http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/12591.ts
-#EXTINF:-1 group-title="PERSIAN" , Shabakeh 7
-http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/12592.ts
-#EXTINF:-1 group-title="PERSIAN" , Sahand TV
-http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/12593.ts
-#EXTINF:-1 group-title="PERSIAN" , Sabalan TV
-http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/12594.ts
+http://63.237.48.28/ios/TAPESH/TAPESH.m3u8
 #EXTINF:-1 group-title="PERSIAN" , Rubix TV
-http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/12595.ts
-#EXTINF:-1 group-title="PERSIAN" , Rox 1
-http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/12596.ts
+http://63.237.48.28/ios/GEM_RUBIX/GEM_RUBIX.m3u8
 #EXTINF:-1 group-title="PERSIAN" , River TV
-http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/12597.ts
-#EXTINF:-1 group-title="PERSIAN" , Qazvin TV
-http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/12599.ts
+http://63.237.48.23/ios/GEM_RIVER/GEM_RIVER.m3u8
 #EXTINF:-1 group-title="PERSIAN" , PMC
-http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/12600.ts
-#EXTINF:-1 group-title="PERSIAN" , Persian TV
-http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/12601.ts
-#EXTINF:-1 group-title="PERSIAN" , Persian Star 1
-http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/12603.ts
-#EXTINF:-1 group-title="PERSIAN" , Persian Star 2
-http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/12602.ts
-#EXTINF:-1 group-title="PERSIAN" , Persian Music
-http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/12604.ts
-#EXTINF:-1 group-title="PERSIAN" , Persian Movie
-http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/12605.ts
-#EXTINF:-1 group-title="PERSIAN" , Pars TV
-http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/12606.ts
-#EXTINF:-1 group-title="PERSIAN" , OperaTwo
-http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/12697.ts
-#EXTINF:-1 group-title="PERSIAN" , OperaThree
-http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/12698.ts
-#EXTINF:-1 group-title="PERSIAN" , OperaOne
-http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/12696.ts
-#EXTINF:-1 group-title="PERSIAN" , Onyx TV
-http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/12607.ts
-#EXTINF:-1 group-title="PERSIAN" , OMC TV
-http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/12608.ts
-#EXTINF:-1 group-title="PERSIAN" , Nex 1
-http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/12609.ts
-#EXTINF:-1 group-title="PERSIAN" , Negah e Shoma
-http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/12610.ts
-#EXTINF:-1 group-title="PERSIAN" , My Cartoon
-http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/12611.ts
-#EXTINF:-1 group-title="PERSIAN" , Movie 1
-http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/12612.ts
-#EXTINF:-1 group-title="PERSIAN" , Modern Economy
-http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/12613.ts
+http://63.237.48.28/ios/PMC/PMC.m3u8
 #EXTINF:-1 group-title="PERSIAN" , Mifa Music
-http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/12614.ts
-#EXTINF:-1 group-title="PERSIAN" , MI TV
-http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/12615.ts
-#EXTINF:-1 group-title="PERSIAN" , Mazandaran TV Tabarestan TV
-http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/12616.ts
-#EXTINF:-1 group-title="PERSIAN" , Markazi TV Aftab TV
-http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/12617.ts
+http://63.237.48.28/ios/GEM_MIFA/GEM_MIFA.m3u8
 #EXTINF:-1 group-title="PERSIAN" , Manoto 1
-http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/12618.ts
-#EXTINF:-1 group-title="PERSIAN" , Lorestan TV Aflak TV
-http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/12619.ts
-#EXTINF:-1 group-title="PERSIAN" , Kordestan TV
-http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/12620.ts
-#EXTINF:-1 group-title="PERSIAN" , Khorosan Jonoobi
-http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/12621.ts
-#EXTINF:-1 group-title="PERSIAN" , Khorasan Shomali Atrak TV
-http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/12622.ts
-#EXTINF:-1 group-title="PERSIAN" , Khorasan Razavi TV
-http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/12623.ts
-#EXTINF:-1 group-title="PERSIAN" , Khoozestan TV
-http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/12624.ts
-#EXTINF:-1 group-title="PERSIAN" , Khatereh TV
-http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/12625.ts
-#EXTINF:-1 group-title="PERSIAN" , Khatereh 2
-http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/12626.ts
-#EXTINF:-1 group-title="PERSIAN" , Khane Honarmandan
-http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/12627.ts
-#EXTINF:-1 group-title="PERSIAN" , Khane Film
-http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/12628.ts
-#EXTINF:-1 group-title="PERSIAN" , Khalij e Fars TV
-http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/12629.ts
-#EXTINF:-1 group-title="PERSIAN" , Kermanshah TV
-http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/12630.ts
-#EXTINF:-1 group-title="PERSIAN" , Kerman TV IRIB Ostani
-http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/12631.ts
-#EXTINF:-1 group-title="PERSIAN" , Kalameh Farsi
-http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/12632.ts
-#EXTINF:-1 group-title="PERSIAN" , Jahanbin TV
-http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/12633.ts
-#EXTINF:-1 group-title="PERSIAN" , ITN
-http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/12634.ts
-#EXTINF:-1 group-title="PERSIAN" , Iran View
-http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/12649.ts
-#EXTINF:-1 group-title="PERSIAN" , Iran Plus
-http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/12650.ts
-#EXTINF:-1 group-title="PERSIAN" , Iran MN TV
-http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/12651.ts
-#EXTINF:-1 group-title="PERSIAN" , Iran Gold Star 1 Movie
-http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/12653.ts
-#EXTINF:-1 group-title="PERSIAN" , Iran Gold Star 2 Music
-http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/12652.ts
-#EXTINF:-1 group-title="PERSIAN" , Iran Gold
-http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/12654.ts
-#EXTINF:-1 group-title="PERSIAN" , Iran FM TV
-http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/12655.ts
-#EXTINF:-1 group-title="PERSIAN" , Iran Bmarz
-http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/12656.ts
-#EXTINF:-1 group-title="PERSIAN" , Iran AS Music
-http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/12657.ts
-#EXTINF:-1 group-title="PERSIAN" , ICC TV
-http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/12658.ts
-#EXTINF:-1 group-title="PERSIAN" , I Music
-http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/12659.ts
-#EXTINF:-1 group-title="PERSIAN" , I Film TV
-http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/12660.ts
-#EXTINF:-1 group-title="PERSIAN" , HPTV
-http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/12661.ts
-#EXTINF:-1 group-title="PERSIAN" , HOD HOD Farsi
-http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/12662.ts
-#EXTINF:-1 group-title="PERSIAN" , Hamoon TV Zahedan
-http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/12663.ts
-#EXTINF:-1 group-title="PERSIAN" , Hamedan TV Sina TV
-http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/12664.ts
-#EXTINF:-1 group-title="PERSIAN" , Guilan TV Baran TV
-http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/12665.ts
-#EXTINF:-1 group-title="PERSIAN" , Golestan TV Sabz TV
-http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/12666.ts
-#EXTINF:-1 group-title="PERSIAN" , Ganj e Hozour TV
-http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/12682.ts
-#EXTINF:-1 group-title="PERSIAN" , FTL Farsi Kliksat
-http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/12683.ts
-#EXTINF:-1 group-title="PERSIAN" , Farsi 1
-http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/12684.ts
-#EXTINF:-1 group-title="PERSIAN" , Fars TV
-http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/12685.ts
-#EXTINF:-1 group-title="PERSIAN" , FACE 1
-http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/12687.ts
-#EXTINF:-1 group-title="PERSIAN" , Face 2
-http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/12686.ts
-#EXTINF:-1 group-title="PERSIAN" , Didgah TV
-http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/12688.ts
-#EXTINF:-1 group-title="PERSIAN" , Dena TV
-http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/12689.ts
-#EXTINF:-1 group-title="PERSIAN" , Boushehr TV
-http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/12690.ts
-#EXTINF:-1 group-title="PERSIAN" , BBC Persian
-http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/12691.ts
-#EXTINF:-1 group-title="PERSIAN" , Bakhtar Music
-http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/12692.ts
-#EXTINF:-1 group-title="PERSIAN" , Angel TV
-http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/12693.ts
-#EXTINF:-1 group-title="PERSIAN" , Andisheh TV
-http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/12694.ts
-#EXTINF:-1 group-title="PERSIAN" , Amouzesh TV
-http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/12695.ts
+http://63.237.48.28/ios/MANOTO_1/MANOTO_1.m3u8
 #EXTINF:-1 group-title="TURKISH" , STAR HD ( 1080P )
 http://dmtn-iptv.com:8080/live/715nad2309vc/1iyEB9qqti/10819.ts
 #EXTINF:-1 group-title="TURKISH" , STAR HD
