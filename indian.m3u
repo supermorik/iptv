@@ -61,5 +61,24 @@ http://63.237.48.28/ios/MANOTO_1/MANOTO_1.m3u8
 ****COMING SOON****
 #EXTINF:-1 group-title="SCANDINAVIA" , C More Series
 ****COMING SOON****
-#EXTINF:-1 group-title="BEIN", beIN SPORTS MAX 1 HD
-****COMING SOON****
+#EXTINF:-1 group-title="BEIN", beIN SPORTS 1 HD
+http://system.fpiptv.com:8080/live/mojarraochenta/mojarraochenta/1227.ts
+#EXTINF:-1 group-title="BEIN", beIN SPORTS 2 HD
+http://system.fpiptv.com:8080/live/mojarraochenta/mojarraochenta/1228.ts
+#EXTINF:-1 group-title="BEIN", beIN SPORTS 3 HD
+http://system.fpiptv.com:8080/live/mojarraochenta/mojarraochenta/1229.ts
+#EXTINF:-1 group-title="BEIN", beIN SPORTS 4 HD
+http://system.fpiptv.com:8080/live/mojarraochenta/mojarraochenta/1230.ts
+#EXTINF:-1 group-title="BEIN", beIN SPORTS 5 HD
+http://system.fpiptv.com:8080/live/mojarraochenta/mojarraochenta/1231.ts
+#EXTINF:-1 group-title="BEIN", beIN SPORTS 6 HD
+http://system.fpiptv.com:8080/live/mojarraochenta/mojarraochenta/1232.ts
+#EXTINF:-1 group-title="BEIN", beIN SPORTS 7 HD
+http://system.fpiptv.com:8080/live/mojarraochenta/mojarraochenta/1233.ts
+#EXTINF:-1 group-title="BEIN", beIN SPORTS 8 HD
+http://system.fpiptv.com:8080/live/mojarraochenta/mojarraochenta/1234.ts
+#EXTINF:-1 group-title="BEIN", beIN SPORTS 9 HD
+http://system.fpiptv.com:8080/live/mojarraochenta/mojarraochenta/1235.ts
+#EXTINF:-1 group-title="BEIN", beIN SPORTS 10 HD
+http://system.fpiptv.com:8080/live/mojarraochenta/mojarraochenta/1236.ts
+
