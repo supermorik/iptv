@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 group-title="KURDISH" , KURDMAX
 http://smart-hdip.com:8000/live/238909956446/570655d7b4cbf/10.ts
+#EXTINF:-1 group-title="KURDISH" , NRT 2 HD
+rtmp://prxy-wza-02.iptv-playoutcenter.de/nrt2/_definst_/mp4:nrt2.stream_1
 #EXTINF:-1 group-title="PERSIAN" , IRIB TV 1
 http://63.237.48.28/ios/IRIB_TV1/IRIB_TV1.m3u8
 #EXTINF:-1 group-title="PERSIAN" , IRIB TV 2
