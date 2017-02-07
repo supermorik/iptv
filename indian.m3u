@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 group-title="KURDISH" , KURDMAX
-http://live.kurdstream.net:1935/liveTrans//myStream_720p/playlist.m3u8</link
+http://live.kurdstream.net:1935/liveTrans//myStream_720p/playlist.m3u8
 #EXTINF:-1 group-title="KURDISH" , NRT 2 HD
 rtmp://prxy-wza-02.iptv-playoutcenter.de/nrt2/_definst_/mp4:nrt2.stream_1
 #EXTINF:-1 group-title="PERSIAN" , IRIB TV 1
