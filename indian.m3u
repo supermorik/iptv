@@ -61,6 +61,8 @@ http://63.237.48.28/ios/PMC/PMC.m3u8
 http://63.237.48.28/ios/GEM_MIFA/GEM_MIFA.m3u8
 #EXTINF:-1 group-title="PERSIAN" , Manoto 1
 http://63.237.48.28/ios/MANOTO_1/MANOTO_1.m3u8
+#EXTINF:-1 group-title="TEST" ,COCUK
+http://www.canlitv.com/embed/?id=86
 #EXTINF:-1 group-title="TURKISH" ,MOVIESMART PREMIUM
 http://pro213.com/live/morik094/uz8ato/2462.m3u8
 #EXTINF:-1 group-title="TURKISH" ,MOVIESMART ACTION
