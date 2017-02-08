@@ -62,7 +62,7 @@ http://63.237.48.28/ios/GEM_MIFA/GEM_MIFA.m3u8
 #EXTINF:-1 group-title="PERSIAN" , Manoto 1
 http://63.237.48.28/ios/MANOTO_1/MANOTO_1.m3u8
 #EXTINF:-1 group-title="TEST" ,tv 8
-http://yayin8.canlitvlive.live/tv8/live.m3u8?tkn=3bALcwNhfxK1buuUpHQDuQ&tms=1486595777 
+http://www.canlitvlive.live/tvizle.php?css=eyJ6ZW1pbiI6IiMxQTFBMUEiLCJub3JlbmsiOiIjNEE4Q0I4IiwiYWRyZW5rIjoiI0IwRDVFNyIsImFkaG92ZXIiOiIjZmZmZmZmIiwiYWRyZW5rc2VjIjoiI0U5NTg1OCJ9&t=2&pos=&tv=tv8
 #EXTINF:-1 group-title="TURKISH" ,MOVIESMART PREMIUM
 http://pro213.com/live/morik094/uz8ato/2462.m3u8
 #EXTINF:-1 group-title="TURKISH" ,MOVIESMART ACTION
