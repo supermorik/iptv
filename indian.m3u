@@ -61,56 +61,116 @@ http://63.237.48.28/ios/PMC/PMC.m3u8
 http://63.237.48.28/ios/GEM_MIFA/GEM_MIFA.m3u8
 #EXTINF:-1 group-title="PERSIAN" , Manoto 1
 http://63.237.48.28/ios/MANOTO_1/MANOTO_1.m3u8
-#EXTINF:-1 group-title="TEST" ,tv 8
-http://www.canlitvlive.live/tvizle.php?css=eyJ6ZW1pbiI6IiMxQTFBMUEiLCJub3JlbmsiOiIjNEE4Q0I4IiwiYWRyZW5rIjoiI0IwRDVFNyIsImFkaG92ZXIiOiIjZmZmZmZmIiwiYWRyZW5rc2VjIjoiI0U5NTg1OCJ9&t=2&pos=&tv=tv8
-#EXTINF:-1 group-title="TURKISH" ,MOVIESMART PREMIUM
-http://pro213.com/live/morik094/uz8ato/2462.m3u8
-#EXTINF:-1 group-title="TURKISH" ,MOVIESMART ACTION
-http://pro213.com/live/morik094/uz8ato/2463.m3u8
-#EXTINF:-1 group-title="TURKISH" ,SINEMA TV AKSIYON
-http://pro213.com/live/morik094/uz8ato/4328.m3u8
-#EXTINF:-1 group-title="TURKISH" ,SINEMA TV AILE
-http://pro213.com/live/morik094/uz8ato/4327.m3u8
-#EXTINF:-1 group-title="TURKISH" ,SINEMA TV 1001
-http://pro213.com/live/morik094/uz8ato/4329.m3u8
-#EXTINF:-1 group-title="TURKISH" ,FIL TV
-http://pro213.com/live/morik094/uz8ato/4324.m3u8
-#EXTINF:-1 group-title="TURKISH" , FOX HD
-http://pro213.com/live/morik094/uz8ato/4309.m3u8
-#EXTINF:-1 group-title="TURKISH" , STAR TV HD
-http://pro213.com/live/morik094/uz8ato/4307.m3u8
-#EXTINF:-1 group-title="TURKISH" , STAR TV HD ALT
-http://iptv.nbrz.ru:9705/live/and/and/77.ts
-#EXTINF:-1 group-title="TURKISH" , KANAL D  HD
-http://pro213.com/live/morik094/uz8ato/4308.m3u8
-#EXTINF:-1 group-title="TURKISH" , KANAL D HD ALT
-http://iptv.nbrz.ru:9705/live/and/and/187.ts
-#EXTINF:-1 group-title="TURKISH" , ATV HD
-http://pro213.com/live/morik094/uz8ato/4305.m3u8
-#EXTINF:-1 group-title="TURKISH" , SHOW TV HD
-http://pro213.com/live/morik094/uz8ato/4306.m3u8
-#EXTINF:-1 group-title="TURKISH" , SHOW TV HD ALT
-http://iptv.nbrz.ru:9705/live/and/and/1347.ts
-#EXTINF:-1 group-title="TURKISH" , SHOW TV HD EU
-http://iptv.nbrz.ru:9705/live/and/and/78.ts
-#EXTINF:-1 group-title="TURKISH" , TV8 HD
-http://pro213.com/live/morik094/uz8ato/4310.m3u8
-#EXTINF:-1 group-title="TURKISH" , TV8 HD ALT
-http://iptv.nbrz.ru:9705/live/and/and/1378.ts
-#EXTINF:-1 group-title="TURKISH" , TV8 ALTERNATIV
-http://yayin7.canlitvlive.live/tv8/live-1486481230713.ts 
-#EXTINF:-1 group-title="TURKISH" , TV8.5  HD
-http://pro213.com/live/morik094/uz8ato/4311.m3u8
-#EXTINF:-1 group-title="TURKISH" , BEYAZ TV
-http://pro213.com/live/morik094/uz8ato/4322.m3u8
-#EXTINF:-1 group-title="TURKISH" , 360 TV
-http://pro213.com/live/morik094/uz8ato/4320.m3u8
-#EXTINF:-1 group-title="TURKISH" , Moviesmart Turk
-http://iptv.nbrz.ru:9705/live/and/and/1367.ts
-#EXTINF:-1 group-title="TURKISH" , Sinema-Turk
-http://iptv.nbrz.ru:9705/live/and/and/1369.ts
-#EXTINF:-1 group-title="TURKISH" , FIL TV
-http://iptv.nbrz.ru:9705/live/and/and/1379.ts
+#EXTINF:-1 group-title="TURKISH" ,TV2 HD
+http://91.92.115.130/live/malek/malek1/4321.ts
+#EXTINF:-1 group-title="TURKISH" ,TV 8.5
+http://91.92.115.130/live/malek/malek1/4311.ts
+#EXTINF:-1 group-title="TURKISH" ,TV 8 HD
+http://91.92.115.130/live/malek/malek1/4310.ts
+#EXTINF:-1 group-title="TURKISH" ,Star TV HD
+http://91.92.115.130/live/malek/malek1/4307.ts
+#EXTINF:-1 group-title="TURKISH" ,Smart Sport HD 2
+http://91.92.115.130/live/malek/malek1/4326.ts
+#EXTINF:-1 group-title="TURKISH" ,Smart Sport HD
+http://91.92.115.130/live/malek/malek1/4325.ts
+#EXTINF:-1 group-title="TURKISH" ,Sinema TV Aksiyon
+http://91.92.115.130/live/malek/malek1/4328.ts
+#EXTINF:-1 group-title="TURKISH" ,Sinema TV Aile
+http://91.92.115.130/live/malek/malek1/4327.ts
+#EXTINF:-1 group-title="TURKISH" ,Sinema TV 1001
+http://91.92.115.130/live/malek/malek1/4329.ts
+#EXTINF:-1 group-title="TURKISH" ,Show TV HD
+http://91.92.115.130/live/malek/malek1/4306.ts
+#EXTINF:-1 group-title="TURKISH" ,Show Max
+http://91.92.115.130/live/malek/malek1/4318.ts
+#EXTINF:-1 group-title="TURKISH" ,Planet Turk
+http://91.92.115.130/live/malek/malek1/4395.ts
+#EXTINF:-1 group-title="TURKISH" ,Planet Pembe
+http://91.92.115.130/live/malek/malek1/4393.ts
+#EXTINF:-1 group-title="TURKISH" ,Planet Mutfak
+http://91.92.115.130/live/malek/malek1/4394.ts
+#EXTINF:-1 group-title="TURKISH" ,Planet Cocuk
+http://91.92.115.130/live/malek/malek1/4341.ts
+#EXTINF:-1 group-title="TURKISH" ,NR1 Turk
+http://91.92.115.130/live/malek/malek1/4377.ts
+#EXTINF:-1 group-title="TURKISH" ,National Geo WILD
+http://91.92.115.130/live/malek/malek1/4334.ts
+#EXTINF:-1 group-title="TURKISH" ,Mavi Karadeniz
+http://91.92.115.130/live/malek/malek1/4379.ts
+#EXTINF:-1 group-title="TURKISH" ,Kral TV
+http://91.92.115.130/live/malek/malek1/4373.ts
+#EXTINF:-1 group-title="TURKISH" ,Kitchen 24
+http://91.92.115.130/live/malek/malek1/4332.ts
+#EXTINF:-1 group-title="TURKISH" ,Kanal D HD
+http://91.92.115.130/live/malek/malek1/4308.ts
+#EXTINF:-1 group-title="TURKISH" ,Kanal 7 HD
+http://91.92.115.130/live/malek/malek1/4350.ts
+#EXTINF:-1 group-title="TURKISH" ,Fox TV HD
+http://91.92.115.130/live/malek/malek1/4309.ts
+#EXTINF:-1 group-title="TURKISH" ,Food Network
+http://91.92.115.130/live/malek/malek1/4331.ts
+#EXTINF:-1 group-title="TURKISH" ,Fil TV
+http://91.92.115.130/live/malek/malek1/4324.ts
+#EXTINF:-1 group-title="TURKISH" ,Dizi TV
+http://91.92.115.130/live/malek/malek1/4330.ts
+#EXTINF:-1 group-title="TURKISH" ,Disney Channel
+http://91.92.115.130/live/malek/malek1/4345.ts
+#EXTINF:-1 group-title="TURKISH" ,Discovery Science HD
+http://91.92.115.130/live/malek/malek1/4337.ts
+#EXTINF:-1 group-title="TURKISH" ,Discovery Channel HD
+http://91.92.115.130/live/malek/malek1/4336.ts
+#EXTINF:-1 group-title="TURKISH" ,Cartoon Network
+http://91.92.115.130/live/malek/malek1/4338.ts
+#EXTINF:-1 group-title="TURKISH" ,Beyaz TV
+http://91.92.115.130/live/malek/malek1/4322.ts
+#EXTINF:-1 group-title="TURKISH" ,ATV HD
+http://91.92.115.130/live/malek/malek1/4305.ts
+#EXTINF:-1 group-title="TURKISH" ,Animal Planet HD
+http://91.92.115.130/live/malek/malek1/4335.ts
+#EXTINF:-1 group-title="TURKISH" ,360 TV
+http://91.92.115.130/live/malek/malek1/4320.ts
+#EXTINF:-1 group-title="TURKISH" ,TR Sinema TV
+http://91.92.115.130/live/malek/malek1/3382.ts
+#EXTINF:-1 group-title="TURKISH" ,MovieSmart
+http://91.92.115.130/live/malek/malek1/3377.ts
+#EXTINF:-1 group-title="TURKISH" ,MovieSmart Premium HD
+http://91.92.115.130/live/malek/malek1/3380.ts
+#EXTINF:-1 group-title="TURKISH" ,MovieSmart Premium 2
+http://91.92.115.130/live/malek/malek1/3381.ts
+#EXTINF:-1 group-title="TURKISH" ,MovieSmart Platin2
+http://91.92.115.130/live/malek/malek1/3379.ts
+#EXTINF:-1 group-title="TURKISH" ,MovieSmart Platin
+http://91.92.115.130/live/malek/malek1/3378.ts
+#EXTINF:-1 group-title="TURKISH" ,MovieSmart Gold
+http://91.92.115.130/live/malek/malek1/3376.ts
+#EXTINF:-1 group-title="TURKISH" ,MovieSmart Fest
+http://91.92.115.130/live/malek/malek1/3374.ts
+#EXTINF:-1 group-title="TURKISH" ,MovieSmart Family
+http://91.92.115.130/live/malek/malek1/3373.ts
+#EXTINF:-1 group-title="TURKISH" ,MovieSmart Classic
+http://91.92.115.130/live/malek/malek1/3375.ts
+#EXTINF:-1 group-title="TURKISH" ,Movie Smart Action HD
+http://91.92.115.130/live/malek/malek1/3372.ts
+#EXTINF:-1 group-title="TURKISH" ,ATV
+http://91.92.115.130/live/malek/malek1/2454.ts
+#EXTINF:-1 group-title="TURKISH" ,Star TV
+http://91.92.115.130/live/malek/malek1/2455.ts
+#EXTINF:-1 group-title="TURKISH" ,Smart Sport
+http://91.92.115.130/live/malek/malek1/2460.ts
+#EXTINF:-1 group-title="TURKISH" ,FOX TV
+http://91.92.115.130/live/malek/malek1/2731.ts
+#EXTINF:-1 group-title="TURKISH" ,Fox Life HD
+http://91.92.115.130/live/malek/malek1/2732.ts
+#EXTINF:-1 group-title="TURKISH" ,Show TV
+http://91.92.115.130/live/malek/malek1/2458.ts
+#EXTINF:-1 group-title="TURKISH" ,MovieSmart Premium
+http://91.92.115.130/live/malek/malek1/2462.ts
+#EXTINF:-1 group-title="TURKISH" ,MovieSmart Action
+http://91.92.115.130/live/malek/malek1/2463.ts
+#EXTINF:-1 group-title="TURKISH" ,Kral Pop TV
+http://91.92.115.130/live/malek/malek1/2456.ts
+#EXTINF:-1 group-title="TURKISH" ,Kanal D
+http://91.92.115.130/live/malek/malek1/2453.ts
 #EXTINF:-1 group-title="INDIAN" , MBC BOLLYWOOD
 http://pro213.com/live/morik094/uz8ato/307.m3u8
 #EXTINF:-1 group-title="BEIN", beIN SPORTS 1 HD
