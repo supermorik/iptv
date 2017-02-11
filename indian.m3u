@@ -61,9 +61,6 @@ http://63.237.48.28/ios/PMC/PMC.m3u8
 http://63.237.48.28/ios/GEM_MIFA/GEM_MIFA.m3u8
 #EXTINF:-1 group-title="PERSIAN" , Manoto 1
 http://63.237.48.28/ios/MANOTO_1/MANOTO_1.m3u8
-
-#EXTINF:-1 group-title="خفن در حد تیم ملی" , -----TOP-IPTV beIN SPORTS|-----
-http://195.154.154.185:5890/live/jay/jay/3357.ts
 ##EXTINF:-1 group-title="خفن در حد تیم ملی" , beIN SPORTS News
 http://195.154.154.185:5890/live/jay/jay/1042.ts
 ##EXTINF:-1 group-title="خفن در حد تیم ملی" , beIN SPORTS HD
