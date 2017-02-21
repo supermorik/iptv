@@ -62,3 +62,51 @@ http://63.237.48.28/ios/GEM_MIFA/GEM_MIFA.m3u8
 #EXTINF:-1 group-title="PERSIAN" , Manoto 1
 http://63.237.48.28/ios/MANOTO_1/MANOTO_1.m3u8
 #EXTINF:-1 group-title="خفن در حد تیم ملی" , -----TOP-IPTV beIN SPORTS|-----
+#EXTINF:-1 group-title="خفن در حد تیم ملی" , AR_Bein_Sport_1_Gold
+http://37.187.135.136:8000/live/bilel_orange/gUqW1o9JHl/1830.ts
+#EXTINF:-1 group-title="خفن در حد تیم ملی" , AR_Bein_Sport_2_Gold
+http://37.187.135.136:8000/live/bilel_orange/gUqW1o9JHl/1831.ts
+#EXTINF:-1 group-title="خفن در حد تیم ملی" , AR_Bein_Sport_3_Gold
+http://37.187.135.136:8000/live/bilel_orange/gUqW1o9JHl/1832.ts
+#EXTINF:-1 group-title="خفن در حد تیم ملی" , AR_Bein_Sport_4_Gold
+http://37.187.135.136:8000/live/bilel_orange/gUqW1o9JHl/1833.ts
+#EXTINF:-1 group-title="خفن در حد تیم ملی" , AR_Bein_Sport_5_Gold
+http://37.187.135.136:8000/live/bilel_orange/gUqW1o9JHl/1834.ts
+#EXTINF:-1 group-title="خفن در حد تیم ملی" , AR_Bein_Sport_6_Gold
+http://37.187.135.136:8000/live/bilel_orange/gUqW1o9JHl/1835.ts
+#EXTINF:-1 group-title="خفن در حد تیم ملی" , AR_Bein_Sport_7_Gold
+http://37.187.135.136:8000/live/bilel_orange/gUqW1o9JHl/1836.ts
+#EXTINF:-1 group-title="خفن در حد تیم ملی" , AR_Bein_Sport_8_Gold
+http://37.187.135.136:8000/live/bilel_orange/gUqW1o9JHl/1837.ts
+#EXTINF:-1 group-title="خفن در حد تیم ملی" , AR_Bein_Sport_9_Gold
+http://37.187.135.136:8000/live/bilel_orange/gUqW1o9JHl/1838.ts
+#EXTINF:-1 group-title="خفن در حد تیم ملی" , AR_Bein_Sport_10_Gold
+http://37.187.135.136:8000/live/bilel_orange/gUqW1o9JHl/1839.ts
+#EXTINF:-1 group-title="خفن در حد تیم ملی" , AR_Bein_Sport_11_Gold
+http://37.187.135.136:8000/live/bilel_orange/gUqW1o9JHl/1840.ts
+#EXTINF:-1 group-title="خفن در حد تیم ملی" , AR_Bein_Sport_12_Gold
+http://37.187.135.136:8000/live/bilel_orange/gUqW1o9JHl/1841.ts
+#EXTINF:-1 group-title="خفن در حد تیم ملی" , AR_Bein_Sport_MAX1_SD
+http://37.187.135.136:8000/live/bilel_orange/gUqW1o9JHl/2006.ts
+#EXTINF:-1 group-title="خفن در حد تیم ملی" , AR_Bein_Sport_MAX2_SD
+http://37.187.135.136:8000/live/bilel_orange/gUqW1o9JHl/2007.ts
+#EXTINF:-1 group-title="خفن در حد تیم ملی" , AR_Bein_Sport_1_SD
+http://37.187.135.136:8000/live/bilel_orange/gUqW1o9JHl/1216.ts
+#EXTINF:-1 group-title="خفن در حد تیم ملی" , AR_Bein_Sport_2_SD
+http://37.187.135.136:8000/live/bilel_orange/gUqW1o9JHl/1215.ts
+#EXTINF:-1 group-title="خفن در حد تیم ملی" , AR_Bein_Sport_3_SD
+http://37.187.135.136:8000/live/bilel_orange/gUqW1o9JHl/1214.ts
+#EXTINF:-1 group-title="خفن در حد تیم ملی" , AR_Bein_Sport_4_SD
+http://37.187.135.136:8000/live/bilel_orange/gUqW1o9JHl/1213.ts
+#EXTINF:-1 group-title="خفن در حد تیم ملی" , AR_Bein_Sport_5_SD
+http://37.187.135.136:8000/live/bilel_orange/gUqW1o9JHl/1212.ts
+#EXTINF:-1 group-title="خفن در حد تیم ملی" , AR_Bein_Sport_6_SD
+http://37.187.135.136:8000/live/bilel_orange/gUqW1o9JHl/1211.ts
+#EXTINF:-1 group-title="خفن در حد تیم ملی" , AR_Bein_Sport_7_SD
+http://37.187.135.136:8000/live/bilel_orange/gUqW1o9JHl/2008.ts
+#EXTINF:-1 group-title="خفن در حد تیم ملی" , AR_Bein_Sport_8_SD
+http://37.187.135.136:8000/live/bilel_orange/gUqW1o9JHl/2009.ts
+#EXTINF:-1 group-title="خفن در حد تیم ملی" , AR_Bein_Sport_9_SD
+http://37.187.135.136:8000/live/bilel_orange/gUqW1o9JHl/2010.ts
+#EXTINF:-1 group-title="خفن در حد تیم ملی" , AR_Bein_Sport_10_SD
+http://37.187.135.136:8000/live/bilel_orange/gUqW1o9JHl/2011.ts
