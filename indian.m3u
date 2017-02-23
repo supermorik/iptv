@@ -65,6 +65,8 @@ http://63.237.48.28/ios/MANOTO_1/MANOTO_1.m3u8
 http://www.elboxtv.com:1985/live/1234567890/1234567890/1850.ts
 #EXTINF:-1 group-title="TURKISH" , TV8
 http://www.elboxtv.com:1985/live/1234567890/1234567890/1913.ts
+#EXTINF:-1 group-title="TURKISH" , TV8 TEST
+http://yayin7.canlitvlive.live/tv8_sd/live-1487877540299.ts 
 #EXTINF:-1 group-title="TURKISH" , SHOW TV
 http://www.elboxtv.com:1985/live/1234567890/1234567890/2031.ts
 #EXTINF:-1 group-title="TURKISH" , KANAL D
