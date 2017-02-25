@@ -3,7 +3,7 @@
 http://live.kurdstream.net:1935/liveTrans//myStream_720p/playlist.m3u8
 #EXTINF:-1 group-title="KURDISH" , NRT 2 HD
 rtmp://prxy-wza-02.iptv-playoutcenter.de/nrt2/_definst_/mp4:nrt2.stream_1
-#EXTINF:-1 group-title="KURDISH" , ¨KANAL 4
+#EXTINF:-1 group-title="KURDISH" , KANAL 4
 http://live1.karwan.tv/karwan.tv/kanal4/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yNS8yMDE3IDExOjE0OjIwIEFNJmhhc2hfdmFsdWU9Nk9LZXpwd0lPbmFpOE15c0lrTURMUT09JnZhbGlkbWludXRlcz0yMA==
 #EXTINF:-1 group-title="PERSIAN" , MAHABAD
 http://irib.arvan.tv/hls/irib/mahabad/index.m3u8
