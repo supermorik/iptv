@@ -71,35 +71,38 @@ http://63.237.48.28/ios/PMC/PMC.m3u8
 http://63.237.48.28/ios/GEM_MIFA/GEM_MIFA.m3u8
 #EXTINF:-1 group-title="PERSIAN" , Manoto 1
 http://63.237.48.28/ios/MANOTO_1/MANOTO_1.m3u8
+#EXTINF:-1 group-title="TURKISH" , FOXTV
+http://sutverduz.com:8080/live/eJorAI7Qlj/RXfiBz7o2q/64.ts
 #EXTINF:-1 group-title="TURKISH" , STAR TV
-http://www.elboxtv.com:1985/live/1234567890/1234567890/1850.ts
+http://sutverduz.com:8080/live/eJorAI7Qlj/RXfiBz7o2q/62.ts
 #EXTINF:-1 group-title="TURKISH" , TV8
-http://www.elboxtv.com:1985/live/1234567890/1234567890/1913.ts
+http://sutverduz.com:8080/live/eJorAI7Qlj/RXfiBz7o2q/59.ts
+#EXTINF:-1 group-title="TURKISH" , TV8,5
+http://sutverduz.com:8080/live/eJorAI7Qlj/RXfiBz7o2q/3107.ts
 #EXTINF:-1 group-title="TURKISH" , SHOW TV
-http://www.elboxtv.com:1985/live/1234567890/1234567890/2031.ts
+http://sutverduz.com:8080/live/eJorAI7Qlj/RXfiBz7o2q/63.ts
 #EXTINF:-1 group-title="TURKISH" , KANAL D
-http://www.elboxtv.com:1985/live/1234567890/1234567890/1849.ts
+http://sutverduz.com:8080/live/eJorAI7Qlj/RXfiBz7o2q/68.ts
 #EXTINF:-1 group-title="TURKISH" , ATV
-http://www.elboxtv.com:1985/live/1234567890/1234567890/1909.ts
+http://sutverduz.com:8080/live/eJorAI7Qlj/RXfiBz7o2q/66.ts
+#EXTINF:-1 group-title="TURKISH" , BEYAZ TV HD
+http://sutverduz.com:8080/live/eJorAI7Qlj/RXfiBz7o2q/65.ts
 #EXTINF:-1 group-title="خفن در حد تیم ملی" , -----TOP-IPTV beIN SPORTS|-----
 #EXTINF:-1 group-title="خفن در حد تیم ملی" , AR_Bein_Sport_1_Gold
-http://www.elboxtv.com:1985/live/1234567890/1234567890/3982.ts
+http://darklimitless.dyndns.org:19553/live/ciccio02/ciccio02/21030.ts
 #EXTINF:-1 group-title="خفن در حد تیم ملی" , AR_Bein_Sport_2_Gold
-http://www.elboxtv.com:1985/live/1234567890/1234567890/3981.ts
+http://darklimitless.dyndns.org:19553/live/ciccio02/ciccio02/21032.ts
 #EXTINF:-1 group-title="خفن در حد تیم ملی" , AR_Bein_Sport_3_Gold
-http://www.elboxtv.com:1985/live/1234567890/1234567890/3980.ts
+http://darklimitless.dyndns.org:19553/live/ciccio02/ciccio02/21031.ts
 #EXTINF:-1 group-title="خفن در حد تیم ملی" , AR_Bein_Sport_4_Gold
-http://www.elboxtv.com:1985/live/1234567890/1234567890/3979.ts
+http://darklimitless.dyndns.org:19553/live/ciccio02/ciccio02/21029.ts
 #EXTINF:-1 group-title="خفن در حد تیم ملی" , AR_Bein_Sport_5_Gold
-http://www.elboxtv.com:1985/live/1234567890/1234567890/3978.ts
+http://darklimitless.dyndns.org:19553/live/ciccio02/ciccio02/21028.ts
 #EXTINF:-1 group-title="خفن در حد تیم ملی" , AR_Bein_Sport_6_Gold
-http://www.elboxtv.com:1985/live/1234567890/1234567890/3977.ts
+http://darklimitless.dyndns.org:19553/live/ciccio02/ciccio02/21027.ts
 #EXTINF:-1 group-title="خفن در حد تیم ملی" , AR_Bein_Sport_7_Gold
-http://www.elboxtv.com:1985/live/1234567890/1234567890/3976.ts
+http://darklimitless.dyndns.org:19553/live/ciccio02/ciccio02/21026.ts
 #EXTINF:-1 group-title="خفن در حد تیم ملی" , AR_Bein_Sport_8_Gold
-http://www.elboxtv.com:1985/live/1234567890/1234567890/3975.ts
-#EXTINF:-1 group-title="خفن در حد تیم ملی" , AR_Bein_Sport_9_Gold
-http://www.elboxtv.com:1985/live/1234567890/1234567890/3974.ts
-#EXTINF:-1 group-title="خفن در حد تیم ملی" , AR_Bein_Sport_10_Gold
-http://www.elboxtv.com:1985/live/1234567890/1234567890/3983.ts
+http://darklimitless.dyndns.org:19553/live/ciccio02/ciccio02/21025.ts
+
 
