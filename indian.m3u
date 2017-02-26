@@ -20,7 +20,9 @@ http://irib.arvan.tv/hls/irib/tv2/tv2_480p/index.m3u8
 #EXTINF:-1 group-title="PERSIAN" , IRIB TV 3
 http://63.237.48.28/ios/IRIB_TV3/IRIB_TV3.m3u8
 #EXTINF:-1 group-title="PERSIAN" , IRIB TV 3 ALT
-http://irib.arvan.tv/hls/irib/tv3/tv3_480p/index.m3u8 
+http://irib.arvan.tv/hls/irib/tv3/tv3_480p/index.m3u8
+#EXTINF:-1 group-title="PERSIAN" , IRIB TV 3 ALT 2
+http://tehran04.shatel.stream.farakav.com:1935/live/smil:test2/playlist.m3u8
 #EXTINF:-1 group-title="PERSIAN" , IRIB TV 4
 http://63.237.48.28/ios/IRIB_TV4/IRIB_TV4.m3u8
 #EXTINF:-1 group-title="PERSIAN" , IRIB TV 5
