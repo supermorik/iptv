@@ -6,7 +6,7 @@ rtmp://prxy-wza-02.iptv-playoutcenter.de/nrt2/_definst_/mp4:nrt2.stream_1
 #EXTINF:-1 group-title="KURDISH" , KURDISTAN TV
 http://84.244.187.210:1935/live/livestream/playlist.m3u8
 #EXTINF:-1 group-title="PERSIAN" , MAHABAD
-http://irib.arvan.tv/hls/irib/mahabad/index.m3u8
+http://irib-live.arvancloud.com/mahabad/mahabad_360/index.m3u8
 #EXTINF:-1 group-title="PERSIAN" , JAM-E-JAM
 http://irib.arvan.tv/hls/irib/jjtvn1/index.m3u8
 #EXTINF:-1 group-title="PERSIAN" , IRIB TV 1
