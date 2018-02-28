@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 group-title="PERSIAN" , PARSILAND
+http://vps.parsiland.net/hls/ParsiLand.m3u8
 #EXTINF:-1 group-title="KURDISH" , KURDMAX
 http://live.kurdstream.net:1935/liveTrans//myStream_720p/playlist.m3u8
 #EXTINF:-1 group-title="KURDISH" , NRT 2 HD
