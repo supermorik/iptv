@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 group-title="PERSIAN" , SHABAK 3
-Http://cdn1.live.irib.ir:1935/tv/tv3-1000k.stream/playlist.m3u8
+http://s1.live.cdn.tvnet.ir/live/IRIB-TV3/720_.m3u8
 #EXTINF:-1 group-title="PERSIAN" , SHABAK 3 300
 Http://cdn1.live.irib.ir:1935/tv/tv3-300k.stream/playlist.m3u8
 #EXTINF:-1 group-title="PERSIAN" , PARSILAND
