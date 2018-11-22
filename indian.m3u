@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 group-title="PERSIAN" , NEW IRIB 1
-http:\\iptv.tivifa.com:8000\nassermorik\nmorikpass@123\85000
+http://iptv.tivifa.com:8000/nassermorik/nmorikpass@123/85000
 #EXTINF:-1 group-title="PERSIAN" , SHABAK 3
 http://s1.live.cdn.tvnet.ir/live/IRIB-TV3/720_.m3u8
 #EXTINF:-1 group-title="PERSIAN" , SHABAK 3 300
