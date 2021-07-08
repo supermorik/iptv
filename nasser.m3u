@@ -1,7 +1,7 @@
 #EXTM3U
-#EXTINF:-1   tvg-name=" Iran International FHD" tvg-logo="http://tvlogo.xyz/iran/iranint.png"
+#EXTINF:-1   tvg-name=" Iran International FHD*" tvg-logo="http://tvlogo.xyz/iran/iranint.png"
 http://new-pro.tv:8080/s3for12m127391/WydMEVkvhR/11031
-#EXTINF:-1   tvg-name="Iran International HD" tvg-logo="http://tvlogo.xyz/iran/iranint.png"
+#EXTINF:-1   tvg-name="Iran International HD*" tvg-logo="http://tvlogo.xyz/iran/iranint.png"
 http://new-pro.tv:8080/s3for12m127391/WydMEVkvhR/92538
 #EXTINF:-1   tvg-name="Iran International FHD" tvg-logo="http://tvlogo.xyz/iran/iranint.png"
 http://vopian.asotvgroup.com:8000/Nasser5/fS9xZ51RS1/86171
