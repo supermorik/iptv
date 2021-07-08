@@ -1,4 +1,7 @@
 #EXTM3U
+#EXTINF:-1   tvg-name=" Iran International HD" tvg-logo="http://tvlogo.xyz/iran/iranint.png"http://new-pro.tv:8080/s3for12m127391/WydMEVkvhR/11031
+#EXTINF:-1   tvg-name="Iran International FHD" tvg-logo="http://tvlogo.xyz/iran/iranint.png"
+http://new-pro.tv:8080/s3for12m127391/WydMEVkvhR/92538
 #EXTINF:-1   tvg-name="Iran International FHD" tvg-logo="http://tvlogo.xyz/iran/iranint.png"
 http://vopian.asotvgroup.com:8000/Nasser5/fS9xZ51RS1/86171
 #EXTINF:-1   tvg-name=" Iran International HD" tvg-logo="http://tvlogo.xyz/iran/iranint.png"
@@ -71,9 +74,9 @@ http://vopian.asotvgroup.com:8000/Nasser5/fS9xZ51RS1/180162
 http://vopian.asotvgroup.com:8000/Nasser5/fS9xZ51RS1/85007
 #EXTINF:-1  tvg-name="Nasim HD (Back UP)" tvg-logo="http://tvlogo.xyz/iran/nasim.png"
 http://vopian.asotvgroup.com:8000/Nasser5/fS9xZ51RS1/84922
-#EXTINF:-1  tvg-name="Varzesh TV HEVC Football Events" tvg-logo="http://tvlogo.xyz/iran/varzesh.png"
+#EXTINF:-1  tvg-name="Varzesh TV HEVC Football Events" tvg-logo="http://tvlogo.xyz/iran/nasim.png"
 http://vopian.asotvgroup.com:8000/Nasser5/fS9xZ51RS1/186143
-#EXTINF:-1  tvg-name="Varzesh TV HD Football Events (Local)" tvg-logo="http://tvlogo.xyz/iran/varzesh.png"
+#EXTINF:-1  tvg-name="Varzesh TV HD Football Events (Local)" tvg-logo="http://tvlogo.xyz/iran/nasim.png"
 http://vopian.asotvgroup.com:8000/Nasser5/fS9xZ51RS1/180165
 #EXTINF:-1  tvg-name="Varzesh TV Football Events (Local)" tvg-logo="http://tvlogo.xyz/iran/varzesh.png"
 http://vopian.asotvgroup.com:8000/Nasser5/fS9xZ51RS1/141988
