@@ -25,7 +25,7 @@ http://vopian.asotvgroup.com:8000/Nasser5/fS9xZ51RS1/84994
 http://vopian.asotvgroup.com:8000/Nasser5/fS9xZ51RS1/68298
 #EXTINF:-1   tvg-name=" Manoto TV 4K" tvg-logo="http://tvlogo.xyz/iran/manoto.png"
 http://new-pro.tv:8080/s3for12m127391/WydMEVkvhR/92536
-#EXTINF:-1   tvg-name=" Manoto TV FHD**" tvg-logo="http://tvlogo.xyz/iran/manoto.png"
+#EXTINF:-1   tvg-name=" Manoto TV FHD" tvg-logo="http://tvlogo.xyz/iran/manoto.png"
 http://new-pro.tv:8080/s3for12m127391/WydMEVkvhR/92537
 #EXTINF:-1   tvg-name=" Manoto TV FHD" tvg-logo="http://tvlogo.xyz/iran/manoto.png"
 http://vopian.asotvgroup.com:8000/Nasser5/fS9xZ51RS1/85199
@@ -115,56 +115,125 @@ http://vopian.asotvgroup.com:8000/Nasser5/fS9xZ51RS1/180012
 http://vopian.asotvgroup.com:8000/Nasser5/fS9xZ51RS1/105010
 #EXTINF:-1  tvg-name="GEM Film HD" tvg-logo="http://tvlogo.xyz/iran/gem-film.webp"
 http://vopian.asotvgroup.com:8000/Nasser5/fS9xZ51RS1/85041
+#EXTINF:-1  tvg-name="Gem Film HD" tvg-logo="http://www.vod-logo.net/photos/872ef94e368f0a63e042a5085e7e155f.jpg"
+http://new-pro.tv:8080/s3for12m127391/WydMEVkvhR/14050
 #EXTINF:-1  tvg-name="GEM Mifa HD" tvg-logo="http://tvlogo.xyz/iran/gemmufa.png"
 http://vopian.asotvgroup.com:8000/Nasser5/fS9xZ51RS1/86165
 #EXTINF:-1  tvg-name="GEM MAXX" tvg-logo="http://tvlogo.xyz/iran/gem-max.png"
 http://vopian.asotvgroup.com:8000/Nasser5/fS9xZ51RS1/85034
+#EXTINF:-1  tvg-name="Gem Maxx HD" tvg-logo="http://www.vod-logo.net/photos/a4b89d18a04483f5b1b887289e32a867.jpg"
+http://new-pro.tv:8080/s3for12m127391/WydMEVkvhR/13737
+#EXTINF:-1  tvg-name="Gem Max SD" tvg-logo="http://www.vod-logo.net/photos/a4b89d18a04483f5b1b887289e32a867.jpg" group-title="Persian Gulf",Per: Gem Max SD
+http://new-pro.tv:8080/s3for12m127391/WydMEVkvhR/66143
 #EXTINF:-1  tvg-name="GEM TV" tvg-logo="http://tvlogo.xyz/iran/gem.png"
 http://vopian.asotvgroup.com:8000/Nasser5/fS9xZ51RS1/85031
 #EXTINF:-1  tvg-name="GEM TV (back up)" tvg-logo="http://tvlogo.xyz/iran/gem.png"
 http://vopian.asotvgroup.com:8000/Nasser5/fS9xZ51RS1/159553
+#EXTINF:-1  tvg-name="Gem TV" tvg-logo="http://tvlogo.xyz/iran/gem.png"
+http://new-pro.tv:8080/s3for12m127391/WydMEVkvhR/100331
 #EXTINF:-1  tvg-name="GEM TV+" tvg-logo="http://tvlogo.xyz/iran/gem.png"
 http://vopian.asotvgroup.com:8000/Nasser5/fS9xZ51RS1/174456
+#EXTINF:-1  tvg-name="Gem TV+" tvg-logo="http://tvlogo.xyz/iran/gem.png"
+http://new-pro.tv:8080/s3for12m127391/WydMEVkvhR/34189
+#EXTINF:-1  tvg-name="Gem+ HD" tvg-logo="http://www.vod-logo.net/photos/be3101dfe69d2b82ff19c19bbf28d362.png"
+http://new-pro.tv:8080/s3for12m127391/WydMEVkvhR/66
 #EXTINF:-1  tvg-name="GEM SERIES + ( Back UP)" tvg-logo="http://tvlogo.xyz/iran/gemseries.png"
 http://vopian.asotvgroup.com:8000/Nasser5/fS9xZ51RS1/85035
 #EXTINF:-1  tvg-name="GEM SERIES +  HD" tvg-logo="http://tvlogo.xyz/iran/gemseries.png"
 http://vopian.asotvgroup.com:8000/Nasser5/fS9xZ51RS1/85036
+#EXTINF:-1  tvg-name="Gem Series+ HD" tvg-logo="http://tvlogo.xyz/iran/gemseries.png"
+http://new-pro.tv:8080/s3for12m127391/WydMEVkvhR/33942
+#EXTINF:-1  tvg-name="Gem Series SD" tvg-logo="http://tvlogo.xyz/iran/gemseries.png"
+http://new-pro.tv:8080/s3for12m127391/WydMEVkvhR/66141
 #EXTINF:-1  tvg-name="GEM SERIES HD " tvg-logo="http://tvlogo.xyz/iran/gemseries.png"
 http://vopian.asotvgroup.com:8000/Nasser5/fS9xZ51RS1/145766
 #EXTINF:-1  tvg-name="GEM SERIES ( Back UP)" tvg-logo="http://tvlogo.xyz/iran/gemseries.png"
 http://vopian.asotvgroup.com:8000/Nasser5/fS9xZ51RS1/105009
 #EXTINF:-1  tvg-name="GEM Bollywood" tvg-logo="http://tvlogo.xyz/iran/gembollywood.png"
 http://vopian.asotvgroup.com:8000/Nasser5/fS9xZ51RS1/85042
+#EXTINF:-1  tvg-name="Gem Bollywood HD" tvg-logo="http://www.vod-logo.net/photos/d23e675611070d78320d295e9b7e3dd7.png"
+http://new-pro.tv:8080/s3for12m127391/WydMEVkvhR/54
+#EXTINF:-1  tvg-name="Gem Bollywood SD" tvg-logo="http://www.vod-logo.net/photos/d23e675611070d78320d295e9b7e3dd7.png" 
+http://new-pro.tv:8080/s3for12m127391/WydMEVkvhR/66136
 #EXTINF:-1  tvg-name="GEM Kids" tvg-logo="http://tvlogo.xyz/iran/gem-kids.gif"
 http://vopian.asotvgroup.com:8000/Nasser5/fS9xZ51RS1/85039
 #EXTINF:-1  tvg-name="GEM Life" tvg-logo="http://tvlogo.xyz/iran/gemlife.png"
 http://vopian.asotvgroup.com:8000/Nasser5/fS9xZ51RS1/85037
 #EXTINF:-1  tvg-name="GEM JUNIOR" tvg-logo="http://tvlogo.xyz/iran/gumjunior.png"
 http://vopian.asotvgroup.com:8000/Nasser5/fS9xZ51RS1/85040
+#EXTINF:-1  tvg-name="Gem Junior HD" tvg-logo="http://www.vod-logo.net/photos/4357af77da1559a1b35445121cfc7f29.png"
+http://new-pro.tv:8080/s3for12m127391/WydMEVkvhR/70
 #EXTINF:-1  tvg-name="GEM Onyx" tvg-logo="http://tvlogo.xyz/iran/gemonyx.jpg"
 http://vopian.asotvgroup.com:8000/Nasser5/fS9xZ51RS1/166498
+#EXTINF:-1  tvg-name="Gem Onyx HD" tvg-logo="http://www.vod-logo.net/photos/a0a296af6bcdfd103b4365888f1f27c9.jpg"
+http://new-pro.tv:8080/s3for12m127391/WydMEVkvhR/11175
 #EXTINF:-1  tvg-name="GEM Travel" tvg-logo="http://tvlogo.xyz/iran/gemtravel.png"
 http://vopian.asotvgroup.com:8000/Nasser5/fS9xZ51RS1/85033
+#EXTINF:-1  tvg-name="Gem Travel HD" tvg-logo="http://www.vod-logo.net/photos/f73f19b356743187185076995ae4a85f.jpg"
+http://new-pro.tv:8080/s3for12m127391/WydMEVkvhR/14049
 #EXTINF:-1  tvg-name="GEM AZ" tvg-logo="http://tvlogo.xyz/iran/gemaz.png"
 http://vopian.asotvgroup.com:8000/Nasser5/fS9xZ51RS1/146635
+#EXTINF:-1  tvg-name="Gem AZ 1 HD" tvg-logo="http://www.vod-logo.net/photos/53beb3b370928ff145afb2652efa9247.png"
+http://new-pro.tv:8080/s3for12m127391/WydMEVkvhR/1283
 #EXTINF:-1  tvg-name="GEM ARABIA" tvg-logo="http://tvlogo.xyz/iran/gemar.png"
 http://vopian.asotvgroup.com:8000/Nasser5/fS9xZ51RS1/85043
+#EXTINF:-1  tvg-name="Gem Arabia HD" tvg-logo="http://tvlogo.xyz/iran/gemar.png"
+http://new-pro.tv:8080/s3for12m127391/WydMEVkvhR/69516
 #EXTINF:-1  tvg-name="GEM CLASSIC" tvg-logo="http://tvlogo.xyz/iran/GEM_CLASSIC.png"
 http://vopian.asotvgroup.com:8000/Nasser5/fS9xZ51RS1/85038
+#EXTINF:-1  tvg-name="Gem Classic HD" tvg-logo="http://www.vod-logo.net/photos/0fc94ca98db4a7840244614e2daf83d4.jpg"
+http://new-pro.tv:8080/s3for12m127391/WydMEVkvhR/1282
+#EXTINF:-1  tvg-name="Gem Classic SD" tvg-logo="http://www.vod-logo.net/photos/0fc94ca98db4a7840244614e2daf83d4.jpg"
+http://new-pro.tv:8080/s3for12m127391/WydMEVkvhR/66137
 #EXTINF:-1  tvg-name="GEM Comedy" tvg-logo="http://tvlogo.xyz/iran/gem-comedy.png"
 http://vopian.asotvgroup.com:8000/Nasser5/fS9xZ51RS1/85032
+#EXTINF:-1  tvg-name="Gem Comedy HD" tvg-logo="http://www.vod-logo.net/photos/c5e29955fc8725a368d23699dff4450e.jpg"
+http://new-pro.tv:8080/s3for12m127391/WydMEVkvhR/7576
+#EXTINF:-1  tvg-name="Gem Comedy SD" tvg-logo="http://www.vod-logo.net/photos/c5e29955fc8725a368d23699dff4450e.jpg"
+http://new-pro.tv:8080/s3for12m127391/WydMEVkvhR/66145
 #EXTINF:-1  tvg-name="GEM FIT" tvg-logo="http://tvlogo.xyz/iran/gem-fit.jpeg"
 http://vopian.asotvgroup.com:8000/Nasser5/fS9xZ51RS1/84974
+#EXTINF:-1  tvg-name="Gem Fit HD" tvg-logo="http://tvlogo.xyz/iran/gem-fit.jpeg" group-title="Persian Gulf",Per: Gem Fit HD
+http://new-pro.tv:8080/s3for12m127391/WydMEVkvhR/69517
 #EXTINF:-1  tvg-name="GEM River*" tvg-logo="http://tvlogo.xyz/iran/gemriver.png"
 http://vopian.asotvgroup.com:8000/Nasser5/fS9xZ51RS1/68258
 #EXTINF:-1  tvg-name="GEM River" tvg-logo="http://tvlogo.xyz/iran/gemriver.png"
 http://vopian.asotvgroup.com:8000/Nasser5/fS9xZ51RS1/189203
+#EXTINF:-1  tvg-name="Gem River + HD" tvg-logo="http://www.vod-logo.net/photos/f8b7de87bbf01c074a5cb8e6f80970d1.png"
+http://new-pro.tv:8080/s3for12m127391/WydMEVkvhR/55
+#EXTINF:-1  tvg-name="Gem River + SD" tvg-logo="http://www.vod-logo.net/photos/f8b7de87bbf01c074a5cb8e6f80970d1.png"
+http://new-pro.tv:8080/s3for12m127391/WydMEVkvhR/66146
 #EXTINF:-1  tvg-name="GEM FOOD" tvg-logo="http://tvlogo.xyz/iran/gemfood.png"
 http://vopian.asotvgroup.com:8000/Nasser5/fS9xZ51RS1/68324
+#EXTINF:-1  tvg-name="Gem Food HD" tvg-logo="http://www.vod-logo.net/photos/12a3e27cc4604d3b9dd5d0e7b41a29b1.jpg"
+http://new-pro.tv:8080/s3for12m127391/WydMEVkvhR/7577
 #EXTINF:-1  tvg-name="GEM RUBIX" tvg-logo="http://tvlogo.xyz/iran/gemrubix.png"
 http://vopian.asotvgroup.com:8000/Nasser5/fS9xZ51RS1/99104
+#EXTINF:-1  tvg-name="Gem Rubix+ HD" tvg-logo="http://www.vod-logo.net/photos/be25a5a9dd4a92acc335c96c04c83407.png"
+http://new-pro.tv:8080/s3for12m127391/WydMEVkvhR/33944
+#EXTINF:-1  tvg-name="Gem Rubix+ SD" tvg-logo="http://www.vod-logo.net/photos/be25a5a9dd4a92acc335c96c04c83407.png"
+http://new-pro.tv:8080/s3for12m127391/WydMEVkvhR/66147
 #EXTINF:-1  tvg-name="GEM DRAMA" tvg-logo="http://tvlogo.xyz/iran/gem-drama.png"
 http://vopian.asotvgroup.com:8000/Nasser5/fS9xZ51RS1/84986
-
+#EXTINF:-1  tvg-name="Gem Drama HD" tvg-logo="http://tvlogo.xyz/iran/gem-drama.png"
+http://new-pro.tv:8080/s3for12m127391/WydMEVkvhR/58389
+#EXTINF:-1  tvg-name="Gem Drama SD" tvg-logo="http://tvlogo.xyz/iran/gem-drama.png"
+http://new-pro.tv:8080/s3for12m127391/WydMEVkvhR/66138
+#EXTINF:-1  tvg-name="Gem Drama+ HD" tvg-logo="http://www.vod-logo.net/photos/6c1b24cfc48fb28a6d18009375e7f6e3.jpg"
+http://new-pro.tv:8080/s3for12m127391/WydMEVkvhR/9288
+#EXTINF:-1  tvg-name="Gem 24B HD" tvg-logo="https://static.casino.guru/pict/111362/Gem24-500x500_dark.png?timestamp=1622592000000&imageDataId=203477"
+http://new-pro.tv:8080/s3for12m127391/WydMEVkvhR/66134
+#EXTINF:-1  tvg-name="Gem 24B SD" tvg-logo="https://static.casino.guru/pict/111362/Gem24-500x500_dark.png?timestamp=1622592000000&imageDataId=203477"
+http://new-pro.tv:8080/s3for12m127391/WydMEVkvhR/66149
+#EXTINF:-1  tvg-name="Gem Property HD" tvg-logo="http://tvlogo.xyz/iran/gem.png"
+http://new-pro.tv:8080/s3for12m127391/WydMEVkvhR/69519
+#EXTINF:-1  tvg-name="Gem Latino TV HD" tvg-logo="http://vod-logo.net/photos/83147544e8c5e5aa7394a6f994d969b4.jpg"
+http://new-pro.tv:8080/s3for12m127391/WydMEVkvhR/1298
+#EXTINF:-1  tvg-name="Gem Nature HD" tvg-logo="http://tvlogo.xyz/iran/gem.png"
+http://new-pro.tv:8080/s3for12m127391/WydMEVkvhR/69518
+#EXTINF:-1  tvg-name="Gem Academy" tvg-logo="http://www.vod-logo.net/photos/ed4b1154578f9f3ef6373dd1d6467e21.jpg"
+http://new-pro.tv:8080/s3for12m127391/WydMEVkvhR/1163
+#EXTINF:-1  tvg-name="Gem USA SD" tvg-logo="http://tvlogo.xyz/iran/gemusa.png"
+http://new-pro.tv:8080/s3for12m127391/WydMEVkvhR/66142
 
 
