@@ -1,23 +1,11 @@
-#EXTM3U
-#EXTINF:-1   tvg-name="Iran International FHD" tvg-logo="http://tvlogo.xyz/iran/iranint.png"
-http://vopian.asotvgroup.com:8000/Nasser5/fS9xZ51RS1/86171
-#EXTINF:-1   tvg-name=" Iran International HD" tvg-logo="http://tvlogo.xyz/iran/iranint.png"
-http://vopian.asotvgroup.com:8000/Nasser5/fS9xZ51RS1/174455
-#EXTINF:-1   tvg-name=" Iran International SD" tvg-logo="http://tvlogo.xyz/iran/iranint.png"
-http://vopian.asotvgroup.com:8000/Nasser5/fS9xZ51RS1/108706
-#EXTINF:-1   tvg-name=" BBC Persian HD" tvg-logo="http://tvlogo.xyz/iran/bbcfarsi.png"
-http://vopian.asotvgroup.com:8000/Nasser5/fS9xZ51RS1/145705
-#EXTINF:-1   tvg-name=" BBC Persian SD" tvg-logo="http://tvlogo.xyz/iran/bbcfarsi.png"
-http://vopian.asotvgroup.com:8000/Nasser5/fS9xZ51RS1/88316
-#EXTINF:-1   tvg-name=" BBC Persian" tvg-logo="http://tvlogo.xyz/iran/bbcfarsi.png"
 http://vopian.asotvgroup.com:8000/Nasser5/fS9xZ51RS1/84923
 #EXTINF:-1   tvg-name=" VoA TV Persian HD" tvg-logo="http://tvlogo.xyz/iran/voapersian.png"
 http://vopian.asotvgroup.com:8000/Nasser5/fS9xZ51RS1/108702
 #EXTINF:-1   tvg-name=" VoA TV Persian" tvg-logo="http://tvlogo.xyz/iran/voapersian.png"
 http://vopian.asotvgroup.com:8000/Nasser5/fS9xZ51RS1/77438
-#EXTINF:-1 tvg-name="IRIB | IRINN (NEWS)" tvg-logo="http://tvlogo.xyz/iran/inn.png"
+#EXTINF:-1  tvg-name="IRINN (NEWS)" tvg-logo="http://tvlogo.xyz/iran/inn.png"
 http://vopian.asotvgroup.com:8000/Nasser5/fS9xZ51RS1/84994
-#EXTINF:-1 tvg-name="IRIB | IRINN HD (Back Up)" tvg-logo="http://tvlogo.xyz/iran/inn.png"
+#EXTINF:-1  tvg-name="IRINN HD (Back Up)" tvg-logo="http://tvlogo.xyz/iran/inn.png"
 http://vopian.asotvgroup.com:8000/Nasser5/fS9xZ51RS1/68298
 #EXTINF:-1   tvg-name=" Manoto TV FHD" tvg-logo="http://tvlogo.xyz/iran/manoto.png"
 http://vopian.asotvgroup.com:8000/Nasser5/fS9xZ51RS1/85199
@@ -35,4 +23,35 @@ http://vopian.asotvgroup.com:8000/Nasser5/fS9xZ51RS1/180739
 http://vopian.asotvgroup.com:8000/Nasser5/fS9xZ51RS1/170735
 #EXTINF:-1   tvg-name=" Manoto +2 HD" tvg-logo="http://tvlogo.xyz/iran/manoto.png"
 http://vopian.asotvgroup.com:8000/Nasser5/fS9xZ51RS1/180740
+#EXTINF:-1   tvg-name="TV 1 HD" tvg-logo="http://tvlogo.xyz/iran/tv1.png"
+http://vopian.asotvgroup.com:8000/Nasser5/fS9xZ51RS1/181000
+#EXTINF:-1   tvg-name="TV 1" tvg-logo="http://tvlogo.xyz/iran/tv1.png"
+http://vopian.asotvgroup.com:8000/Nasser5/fS9xZ51RS1/85000
+#EXTINF:-1   tvg-name="TV 1 (Back up)" tvg-logo="http://tvlogo.xyz/iran/tv1.png"
+http://vopian.asotvgroup.com:8000/Nasser5/fS9xZ51RS1/68294
+#EXTINF:-1   tvg-name="TV 2" tvg-logo="http://tvlogo.xyz/iran/tv2.png"
+http://vopian.asotvgroup.com:8000/Nasser5/fS9xZ51RS1/84999
+#EXTINF:-1   tvg-name="TV 2 (Back Up)" tvg-logo="http://tvlogo.xyz/iran/tv2.png"
+http://vopian.asotvgroup.com:8000/Nasser5/fS9xZ51RS1/68295
+#EXTINF:-1 tvg-id="8a5c4998f585cce1da799b336d70a5b1"  tvg-name="TV 3 HEVC Football Events" tvg-logo="http://tvlogo.xyz/iran/tv3.png"
+http://vopian.asotvgroup.com:8000/Nasser5/fS9xZ51RS1/186142
+#EXTINF:-1 tvg-id="8a5c4998f585cce1da799b336d70a5b1"  tvg-name="TV 3 FHD Football Events (Local)" tvg-logo="http://tvlogo.xyz/iran/tv3.png"
+http://vopian.asotvgroup.com:8000/Nasser5/fS9xZ51RS1/141987
+#EXTINF:-1   tvg-name="TV 3 HD Football Events (Local)" tvg-logo="http://tvlogo.xyz/iran/tv3.png"
+http://vopian.asotvgroup.com:8000/Nasser5/fS9xZ51RS1/105008
+#EXTINF:-1   tvg-name="TV 3 SD Football Events (Local)" tvg-logo="http://tvlogo.xyz/iran/tv3.png"
+http://vopian.asotvgroup.com:8000/Nasser5/fS9xZ51RS1/175170
+#EXTINF:-1   tvg-name="TV 3" tvg-logo="http://tvlogo.xyz/iran/tv3.png"
+http://vopian.asotvgroup.com:8000/Nasser5/fS9xZ51RS1/84998
+#EXTINF:-1   tvg-name="TV 3 HD" tvg-logo="http://tvlogo.xyz/iran/tv3.png"
+http://vopian.asotvgroup.com:8000/Nasser5/fS9xZ51RS1/68293
+#EXTINF:-1   tvg-name="TV 4" tvg-logo="http://tvlogo.xyz/iran/tv4.png"
+http://vopian.asotvgroup.com:8000/Nasser5/fS9xZ51RS1/84997
+#EXTINF:-1   tvg-name="IRIB TV 4 (Back Up)" tvg-logo="http://tvlogo.xyz/iran/tv4.png"
+http://vopian.asotvgroup.com:8000/Nasser5/fS9xZ51RS1/68296
+#EXTINF:-1   tvg-name="TV 5" tvg-logo="http://tvlogo.xyz/iran/tv5.png"
+http://vopian.asotvgroup.com:8000/Nasser5/fS9xZ51RS1/84996
+#EXTINF:-1   tvg-name="TV 5 HD (Back Up)" tvg-logo="http://asan.us/logo/IRIB-LOGO/IRIB_TV5.png"
+http://vopian.asotvgroup.com:8000/Nasser5/fS9xZ51RS1/68297
+
 
