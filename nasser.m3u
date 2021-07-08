@@ -59,9 +59,9 @@ http://vopian.asotvgroup.com:8000/Nasser5/fS9xZ51RS1/68294
 http://vopian.asotvgroup.com:8000/Nasser5/fS9xZ51RS1/84999
 #EXTINF:-1   tvg-name="TV 2 (Back Up)" tvg-logo="http://tvlogo.xyz/iran/tv2.png"
 http://vopian.asotvgroup.com:8000/Nasser5/fS9xZ51RS1/68295
-#EXTINF:-1 tvg-id="8a5c4998f585cce1da799b336d70a5b1"  tvg-name="TV 3 HEVC Football Events" tvg-logo="http://tvlogo.xyz/iran/tv3.png"
+#EXTINF:-1 tvg-name="TV 3 HEVC Football Events" tvg-logo="http://tvlogo.xyz/iran/tv3.png"
 http://vopian.asotvgroup.com:8000/Nasser5/fS9xZ51RS1/186142
-#EXTINF:-1 tvg-id="8a5c4998f585cce1da799b336d70a5b1"  tvg-name="TV 3 FHD Football Events (Local)" tvg-logo="http://tvlogo.xyz/iran/tv3.png"
+#EXTINF:-1 tvg-name="TV 3 FHD Football Events (Local)" tvg-logo="http://tvlogo.xyz/iran/tv3.png"
 http://vopian.asotvgroup.com:8000/Nasser5/fS9xZ51RS1/141987
 #EXTINF:-1   tvg-name="TV 3 HD Football Events (Local)" tvg-logo="http://tvlogo.xyz/iran/tv3.png"
 http://vopian.asotvgroup.com:8000/Nasser5/fS9xZ51RS1/105008
@@ -123,7 +123,7 @@ http://vopian.asotvgroup.com:8000/Nasser5/fS9xZ51RS1/86165
 http://vopian.asotvgroup.com:8000/Nasser5/fS9xZ51RS1/85034
 #EXTINF:-1  tvg-name="Gem Maxx HD" tvg-logo="http://www.vod-logo.net/photos/a4b89d18a04483f5b1b887289e32a867.jpg"
 http://new-pro.tv:8080/s3for12m127391/WydMEVkvhR/13737
-#EXTINF:-1  tvg-name="Gem Max SD" tvg-logo="http://www.vod-logo.net/photos/a4b89d18a04483f5b1b887289e32a867.jpg" group-title="Persian Gulf",Per: Gem Max SD
+#EXTINF:-1  tvg-name="Gem Max SD" tvg-logo="http://www.vod-logo.net/photos/a4b89d18a04483f5b1b887289e32a867.jpg"
 http://new-pro.tv:8080/s3for12m127391/WydMEVkvhR/66143
 #EXTINF:-1  tvg-name="GEM TV" tvg-logo="http://tvlogo.xyz/iran/gem.png"
 http://vopian.asotvgroup.com:8000/Nasser5/fS9xZ51RS1/85031
@@ -193,7 +193,7 @@ http://new-pro.tv:8080/s3for12m127391/WydMEVkvhR/7576
 http://new-pro.tv:8080/s3for12m127391/WydMEVkvhR/66145
 #EXTINF:-1  tvg-name="GEM FIT" tvg-logo="http://tvlogo.xyz/iran/gem-fit.jpeg"
 http://vopian.asotvgroup.com:8000/Nasser5/fS9xZ51RS1/84974
-#EXTINF:-1  tvg-name="Gem Fit HD" tvg-logo="http://tvlogo.xyz/iran/gem-fit.jpeg" group-title="Persian Gulf",Per: Gem Fit HD
+#EXTINF:-1  tvg-name="Gem Fit HD" tvg-logo="http://tvlogo.xyz/iran/gem-fit.jpeg"
 http://new-pro.tv:8080/s3for12m127391/WydMEVkvhR/69517
 #EXTINF:-1  tvg-name="GEM River*" tvg-logo="http://tvlogo.xyz/iran/gemriver.png"
 http://vopian.asotvgroup.com:8000/Nasser5/fS9xZ51RS1/68258
